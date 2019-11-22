@@ -16,7 +16,9 @@ description: 'Learn more about working with QR codeshttp://bit.ly/HoloLensQRCode
 
 QR codes can be used to facilitate the appearance of virtual objects, games, and animations within the real world or increase the accuracy of surface detection or anchoring an object to a surface.
 
-//TODO: add visual examples.
+![Hiro Image](../.gitbook/assets/hiro.jpg)
 
+![3D object attached to Hiro image. ](../.gitbook/assets/arjs.gif)
 
+Pointing the camera to a Hiro Image allows your device to capture the surface of the image and display a 3D object relative to the marker.
 
