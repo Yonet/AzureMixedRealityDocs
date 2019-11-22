@@ -11,6 +11,7 @@
   * [Spatial Sound](core-building-blocks/spatial-sound.md)
   * [Coordinate Systems](core-building-blocks/coordinate-systems.md)
   * [Spatial Anchors](core-building-blocks/spatial-anchors.md)
+  * [Using QR Codes](core-building-blocks/using-qr-codes.md)
 * [Getting Started with Mixed Reality on the Web](getting-started-with-mixed-reality-on-the-web/README.md)
   * [Web Mixed Reality Development Overview](getting-started-with-mixed-reality-on-the-web/web-mixed-reality-development-overview.md)
   * [How to enable Windows Mixed Reality support in Chrome](getting-started-with-mixed-reality-on-the-web/how-to-enable-windows-mixed-reality-support-in-chrome.md)
