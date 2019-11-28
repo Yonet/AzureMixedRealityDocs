@@ -1,6 +1,7 @@
 # Table of contents
 
-* [What is Mixed Reality?](README.md)
+* [Azure Mixed Reality Curriculum](README.md)
+* [What is Mixed Reality?](what-is-mixed-reality.md)
 * [Core Building Blocks](core-building-blocks/README.md)
   * [Motion Controllers](core-building-blocks/motion-controllers.md)
   * [Gestures](core-building-blocks/gestures.md)
