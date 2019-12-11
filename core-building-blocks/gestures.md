@@ -1,2 +1,2 @@
-# Gestures
+# Hand Interactions
 

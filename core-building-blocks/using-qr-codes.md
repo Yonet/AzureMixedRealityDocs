@@ -2,7 +2,7 @@
 description: 'Learn more about working with QR codeshttp://bit.ly/HoloLensQRCode'
 ---
 
-# Using QR Codes
+# Spatial Alignment with QR Codes
 
 ## What is a QR Code?
 
