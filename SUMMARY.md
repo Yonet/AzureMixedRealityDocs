@@ -24,6 +24,7 @@
   * [Scene Understanding](core-building-blocks/scene-understanding.md)
   * [Spatial Sound](core-building-blocks/spatial-sound/README.md)
     * [Project Accoustic](core-building-blocks/spatial-sound/project-accoustic.md)
+    * [Resounance](core-building-blocks/spatial-sound/resounance.md)
   * [Spatial Anchors](core-building-blocks/spatial-anchors.md)
   * [Spatial Alignment with QR Codes](core-building-blocks/using-qr-codes.md)
 * [Getting Started with Mixed Reality on the Web](getting-started-with-mixed-reality-on-the-web/README.md)
