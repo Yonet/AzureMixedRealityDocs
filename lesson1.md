@@ -74,7 +74,21 @@ You can jump directly into setting up your first project here on the[ How to get
 
 ![https://youtu.be/1O3rU4h8I80](.gitbook/assets/screenshot-142.png)
 
+### How to get started with HoloLens Seed Project?
 
+### How to create your first 3D scene with a camera, light and an object?
+
+### What is Mixed Reality Toolkit\(MRTK\)?
+
+### How to setup your Mixed Reality project with MRTK?
+
+### How to build your project for HoloLens or Windows Mixed Reality Headset?
+
+### How to deploy your app to a HoloLens?
+
+### How to build your app for Android Device?
+
+### How to deploy to an Android Device?
 
 
 
