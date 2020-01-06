@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Azure Mixed Reality Curriculum](README.md)
+* [Lesson 1](lesson1.md)
+* [Lesson 2](lesson-2.md)
 * [What is Mixed Reality?](what-is-mixed-reality.md)
 * [Core Concepts and Building Blocks](core-building-blocks/README.md)
   * [3D Scene](core-building-blocks/3d-scene.md)
