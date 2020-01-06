@@ -1,7 +1,5 @@
 ---
-description: >-
-  In this course, you will set up your first Unity3D project to build a Mixed
-  Reality experience.
+description: Introduction to Mixed Reality Developer Tools and 3D Concepts
 ---
 
 # Lesson 2
