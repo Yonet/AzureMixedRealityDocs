@@ -1,4 +1,4 @@
-# Core Concepts and Building Blocks
+# Core Building Blocks
 
 
 

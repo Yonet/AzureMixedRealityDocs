@@ -1,2 +1,2 @@
-# Depth Perception and Scene Understanding
+# Scene Understanding
 
