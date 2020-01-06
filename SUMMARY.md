@@ -24,7 +24,7 @@
   * [Coordinate Systems](core-building-blocks/coordinate-systems.md)
   * [Spatial Mapping](core-building-blocks/spatial-mapping.md)
   * [Depth Perception and Scene Understanding](core-building-blocks/scene-understanding.md)
-  * [Spatial Sound](core-building-blocks/spatial-sound.md)
+  * [Spatial Sound](core-building-blocks/spatial-sound/README.md)
     * [Project Accoustic](core-building-blocks/spatial-sound/project-accoustic.md)
     * [Resounance](core-building-blocks/spatial-sound/resounance.md)
   * [Spatial Anchors](core-building-blocks/spatial-anchors.md)
