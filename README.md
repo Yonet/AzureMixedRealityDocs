@@ -6,7 +6,12 @@ description: 'Shortlink: http://bit.ly/MixedRealityCurriculum'
 
 ## How to use this book?
 
-This book is designed as a collection of classes that starts from basic concepts and builds a project over time. Each lesson can also be used as an individual workshop. 
+This book is designed as a collection of classes that starts from basic concepts and builds a project over time. Each lesson can also be used as an individual workshop. Each class follow the below structure:
+
+* Core concepts and discussion points.
+* Project step by step walk-through.
+* What could go wrong section to discuss the common mistakes and issues.
+* Further reading resources.
 
 Each class have questions as sections and builds the part of the project related to the question. If you feel comfortable to answer a question, feel free to move on to the next level. 
 
