@@ -20,9 +20,17 @@ description: Spatial Visualization using Bing Map
 
 ### How to sign up as a developer for Bing Maps?
 
-### How to create your first map in unity and style it?
+### How to create and configure your first map in unity?
+
+### How to style your map using render settings?
+
+### What is a Map Terrain Type?
+
+![](.gitbook/assets/mapterraintype.png)
 
 ### How to add hand interactions for scaling and rotation?
+
+### How to style bounding box?
 
 ### How to add a slider for lat-long input?
 
