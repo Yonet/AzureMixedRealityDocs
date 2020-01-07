@@ -36,6 +36,30 @@ description: Spatial Visualization using Bing Map
 
 ### How to animate your map?
 
+### How to add Pins to your map?
+
+There are 2 ways to add Pins to your map. First, you can directly attach a MapPin component to your Map GameObjects which you want to attach to the MapRenderer at a specific lat-lon. When attached, the MapRenderer will take over positioning of the MapPin's Transform component.
+
+### How to add pins using tthe MapPinLayer?
+
+This approach is better suited for large data sets where clustering may be required:
+
+* Add a `MapPinLayer` component to the MapRenderer's GameObject. If clustering is enabled, check this setting on the layer and attach a prefab that has a ClusterMapPin component.
+
+![](.gitbook/assets/mappinlayerwithclustering.png)
+
+ In a script, get a reference to the `MapPinLayer` and add `MapPin` instances to the the layer's `MapPins` collection.
+
+```text
+foreach (var mapPinLocation in _maoPinLocations)
+{
+    var mapPin = Instantiate(_mapPinPrefab);
+    mapPin.Location = mapPinLocation;
+    _mapPinLayer.MapPins.Add(mapPin);
+}​
+
+```
+
 ### How to add labels to your map?
 
 ### How to customize the map texture?
