@@ -16,7 +16,9 @@ description: Spatial Visualization using Bing Map
 
 ## Project
 
-### How to include Bing Maps SDK into your project?
+### [How to include Bing Maps SDK into your project?](https://youtu.be/i2A6K2-CQ_k)
+
+![https://youtu.be/i2A6K2-CQ\_k](.gitbook/assets/mapsdk.png)
 
 ### How to sign up as a developer for Bing Maps?
 
