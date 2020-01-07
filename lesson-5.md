@@ -50,3 +50,15 @@ Larger map dimensions will require more data to be downloaded and rendered. This
 
  The `Flat` map terrain type requires the least amount of performance overhead. Both elevation and high resolution 3D models are disabled. The map terrain surface will be flat.
 
+### Can I customize the materials and shaders? 
+
+It is possible to replace the material used for either the terrain or the clipping volume wall.
+
+When doing this, it is recommended to make a copy of the base shaders, which are imported as part of the NuGet package under _lib\unity\map\Resources_. Use the copies made of these shaders as the starting point for new materials.
+
+ Importantly, the `ENABLE_ELEVATION_TEXTURE` keyword used by the shaders will need to be maintained. Certain draw calls for the terrain require an elevation texture while others do not.
+
+### Can quality settings effect the performance?
+
+It is important to note that the level of detail offset can have a large impact on performance. The trade-off being higher quality will come with a higher performance impact where the cache size will grow more quickly. Lowering the quality may be beneficial on devices that are performance constrained.
+
