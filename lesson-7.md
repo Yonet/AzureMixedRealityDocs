@@ -14,6 +14,10 @@ description: Azure Spatial Anchors(ASA) and Backend Services
 
 Using Azure Spatial Anchors allow you to share any information in specific context, time and space. Some of the use cases are having user guides of machinery, inventory information, way-finding applications, educational applications, multi-player games. Having smartphones and having access to the GPS data changed the apps we build and enabled ride sharing and location based recommendation applications. Developing with Azure Spatial Anchors will help you deliver contextual data at the right time and place and will open up new possibilities indoors.
 
+### In what platforms I can develop to use Azure Spatial Anchors?
+
+You can develop for [Android](https://docs.microsoft.com/azure/spatial-anchors/quickstarts/get-started-android?tabs=openproject-java&WT.mc_id=github-mixedrealitycurriculum-ayyonet), [iOS](https://docs.microsoft.com/azure/spatial-anchors/quickstarts/get-started-ios?tabs=openproject-swift&WT.mc_id=github-mixedrealitycurriculum-ayyonet) and [HoloLens](https://docs.microsoft.com/azure/spatial-anchors/quickstarts/get-started-hololens?WT.mc_id=github-mixedrealitycurriculum-ayyonet) devices and share experiences between all of the supported platforms.
+
 ## Project
 
 ### How to include Azure Spatial Anchors\(ASA\) SDK to your project?
