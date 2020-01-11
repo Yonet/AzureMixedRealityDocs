@@ -20,7 +20,7 @@ Azure Spatial Anchors enables developers to build apps on [HoloLens](https://doc
 
 ### What do I need to do to make sure Android, iOS and HoloLens are using the same point as my anchor?
 
-Azure Spatial Anchors SDK translate the local Spatial Anchor data into Azure Spatial Anchor format and saves it. Similarly, when a different platform asks for the same Spatial anchor data, the device will receive the anchor in platform's format. 
+[To share Azure Spatial Anchors](https://docs.microsoft.com/azure/spatial-anchors/tutorials/tutorial-share-anchors-across-devices?tabs=VS%2CAndroid&WT.mc_id=github-mixedrealitycurriculum-ayyonet), SDK translate the local Spatial Anchor data into Azure Spatial Anchor format and saves it. Similarly, when a different platform asks for the same Spatial anchor data, the device will receive the anchor in platform's format. 
 
 ## Project
 
@@ -65,4 +65,11 @@ Azure Spatial Anchors SDK translate the local Spatial Anchor data into Azure Spa
 ![Azure Spatial Anchors SDK Releases](.gitbook/assets/asa.png)
 
 
+
+### How to create a CosmosDB table to save and share the anchors between devices?
+
+* Sign in to your Azure Portal
+* Create a resource by selecting Databases &gt; Azure CosmosDB
+
+![](.gitbook/assets/create-nosql-cosmosdb.png)
 
