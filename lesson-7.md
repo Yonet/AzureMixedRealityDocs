@@ -32,12 +32,12 @@ Azure Spatial Anchors enables developers to build apps on [HoloLens](https://doc
 ### How to create an Azure Spatial Anchor resource?
 
 * Go to[ Azure Portal](%20https://portal.azure.com/?WT.mc_id=github-mixedrealitycurriculum-ayyonet).
-*  In the left navigation pane in the Azure portal, select **Create a resource**.
-*  Use the search box to search for **Spatial Anchors**.
+* In the left navigation pane in the Azure portal, select **Create a resource**.
+* Use the search box to search for **Spatial Anchors**.
 
 ![Azure Portal Search for Spatial Anchor](.gitbook/assets/portal-search.png)
 
-*  Select **Spatial Anchors**. In the dialog box, select **Create**.
+* Select **Spatial Anchors**. In the dialog box, select **Create**.
 * In the **Spatial Anchors Account** dialog box:
   * Enter a unique resource name, using regular alphanumeric characters.
   * Select the subscription that you want to attach the resource to.
@@ -66,10 +66,27 @@ Azure Spatial Anchors enables developers to build apps on [HoloLens](https://doc
 
 
 
-### How to create a CosmosDB table to save and share the anchors between devices?
+### [How to create a CosmosDB table to save and share the anchors between devices?](https://docs.microsoft.com/azure/spatial-anchors/tutorials/tutorial-use-cosmos-db-to-store-anchors?source=docs&WT.mc_id=github-mixedrealitycurriculum-ayyonet)
 
 * Sign in to your Azure Portal
 * Create a resource by selecting Databases &gt; Azure CosmosDB
 
 ![](.gitbook/assets/create-nosql-cosmosdb.png)
+
+* Select the subscription  and resource group you are using for this project.
+* Enter a unique name to identify Azure Cosmos DB account.
+* Select **"Azure Table"** as the **API**.
+* Select a geographic location to host your Azure Cosmos DB account. Use the location that's closest to your users to give them the fastest access to data.
+* You can leave the **Geo-Redundancy** and **Multi-region Writes** options at their default values \(**Disable**\) to avoid additional RU charges. You can skip the **Network** and **Tags** sections.
+*  Select **Review+Create**. After the validation is complete, select **Create** to create the account.
+
+![Create CosmosDB Account on Azure.](.gitbook/assets/azure-cosmos-db-create-new-account.png)
+
+*  It takes a few minutes to create the account. You'll see a message that states **Your deployment is underway**. Wait for the deployment to finish and then select **Go to resource**.
+
+![Azure CosmosDB account created.](.gitbook/assets/azure-cosmos-db-account-created.png)
+
+*  Copy the `Connection String` for later use.
+
+
 
