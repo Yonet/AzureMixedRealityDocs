@@ -64,6 +64,19 @@ Azure Spatial Anchors enables developers to build apps on [HoloLens](https://doc
 
 ![Azure Spatial Anchors SDK Releases](.gitbook/assets/asa.png)
 
+### How to create a Azure Spatial Anchor app and configure scene?
+
+* Start your project from [UnitySeedProject](lesson1.md#how-to-get-started-with-hololens-seed-project).
+* Work on main scene or[ create a new scene](lesson1.md#how-to-create-a-new-scene) and [configure your scene with MRTK](lesson1.md#how-to-configure-a-new-scene-with-mrtk).
+*  In the **Publishing Settings** Configuration section, check **InternetClientServer** and **SpatialPerception**.
+* Add Spatial Mapping Collider component to your camera.
+
+![Add Spatial Mapping Collider to camera.](.gitbook/assets/screenshot-158.png)
+
+### How to add ASA script to your scene?
+
+
+
 
 
 ### [How to create a CosmosDB table to save and share the anchors between devices?](https://docs.microsoft.com/azure/spatial-anchors/tutorials/tutorial-use-cosmos-db-to-store-anchors?source=docs&WT.mc_id=github-mixedrealitycurriculum-ayyonet)
@@ -78,7 +91,7 @@ Azure Spatial Anchors enables developers to build apps on [HoloLens](https://doc
 * Select **"Azure Table"** as the **API**.
 * Select a geographic location to host your Azure Cosmos DB account. Use the location that's closest to your users to give them the fastest access to data.
 * You can leave the **Geo-Redundancy** and **Multi-region Writes** options at their default values \(**Disable**\) to avoid additional RU charges. You can skip the **Network** and **Tags** sections.
-*  Select **Review+Create**. After the validation is complete, select **Create** to create the account.
+* Select **Review+Create**. After the validation is complete, select **Create** to create the account.
 
 ![Create CosmosDB Account on Azure.](.gitbook/assets/azure-cosmos-db-create-new-account.png)
 
@@ -86,7 +99,9 @@ Azure Spatial Anchors enables developers to build apps on [HoloLens](https://doc
 
 ![Azure CosmosDB account created.](.gitbook/assets/azure-cosmos-db-account-created.png)
 
-*  Copy the `Connection String` for later use.
-
-
+* Copy the `Connection String` for later use.
+* Open `SharingService\Startup.cs.`
+* Locate `#define INMEMORY_DEMO` at the top of the file and comment that line out. Save the file.
+* Open `SharingService\appsettings.json`.
+* Locate the `StorageConnectionString` property, and set the value to be the same as the `Connection String` value.
 
