@@ -134,7 +134,44 @@ public class AzureSpatialAnchorsScript : MonoBehaviour
     protected float recommendedForCreate = 0;
 ```
 
+### How to initialize a CloudSpatialAnchorSession?
 
+```csharp
+/// <summary>
+/// Initializes a new CloudSpatialAnchorSession.
+/// </summary>
+void InitializeSession()
+{
+    Debug.Log("ASA Info: Initializing a CloudSpatialAnchorSession.");
+
+    if (string.IsNullOrEmpty(SpatialAnchorsAccountId))
+    {
+        Debug.LogError("No account id set.");
+        return;
+    }
+
+    if (string.IsNullOrEmpty(SpatialAnchorsAccountKey))
+    {
+        Debug.LogError("No account key set.");
+        return;
+    }
+
+    cloudSpatialAnchorSession = new CloudSpatialAnchorSession();
+
+    cloudSpatialAnchorSession.Configuration.AccountId = SpatialAnchorsAccountId.Trim();
+    cloudSpatialAnchorSession.Configuration.AccountKey = SpatialAnchorsAccountKey.Trim();
+
+    cloudSpatialAnchorSession.LogLevel = SessionLogLevel.All;
+
+    cloudSpatialAnchorSession.Error += CloudSpatialAnchorSession_Error;
+    cloudSpatialAnchorSession.OnLogDebug += CloudSpatialAnchorSession_OnLogDebug;
+    cloudSpatialAnchorSession.SessionUpdated += CloudSpatialAnchorSession_SessionUpdated;
+
+    cloudSpatialAnchorSession.Start();
+
+    Debug.Log("ASA Info: Session was initialized.");
+}
+```
 
 
 
