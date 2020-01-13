@@ -191,6 +191,33 @@ void Update()
 
 ### How to initialize a CloudSpatialAnchorSession?
 
+* Import AzureSpacialAnchors asset into your script.
+
+```csharp
+using Microsoft.Azure.SpatialAnchors;
+```
+
+*  Add the CloudSpatialAnchorSession and CloudSpatialAnchor member variables into your `AzureSpatialAnchorsScript` class:
+
+```csharp
+/// <summary>
+/// Use the recognizer to detect air taps.
+/// </summary>
+private GestureRecognizer recognizer;
+
+protected CloudSpatialAnchorSession cloudSpatialAnchorSession;
+
+/// <summary>
+/// The CloudSpatialAnchor that we either 1) placed and are saving or 2) just located.
+/// </summary>
+protected CloudSpatialAnchor currentCloudAnchor;
+
+/// <summary>
+/// True if we are 1) creating + saving an anchor or 2) looking for an anchor.
+/// </summary>
+protected bool tapExecuted = false;
+```
+
 ```csharp
 /// <summary>
 /// Initializes a new CloudSpatialAnchorSession.
@@ -227,10 +254,6 @@ void InitializeSession()
     Debug.Log("ASA Info: Session was initialized.");
 }
 ```
-
-
-
-
 
 ### [How to create a CosmosDB table to save and share the anchors between devices?](https://docs.microsoft.com/azure/spatial-anchors/tutorials/tutorial-use-cosmos-db-to-store-anchors?source=docs&WT.mc_id=github-mixedrealitycurriculum-ayyonet)
 
