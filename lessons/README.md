@@ -10,6 +10,6 @@
 * [Lesson 8](./):  Displaying Spatial Anchors on a map.
 * [Lesson 9](./):  Working with QR codes.
 * [Lesson 10](lesson-11.md): Working with Scene Understanding.
-* [Lesson 11](lesson-10.md): Getting Started with AI.
+* [Lesson 11](./): Getting Started with AI.
 * [Lesson 12](lesson-12.md): Project Discussion and Case Studies.
 
