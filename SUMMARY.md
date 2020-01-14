@@ -11,7 +11,7 @@
   * [04 - Eye and Head Gaze](lessons/lesson-4.md)
   * [05 - Map Visualization](lessons/lesson-5.md)
   * [06 - REST APIs](lessons/lesson-6.md)
-  * [07 - Spatial Anchors](lessons/lesson-7/README.md)
+  * [07 - Spatial Anchors](lessons/lesson-7.md)
     * [Concepts](lessons/lesson-7/concepts/README.md)
       * [What is a Spatial Anchor?](lessons/lesson-7/concepts/what-is-a-spatial-anchor.md)
       * [Why use Spatial Anchors?](lessons/lesson-7/concepts/why-use-spatial-anchors.md)

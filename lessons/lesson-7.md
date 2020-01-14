@@ -6,10 +6,27 @@ description: Azure Spatial Anchors(ASA) and Backend Services
 
 ## Concepts
 
-* [What is a Spatial Anchor?](concepts/what-is-a-spatial-anchor.md)
-* [Why use Spatial Anchors? ](concepts/why-use-spatial-anchors.md)
-* [Which devices does Azure Spatial Anchors support?](concepts/which-devices-does-azure-spatial-anchors-support.md)
-* [What do I need to do to make sure Android, iOS and HoloLens are using the same point as my anchor?](concepts/what-do-i-need-to-do-to-make-sure-android-ios-and-hololens-are-using-the-same-point-as-my-anchor.md)
+### What is a Spatial Anchor?
+
+ Spatial Anchors allow you to place virtual object in a specific point in your real world. You can think of them as more accurate GPS that works indoors as well as outdoors. Spatial Anchors are available for iOS, Android mobile devices and HoloLens headsets. [Azure Spatial Anchors](https://docs.microsoft.com/azure/spatial-anchors/overview?WT.mc_id=talksAndWorkshops-github-ayyonet) gives you a way to save and share anchor points, so that you can share the virtual objects or information between multiple devices and persist them over time.
+
+![Azure Spatial Anchors allow you to display data in the right context.](../.gitbook/assets/asacontext.jpg)
+
+### Why use Spatial Anchors? 
+
+Using [Azure Spatial Anchors](https://docs.microsoft.com/azure/spatial-anchors/overview?WT.mc_id=github-mixedrealitycurriculum-ayyonet) allows you to share any information in specific context, time and space. Some of the use cases are having user guides for machinery, inventory information, [way-finding applications](https://docs.microsoft.com/azure/spatial-anchors/concepts/anchor-relationships-way-finding?WT.mc_id=github-mixedrealitycurriculum-ayyonet), educational applications, [multi-player games](https://news.microsoft.com/features/beyond-the-blocks-how-the-latest-technology-made-minecraft-earth-a-reality/?WT.mc_id=github-mixedrealitycurriculum-ayyonet). Having smartphones and having access to the GPS data changed the apps we build and enabled ride sharing and location based recommendation applications. Developing with Azure Spatial Anchors will help you deliver contextual data at the right time and place and will open up new possibilities indoors.
+
+![Minecraft Earth game.](../.gitbook/assets/minecraftearth.gif)
+
+### **Which devices does Azure Spatial Anchors support?**
+
+Azure Spatial Anchors enables developers to build apps on [HoloLens](https://docs.microsoft.com/azure/spatial-anchors/quickstarts/get-started-hololens?WT.mc_id=github-mixedrealitycurriculum-ayyonet), on[ iOS ](https://docs.microsoft.com/azure/spatial-anchors/quickstarts/get-started-ios?tabs=openproject-swift&WT.mc_id=github-mixedrealitycurriculum-ayyonet)devices with ARKit support, and on [Android](https://docs.microsoft.com/azure/spatial-anchors/quickstarts/get-started-android?tabs=openproject-java&WT.mc_id=github-mixedrealitycurriculum-ayyonet) devices with ARCore support; for iOS and Android this includes both phones and tablets. 
+
+![Azure Spatial Anchors supports sharing on iOS Android and HoloLens devices.](../.gitbook/assets/asasharing.jpg)
+
+### What do I need to do to make sure Android, iOS and HoloLens are using the same point as my anchor?
+
+[To share Azure Spatial Anchors](https://docs.microsoft.com/azure/spatial-anchors/tutorials/tutorial-share-anchors-across-devices?tabs=VS%2CAndroid&WT.mc_id=github-mixedrealitycurriculum-ayyonet), SDK translate the local Spatial Anchor data into Azure Spatial Anchor format and saves it. Similarly, when a different platform asks for the same Spatial anchor data, the device will receive the anchor in platform's format. 
 
 ## Project
 
@@ -24,7 +41,7 @@ description: Azure Spatial Anchors(ASA) and Backend Services
 * In the left navigation pane in the Azure portal, select **Create a resource**.
 * Use the search box to search for **Spatial Anchors**.
 
-![Azure Portal Search for Spatial Anchor](../../.gitbook/assets/portal-search.png)
+![Azure Portal Search for Spatial Anchor](../.gitbook/assets/portal-search.png)
 
 * Select **Spatial Anchors**. In the dialog box, select **Create**.
 * In the **Spatial Anchors Account** dialog box:
@@ -35,15 +52,15 @@ description: Azure Spatial Anchors(ASA) and Backend Services
   * Select **New** to begin creating the resource.
 *  After the resource is created, Azure Portal will show that your deployment is complete. Click **Go to resource**.
 
-![When deployment is complete, select go to resources.](../../.gitbook/assets/deployment-complete.png)
+![When deployment is complete, select go to resources.](../.gitbook/assets/deployment-complete.png)
 
 *  Then, you can view the resource properties. Copy the resource's **Account ID** value into a text editor because you'll need it later.
 
-![Copy Resource&apos;s Account ID.](../../.gitbook/assets/view-resource-properties.png)
+![Copy Resource&apos;s Account ID.](../.gitbook/assets/view-resource-properties.png)
 
 *  Under **Settings**, select **Key**. Copy the **Primary key** value into a text editor. This value is the `Account Key`. You'll need it later.
 
-![](../../.gitbook/assets/view-account-key.png)
+![](../.gitbook/assets/view-account-key.png)
 
 ### How to include Azure Spatial Anchors\(ASA\) SDK to your project?
 
@@ -51,16 +68,16 @@ description: Azure Spatial Anchors(ASA) and Backend Services
 * Scroll down to assets section and click on AzureSpatialAnchors.unitypackage to download.
 * In your Unity project select Assets &gt; Import package &gt; custom package and find the downloaded AzureSpatialAnchors.unitypackage and import all.
 
-![Azure Spatial Anchors SDK Releases](../../.gitbook/assets/asa.png)
+![Azure Spatial Anchors SDK Releases](../.gitbook/assets/asa.png)
 
 ### How to create a Azure Spatial Anchor app and configure scene?
 
-* Start your project from [UnitySeedProject](../lesson1/#how-to-get-started-with-hololens-seed-project).
-* Work on main scene or[ create a new scene](../lesson1/#how-to-create-a-new-scene) and [configure your scene with MRTK](../lesson1/#how-to-configure-a-new-scene-with-mrtk).
+* Start your project from [UnitySeedProject](lesson1/#how-to-get-started-with-hololens-seed-project).
+* Work on main scene or[ create a new scene](lesson1/#how-to-create-a-new-scene) and [configure your scene with MRTK](lesson1/#how-to-configure-a-new-scene-with-mrtk).
 *  In the **Publishing Settings** Configuration section, check **InternetClientServer** and **SpatialPerception**.
 * Add Spatial Mapping Collider component to your camera.
 
-![Add Spatial Mapping Collider to camera.](../../.gitbook/assets/screenshot-158.png)
+![Add Spatial Mapping Collider to camera.](../.gitbook/assets/screenshot-158.png)
 
 ### How to add ASA script to your scene?
 
@@ -405,14 +422,14 @@ protected virtual void CreateAndSaveSphere(Vector3 hitPoint)
 
 You can check to see the recently created anchors by navigating to the Azure Portal &gt; Spatial Anchor resource you have created for this tutorial.
 
-![](../../.gitbook/assets/screenshot-164-_li.jpg)
+![](../.gitbook/assets/screenshot-164-_li.jpg)
 
 ### [How to create a CosmosDB table to save and share the anchors between devices?](https://docs.microsoft.com/azure/spatial-anchors/tutorials/tutorial-use-cosmos-db-to-store-anchors?source=docs&WT.mc_id=github-mixedrealitycurriculum-ayyonet)
 
 * Sign in to your Azure Portal
 * Create a resource by selecting Databases &gt; Azure CosmosDB
 
-![](../../.gitbook/assets/create-nosql-cosmosdb.png)
+![](../.gitbook/assets/create-nosql-cosmosdb.png)
 
 * Select the subscription  and resource group you are using for this project.
 * Enter a unique name to identify Azure Cosmos DB account.
@@ -421,11 +438,11 @@ You can check to see the recently created anchors by navigating to the Azure Por
 * You can leave the **Geo-Redundancy** and **Multi-region Writes** options at their default values \(**Disable**\) to avoid additional RU charges. You can skip the **Network** and **Tags** sections.
 * Select **Review+Create**. After the validation is complete, select **Create** to create the account.
 
-![Create CosmosDB Account on Azure.](../../.gitbook/assets/azure-cosmos-db-create-new-account.png)
+![Create CosmosDB Account on Azure.](../.gitbook/assets/azure-cosmos-db-create-new-account.png)
 
 *  It takes a few minutes to create the account. You'll see a message that states **Your deployment is underway**. Wait for the deployment to finish and then select **Go to resource**.
 
-![Azure CosmosDB account created.](../../.gitbook/assets/azure-cosmos-db-account-created.png)
+![Azure CosmosDB account created.](../.gitbook/assets/azure-cosmos-db-account-created.png)
 
 * Copy the `Connection String` for later use.
 * Open `SharingService\Startup.cs.`

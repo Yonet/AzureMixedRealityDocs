@@ -29,7 +29,7 @@ Hope you enjoy developing your mixed reality application!
 * [Lesson 4](lessons/lesson-4.md): Eye and Head Gaze Tracking.
 * [Lesson 5](lessons/lesson-5.md): Spatial Visualization using Bing Maps.
 * [Lesson 6](lessons/lesson-6.md): Working with REST APIs.
-* [Lesson 7](lessons/lesson-7/): Azure Spatial Anchors and Backend Services.
+* [Lesson 7](lessons/lesson-7.md): Azure Spatial Anchors and Backend Services.
 * [Lesson 8](lessons/lesson-9.md): Working with QR codes.
 * [Lesson 9](lessons/lesson-8.md): Displaying Spatial Anchors on a map.
 * [Lesson 10](lessons/lesson-11.md): Getting Started with AI.
