@@ -2,7 +2,7 @@
 description: Displaying Spatial Anchors on a map.
 ---
 
-# Lesson 9
+# 09 - Spatial Anchor Visualization on Map
 
 ## Can I become who I want to be?
 

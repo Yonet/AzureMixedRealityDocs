@@ -2,5 +2,5 @@
 description: Getting Started with AI.
 ---
 
-# Lesson 10
+# 11 - AI
 

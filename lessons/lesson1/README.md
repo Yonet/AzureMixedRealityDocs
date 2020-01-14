@@ -2,7 +2,7 @@
 description: Introduction to Mixed Reality Applications and Development
 ---
 
-# Lesson 1
+# 01 - Introduction to Mixed Reality
 
 ## Concepts
 
@@ -10,19 +10,19 @@ In this lesson, you will learn about the basic concepts about Mixed Reality and 
 
 You will set up your first Mixed Reality project using Unity and Mixed Reality Tool Kit.
 
-You can jump directly into setting up your first project here on the[ How to get started with mixed reality development using Unity3D](lesson1.md#how-to-get-started-with-mixed-reality-development-using-unity) section. 
+You can jump directly into setting up your first project here on the[ How to get started with mixed reality development using Unity3D](./#how-to-get-started-with-mixed-reality-development-using-unity) section. 
 
-## [What is Mixed Reality?](what-is-mixed-reality.md) 
+## [What is Mixed Reality?](../../what-is-mixed-reality.md) 
 
 ### Why is Mixed Reality important?
 
 ### [How do I decide if I need to develop for Virtual Reality or Augmented Reality?](https://twitter.com/WindowsDocs/status/1212766878235602944)
 
-![https://twitter.com/WindowsDocs/status/1212766878235602944](.gitbook/assets/screenshot-146.png)
+![https://twitter.com/WindowsDocs/status/1212766878235602944](../../.gitbook/assets/screenshot-146.png)
 
 ### [Will mixed reality replace our phones and PCs?](https://youtu.be/eqIu7HJeWSo)
 
-![https://youtu.be/eqIu7HJeWSo](.gitbook/assets/screenshot-144.png)
+![https://youtu.be/eqIu7HJeWSo](../../.gitbook/assets/screenshot-144.png)
 
 ### What kind of applications might benefit from immersive experiences?
 
@@ -68,7 +68,7 @@ You can jump directly into setting up your first project here on the[ How to get
 
 ### [How to Get Started with Mixed Reality Development Using Unity?](https://www.youtube.com/watch?v=5Ri3mhvY1_U)
 
-![How To Get Started witHow To Get Started with Mixed Reality Development Using Unity3D](.gitbook/assets/screenshot-140.png)
+![How To Get Started witHow To Get Started with Mixed Reality Development Using Unity3D](../../.gitbook/assets/screenshot-140.png)
 
 [https://youtu.be/5Ri3mhvY1\_U](https://youtu.be/5Ri3mhvY1_U)
 
@@ -88,7 +88,7 @@ You can jump directly into setting up your first project here on the[ How to get
 
 ### [How to get started with Unity3D?](https://youtu.be/1O3rU4h8I80)
 
-![https://youtu.be/1O3rU4h8I80](.gitbook/assets/screenshot-142.png)
+![https://youtu.be/1O3rU4h8I80](../../.gitbook/assets/screenshot-142.png)
 
 ### How to get started with HoloLens Seed Project?
 
@@ -96,7 +96,7 @@ You can jump directly into setting up your first project here on the[ How to get
 
 * On the Project panel, right click and select Create &gt; Scene.
 
-![Create a new scene in Unity3D](.gitbook/assets/screenshot-156.png)
+![Create a new scene in Unity3D](../../.gitbook/assets/screenshot-156.png)
 
 * Name your scene and drag it under Scenes folder for organization purposes.
 
@@ -105,13 +105,13 @@ You can jump directly into setting up your first project here on the[ How to get
 * Create a new scene.
 * On the top bar, select **Mixed Reality Toolkit &gt; Add scene and configure**.
 
-![](.gitbook/assets/screenshot-153.png)
+![](../../.gitbook/assets/screenshot-153.png)
 
 * You might be prompted to select a configuration. You can choose the default MRTK configuration or if you are developing for an HoloLens device, you can choose the configuration for the appropriate version.
 * On your hierarchy panel, you will see **MixedRealityToolkit** and **MixedRealityPlayspace** drop downs along with your default directional light.
 * Your scene camera is grouped underneath **MixedRealityPlayspace** dropdown and setup for Augmented Reality camera with a black background to render transparent. This will allow your device to stream your camera view and display your virtual objects on top. 
 
-![](.gitbook/assets/screenshot-155.png)
+![](../../.gitbook/assets/screenshot-155.png)
 
 ### How to create your first 3D scene with a camera, light and an object?
 

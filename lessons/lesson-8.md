@@ -2,5 +2,5 @@
 description: Working with QR codes
 ---
 
-# Lesson 8
+# 08 - QR Codes
 

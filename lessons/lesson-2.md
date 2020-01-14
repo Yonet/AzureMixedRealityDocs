@@ -2,7 +2,7 @@
 description: Introduction to Mixed Reality Developer Tools and 3D Concepts
 ---
 
-# Lesson 2
+# 02 - Mixed Reality Developer Tools
 
 ## Developer Tools
 

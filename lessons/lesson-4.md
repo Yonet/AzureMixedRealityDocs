@@ -2,7 +2,7 @@
 description: Eye and Head Gaze Tracking.
 ---
 
-# Lesson 4
+# 04 - Eye and Head Gaze
 
 ## Concepts and Discussion
 

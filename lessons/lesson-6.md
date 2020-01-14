@@ -2,7 +2,7 @@
 description: Working with REST APIs
 ---
 
-# Lesson 6
+# 06 - REST APIs
 
 ## Concepts
 

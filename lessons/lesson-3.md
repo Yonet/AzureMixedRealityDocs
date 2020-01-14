@@ -2,7 +2,7 @@
 description: Working with Hand Interactions.
 ---
 
-# Lesson 3
+# 03 - Hand Interactions and Controllers
 
 ## Concepts
 
