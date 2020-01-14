@@ -218,6 +218,8 @@ protected CloudSpatialAnchor currentCloudAnchor;
 protected bool tapExecuted = false;
 ```
 
+* Initialize Session:
+
 ```csharp
 /// <summary>
 /// Initializes a new CloudSpatialAnchorSession.
@@ -252,6 +254,78 @@ void InitializeSession()
     cloudSpatialAnchorSession.Start();
 
     Debug.Log("ASA Info: Session was initialized.");
+}
+```
+
+* Add methods to handle delegate calls.
+
+```csharp
+private void CloudSpatialAnchorSession_Error(object sender, SessionErrorEventArgs args)
+{
+    Debug.LogError("ASA Error: " + args.ErrorMessage );
+}
+
+private void CloudSpatialAnchorSession_OnLogDebug(object sender, OnLogDebugEventArgs args)
+{
+    Debug.Log("ASA Log: " + args.Message);
+    System.Diagnostics.Debug.WriteLine("ASA Log: " + args.Message);
+}
+
+private void CloudSpatialAnchorSession_SessionUpdated(object sender, SessionUpdatedEventArgs args)
+{
+    Debug.Log("ASA Log: recommendedForCreate: " + args.Status.RecommendedForCreateProgress);
+    recommendedForCreate = args.Status.RecommendedForCreateProgress;
+}
+```
+
+Call the InitializeSession method inside the Start\(\) function:
+
+```csharp
+// Start is called before the first frame update
+void Start()
+{
+    recognizer = new GestureRecognizer();
+
+    recognizer.StartCapturingGestures();
+
+    recognizer.SetRecognizableGestures(GestureSettings.Tap);
+
+    recognizer.Tapped += HandleTap;
+
+    InitializeSession();
+}
+```
+
+### How to save the new CloudSpatialAnchor as a WorldAnchor on the local platform?
+
+Attach a local Azure Spatial Anchor to the sphere that we're placing in the real world.
+
+```csharp
+/// <summary>
+/// Creates a sphere at the hit point, and then saves a CloudSpatialAnchor there.
+/// </summary>
+/// <param name="hitPoint">The hit point.</param>
+protected virtual void CreateAndSaveSphere(Vector3 hitPoint)
+{
+    // Create a white sphere.
+    sphere = GameObject.Instantiate(spherePrefab, hitPoint, Quaternion.identity) as GameObject;
+    sphere.AddComponent<WorldAnchor>();
+    sphereMaterial = sphere.GetComponent<MeshRenderer>().material;
+    sphereMaterial.color = Color.white;
+    Debug.Log("ASA Info: Created a local anchor.");
+
+    // Create the CloudSpatialAnchor.
+    currentCloudAnchor = new CloudSpatialAnchor();
+
+    // Set the LocalAnchor property of the CloudSpatialAnchor to the WorldAnchor component of our white sphere.
+    WorldAnchor worldAnchor = sphere.GetComponent<WorldAnchor>();
+    if (worldAnchor == null)
+    {
+        throw new Exception("ASA Error: Couldn't get the local anchor pointer.");
+    }
+
+    // Save the CloudSpatialAnchor to the cloud.
+    currentCloudAnchor.LocalAnchor = worldAnchor.GetNativeSpatialAnchorPtr();
 }
 ```
 
