@@ -6,6 +6,16 @@ description: Introduction to Mixed Reality Developer Tools and 3D Concepts
 
 ## Developer Tools
 
+### How to simulate input interactions in Unity editor?
+
+MRTK supports in-editor input simulation. Simply run your scene by clicking Unity’s play button. Use these keys to simulate input.
+
+* Press **W, A, S, D** keys to move the **camera**.
+* Hold the **right mouse button** and move the mouse to look around.
+* To bring up the **simulated hands**, press **Space bar\(Right hand\)** or **left Shift key\(Left hand\).**
+* To keep **simulated hands** in the view, press **T** or **Y** key.
+* To **rotate simulated hands**, press **Q** or **E\(horizontal\) / R or F\(vertical\).**
+
 ### How to log for debugging purposes?
 
 ### What is a HoloLens Emulator?
