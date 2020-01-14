@@ -30,6 +30,7 @@
       * [How to build and use the ASA app for HoloLens?](lessons/lesson-7/project/how-to-build-and-use-the-asa-app-for-hololens.md)
       * [How to integrate ARCore for Android?](lessons/lesson-7/project/how-to-integrate-arcore-for-android.md)
       * [How do I know my anchors are saved on Azure resources?](lessons/lesson-7/project/how-do-i-know-my-anchors-are-saved-on-azure-resources.md)
+      * [How to create a CosmosDB table to save and share the anchors between devices?](lessons/lesson-7/project/how-to-create-a-cosmosdb-table-to-save-and-share-the-anchors-between-devices.md)
     * [Resources](lessons/lesson-7/resources.md)
   * [08 - Spatial Anchor Visualization on Map](lessons/lesson-8.md)
   * [09 - QR Codes](lessons/lesson-9.md)
