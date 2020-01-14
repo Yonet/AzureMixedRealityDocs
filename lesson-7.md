@@ -412,6 +412,12 @@ protected virtual void CreateAndSaveSphere(Vector3 hitPoint)
 }
 ```
 
+### How do I know my anchors are saved on Azure resources?
+
+You can check to see the recently created anchors by navigating to the Azure Portal &gt; Spatial Anchor resource you have created for this tutorial.
+
+![](.gitbook/assets/screenshot-164-_li.jpg)
+
 ### [How to create a CosmosDB table to save and share the anchors between devices?](https://docs.microsoft.com/azure/spatial-anchors/tutorials/tutorial-use-cosmos-db-to-store-anchors?source=docs&WT.mc_id=github-mixedrealitycurriculum-ayyonet)
 
 * Sign in to your Azure Portal
