@@ -4,11 +4,19 @@ description: Working with Hand Interactions.
 
 # Lesson 3
 
-## Why the hand interaction is important?
+## Concepts
 
-### Hand interaction is a very natural way to interact with 3D models.
+### Why the hand interaction is important?
+
+Hand interaction is a very natural way to interact with 3D models.
+
+## Project
 
 ### How to add hand interaction to your model using MRTK
+
+### How to grab and move an object?
+
+ To make an object grabbable, assign these two scripts: **ManipulationHandler.cs** and **NearInteractionGrabbable.cs**\(for direct grab with articulated hand tracking input\) ManipulationHandler supports both **near** and **far interactions**. You can grab and move an object with HoloLens 2’s articulated hand tracking input\(near\), hand ray\(far\), motion controller’s beam\(far\), HoloLens gaze cursor & air-tap\(far\).
 
 ### To get started we have to add MRTK Manipulation Handler to our 3D object
 
