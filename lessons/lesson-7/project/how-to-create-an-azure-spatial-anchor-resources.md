@@ -1,6 +1,6 @@
 # How to create an Azure Spatial Anchor resources?
 
-* Go to[ Azure Portal](%20https://portal.azure.com/?WT.mc_id=github-mixedrealitycurriculum-ayyonet).
+* Go to[ Azure Portal](%20https://portal.azure.com/?WT.mc_id=github-mixedrealitycurriculum-ayyonet):[ **portal.azure.com**](https://portal.azure.com/?WT.mc_id=github-mixedrealitycurriculum-ayyonet)**.**
 * In the left navigation pane in the Azure portal, select **Create a resource**.
 * Use the search box to search for **Spatial Anchors**.
 
