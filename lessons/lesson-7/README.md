@@ -1,8 +1,16 @@
 ---
-description: Azure Spatial Anchors(ASA) and Backend Services
+description: 'Short link: aka.ms/AzureSpatialAnchorsLesson'
 ---
 
 # 07 - Spatial Anchors
+
+## Overview
+
+In this class, we will learn about creating a Mixed Reality Application using Spatial Anchors and Mixed Reality Toolkit. 
+
+### Short link: [aka.ms/AzureSpatialAnchorsLesson](https://aka.ms/AzureSpatialAnchorsLesson)
+
+![Spatial Anchors Lesson Link](../../.gitbook/assets/spatialanchorsqr.png)
 
 ## Concepts
 
