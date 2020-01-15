@@ -7,9 +7,9 @@
 * ASA Samples Repo: [bit.ly/AzureSpatialAnchorsSamples](https://github.com/Azure/azure-spatial-anchors-samples?WT.mc_id=github-mixedrealitycurriculum-ayyonet)
 * ASA SDK Releases: [bit.ly/ASAReleases](https://github.com/Azure/azure-spatial-anchors-samples/releases?WT.mc_id=github-mixedrealitycurriculum-ayyonet)
 
-## Have you had a chance to answer the previous question?
+## Videos
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+* [Developing Mobile Augmented Reality Applications with Azure Spatial Anchors. ](https://youtu.be/CVmfP8TaqNU)
 
 
 
