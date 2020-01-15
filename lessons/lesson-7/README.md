@@ -36,7 +36,7 @@ In this class, we will learn about creating a Mixed Reality Application using Sp
 * [How do I know my anchors are saved on Azure resources?](project/how-do-i-know-my-anchors-are-saved-on-azure-resources.md)
 * [How to create a CosmosDB table to save and share the anchors between devices?](project/how-to-create-a-cosmosdb-table-to-save-and-share-the-anchors-between-devices.md)
 
-## Resources
+## [Resources](asa-resources.md)
 
 
 
