@@ -1,6 +1,6 @@
 # How to upload your local Anchor into the cloud?
 
-Add **task.run** function on **line 26** to your **CreateAndSaveAnchor** function. We will change the color of the sphere to indicate that it is saved or failed to save.
+Add **task.run** function on line 26 to your **CreateAndSaveAnchor** function.
 
 ```csharp
 /// <summary>
