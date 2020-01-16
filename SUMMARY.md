@@ -106,5 +106,6 @@
   * [Working with Digital Twins to collect spatial data](exercises/working-with-digital-twins-to-collect-spatial-data.md)
   * [Working with Azure Spatial Anchors for shared experiences](exercises/working-with-azure-spatial-anchors-for-shared-experiences.md)
 * [FAQ](faq.md)
-* [Glossary](glossary.md)
+* [Glossary](glossary/README.md)
+  * [Mixed Reality](glossary/mixed-reality.md)
 

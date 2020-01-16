@@ -2,13 +2,9 @@
 
 ## AI
 
-
-
 ## JavaScript
 
 ## Mixed Reality
-
-
 
 ## Unity
 
