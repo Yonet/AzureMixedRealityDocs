@@ -1,12 +1,12 @@
 # How to initialize a CloudSpatialAnchorSession?
 
-* Import **AzureSpacialAnchors** asset into your script.
+* Import AzureSpacialAnchors asset into your script.
 
 ```csharp
 using Microsoft.Azure.SpatialAnchors;
 ```
 
-* Add the **CloudSpatialAnchorSession** and **CloudSpatialAnchor** member variables into your `AzureSpatialAnchorsScript` class:
+*  Add the CloudSpatialAnchorSession and CloudSpatialAnchor member variables into your `AzureSpatialAnchorsScript` class:
 
 ```csharp
 /// <summary>
