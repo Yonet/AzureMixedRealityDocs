@@ -1,12 +1,12 @@
 # How to initialize a CloudSpatialAnchorSession?
 
-* Import **AzureSpacialAnchors** asset into your script.
+* Import AzureSpacialAnchors asset into your script.
 
 ```csharp
 using Microsoft.Azure.SpatialAnchors;
 ```
 
-* Add the **CloudSpatialAnchorSession** and **CloudSpatialAnchor** member variables into your `AzureSpatialAnchorsScript` class:
+*  Add the CloudSpatialAnchorSession and CloudSpatialAnchor member variables into your `AzureSpatialAnchorsScript` class:
 
 ```csharp
 /// <summary>
@@ -27,7 +27,7 @@ protected CloudSpatialAnchor currentCloudAnchor;
 protected bool tapExecuted = false;
 ```
 
-* **Initialize Session**:
+* Initialize Session:
 
 ```csharp
 /// <summary>
@@ -66,7 +66,7 @@ void InitializeSession()
 }
 ```
 
-* Add methods to handle **delegate calls**.
+* Add methods to handle delegate calls.
 
 ```csharp
 private void CloudSpatialAnchorSession_Error(object sender, SessionErrorEventArgs args)
@@ -87,7 +87,7 @@ private void CloudSpatialAnchorSession_SessionUpdated(object sender, SessionUpda
 }
 ```
 
-* Call the **InitializeSession\(\)** method inside the **Start\(\)** function:
+Call the InitializeSession method inside the Start\(\) function:
 
 ```csharp
 // Start is called before the first frame update
