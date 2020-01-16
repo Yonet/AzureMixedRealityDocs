@@ -21,7 +21,7 @@ private readonly Queue<Action> dispatchQueue = new Queue<Action>();
 private GestureRecognizer recognizer;
 ```
 
-* Next, let's add method to **add an Action to the Queue**. Add `QueueOnUpdate()` right after `Update()` :
+* Next, let's add **method** to **add an Action to the Queue**. Add `QueueOnUpdate()` right after `Update()` :
 
 ```csharp
 /// <summary>
