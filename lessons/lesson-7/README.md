@@ -8,9 +8,13 @@ description: 'Short link: aka.ms/AzureSpatialAnchorsLesson'
 
 In this class, we will learn about creating a Mixed Reality Application using Spatial Anchors and Mixed Reality Toolkit. 
 
-### Short link: [aka.ms/AzureSpatialAnchorsLesson](https://aka.ms/AzureSpatialAnchorsLesson)
+### Short link for Students: [aka.ms/AzureSpatialAnchorsLesson](https://aka.ms/AzureSpatialAnchorsLesson)
 
 ![Spatial Anchors Lesson Link](../../.gitbook/assets/spatialanchorsqr.png)
+
+### Non Student Free Sign Up: [bit.ly/AzureFreeSignUp](https://azure.microsoft.com/en-us/free/?WT.mc_id=github-mixedrealitycurriculum-ayyonet)
+
+![](../../.gitbook/assets/azurefreesignup.png)
 
 ## Concepts
 
