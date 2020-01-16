@@ -1,8 +1,8 @@
 # How to update the UI when a callback resolves?
 
-When working with Unity, all Unity APIs, for example APIs you use to do UI updates, need to happen on the main thread. In the code we'll write however, we get callbacks on other threads. We want to update UI in these callbacks, so we need a way to go from a side thread onto the main thread. To execute code on the main thread from a side thread, we'll use the [dispatcher pattern](../../../glossary/#mixed-reality).
+When working with Unity, all Unity APIs, for example APIs you use to do **UI updates**, need to happen on the **main thread**. In the code we'll write however, we get **callbacks** on other threads. We want to update UI in these callbacks, so we need a way to go from a side thread onto the main thread. To execute code on the main thread from a side thread, we'll use the [dispatcher pattern](../../../glossary/mixed-reality.md#dispatcher-pattern).
 
-* Let's add a member variable, dispatchQueue, which is a Queue of Actions. We will push Actions onto the queue, and then dequeue and run the Actions on the main thread.
+* Let's add a member variable, **dispatchQueue**, which is a **Queue of Actions**. We will push Actions onto the queue, and then **dequeue** and run the Actions on the main thread.
 
 ```csharp
 /// <summary>
@@ -21,7 +21,7 @@ private readonly Queue<Action> dispatchQueue = new Queue<Action>();
 private GestureRecognizer recognizer;
 ```
 
-* Next, let's add a way to add an Action to the Queue. Add `QueueOnUpdate()` right after `Update()` :
+* Next, let's add method to **add an Action to the Queue**. Add `QueueOnUpdate()` right after `Update()` :
 
 ```csharp
 /// <summary>
@@ -37,7 +37,7 @@ protected void QueueOnUpdate(Action updateAction)
 }
 ```
 
-* Let's now use the Update\(\) loop to check if there is an Action queued. If so, we will dequeue the action and run it.
+* Let's now use the **Update\(\)** loop to check if there is an Action queued. If so, we will dequeue the action and run it.
 
 ```csharp
 // Update is called once per frame
