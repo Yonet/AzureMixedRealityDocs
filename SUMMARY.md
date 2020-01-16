@@ -30,7 +30,6 @@
       * [How to upload your local Anchor into the cloud?](lessons/lesson-7/project/how-to-upload-your-local-anchor-into-the-cloud.md)
       * [How to build and use the ASA app for HoloLens?](lessons/lesson-7/project/how-to-build-and-use-the-asa-app-for-hololens.md)
       * [How do I know my anchors are saved on Azure resources?](lessons/lesson-7/project/how-do-i-know-my-anchors-are-saved-on-azure-resources.md)
-      * [How to integrate ARCore for Android?](lessons/lesson-7/project/how-to-integrate-arcore-for-android.md)
       * [How to create a CosmosDB table to save and share the anchors between devices?](lessons/lesson-7/project/how-to-create-a-cosmosdb-table-to-save-and-share-the-anchors-between-devices.md)
     * [What could go wrong?](lessons/lesson-7/what-could-go-wrong.md)
     * [Resources](lessons/lesson-7/asa-resources.md)
@@ -106,6 +105,6 @@
   * [Working with Digital Twins to collect spatial data](exercises/working-with-digital-twins-to-collect-spatial-data.md)
   * [Working with Azure Spatial Anchors for shared experiences](exercises/working-with-azure-spatial-anchors-for-shared-experiences.md)
 * [FAQ](faq.md)
-* [Glossary](glossary.md)
+* [Glossary](glossary/README.md)
   * [Mixed Reality](glossary/mixed-reality.md)
 

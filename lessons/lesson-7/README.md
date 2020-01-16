@@ -32,7 +32,7 @@ In this class, we will learn about creating a Mixed Reality Application using Sp
 * [How to save the new CloudSpatialAnchor as a WorldAnchor on the local platform?](project/how-to-save-the-new-cloudspatialanchor-as-a-worldanchor-on-the-local-platform.md)
 * [How to upload your local Anchor into the cloud?](project/how-to-upload-your-local-anchor-into-the-cloud.md)
 * [How to build and use the ASA app for HoloLens?](project/how-to-build-and-use-the-asa-app-for-hololens.md)
-* [How to integrate ARCore for Android?](project/how-to-integrate-arcore-for-android.md)
+* [How to integrate ARCore for Android?]()
 * [How do I know my anchors are saved on Azure resources?](project/how-do-i-know-my-anchors-are-saved-on-azure-resources.md)
 * [How to create a CosmosDB table to save and share the anchors between devices?](project/how-to-create-a-cosmosdb-table-to-save-and-share-the-anchors-between-devices.md)
 
