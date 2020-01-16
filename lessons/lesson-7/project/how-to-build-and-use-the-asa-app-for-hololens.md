@@ -1,6 +1,6 @@
 # How to build and use the ASA app for HoloLens?
 
-At this point, your **AzureSpatialAnchorsScript.cs** should look like below code snippet:
+At this point, your AzureSpatialAnchorsScript should look like below code snippet:
 
 ```csharp
 using Microsoft.Azure.SpatialAnchors;
@@ -379,5 +379,5 @@ public class AzureSpatialAnchorsScript : MonoBehaviour
 }
 ```
 
-Now you can follow the [build tutorial for HoloLens](%20https://docs.microsoft.com/windows/mixed-reality/exporting-and-building-a-unity-visual-studio-solution?WT.mc_id=github-mixedrealitycurriculum-ayyonet) and start creating anchors in your environment.
+Now you can follow the build tutorial for HoloLens and start creating anchors in your environment.
 
