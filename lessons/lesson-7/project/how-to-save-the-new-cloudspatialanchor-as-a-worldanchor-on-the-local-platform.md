@@ -1,6 +1,6 @@
 # How to save the new CloudSpatialAnchor as a WorldAnchor on the local platform?
 
-Attach a local **Azure Spatial Anchor** to the **sphere** that we're placing in the real world.
+Attach a local Azure Spatial Anchor to the sphere that we're placing in the real world.
 
 ```csharp
 /// <summary>
