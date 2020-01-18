@@ -12,7 +12,9 @@ In this class, we will learn about creating a Mixed Reality Application using Sp
 
 ![Spatial Anchors Lesson Link](../../.gitbook/assets/spatialanchorsqr.png)
 
-### 
+### Non Student Free Sign Up: [bit.ly/AzureFreeSignUp](https://azure.microsoft.com/en-us/free/?WT.mc_id=github-mixedrealitycurriculum-ayyonet)
+
+![](../../.gitbook/assets/azurefreesignup.png)
 
 ## Concepts
 
