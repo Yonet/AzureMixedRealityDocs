@@ -18,6 +18,7 @@
       * [Which devices does Azure Spatial Anchors support?](lessons/lesson-7/concepts/which-devices-does-azure-spatial-anchors-support.md)
       * [What do I need to do to make sure Android, iOS and HoloLens are using the same point as my anchor?](lessons/lesson-7/concepts/what-do-i-need-to-do-to-make-sure-android-ios-and-hololens-are-using-the-same-point-as-my-anchor.md)
       * [What is Anchor Relationships and what is it useful for?](lessons/lesson-7/concepts/what-is-anchor-relationships-and-what-is-it-useful-for.md)
+      * [What information about an environment is transmitted and stored on the ASA service?](lessons/lesson-7/concepts/what-information-about-an-environment-is-transmitted-and-stored-on-the-asa-service.md)
     * [Project](lessons/lesson-7/project/README.md)
       * [How to sign up for Azure Student Account?](lessons/lesson-7/project/how-to-sign-up-for-azure-student-account.md)
       * [How to create an Azure Spatial Anchor resources?](lessons/lesson-7/project/how-to-create-an-azure-spatial-anchor-resources.md)
