@@ -7,6 +7,7 @@
     * [Project](lessons/lesson1/project/README.md)
       * [How to Get Started with Mixed Reality Development Using Unity?](lessons/lesson1/project/how-to-get-started-with-mixed-reality-development-using-unity.md)
       * [How to get started with Unity3D Editor interface?](lessons/lesson1/project/how-to-get-started-with-unity3d-editor-interface.md)
+      * [How to enable Developer Mode in HoloLens 1?](lessons/lesson1/project/how-to-enable-developer-mode-in-hololens-1.md)
     * [Resources](lessons/lesson1/mixed-reality-resources.md)
   * [02 - Mixed Reality Developer Tools](lessons/lesson-2.md)
   * [03 - Hand Interactions and Controllers](lessons/lesson-3.md)
