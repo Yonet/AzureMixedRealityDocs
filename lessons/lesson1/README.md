@@ -14,11 +14,6 @@ You can jump directly into setting up your first project here on the [How to get
 
 ### Concepts
 
-* What is Mixed Reality? 
-* Why is Mixed Reality important?
-* [How do I decide if I need to develop for Virtual Reality or Augmented Reality?](https://twitter.com/WindowsDocs/status/1212766878235602944)[Will mixed reality replace our phones and PCs?](https://youtu.be/eqIu7HJeWSo)
-* [What kind of applications might benefit from immersive experiences?](concepts/what-kind-of-applications-might-benefit-from-immersive-experiences.md)
-
 ### Project
 
 * [How to Get Started with Mixed Reality Development Using Unity?](project/how-to-get-started-with-mixed-reality-development-using-unity.md)
