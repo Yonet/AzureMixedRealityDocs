@@ -23,3 +23,7 @@ This display all settings related to the currently selected object. You will exp
 
 This is where you manage your Project Assets. Assets are the media files used in a Project \(for example, images, 3D models and sound files\). The Project window acts like a file explorer, and can be used to explore and create folders on your computer. When the walkthrough asks you to find an Asset at a given file path, use this window.
 
+**TIP**: If your Editor layout doesn’t match the image above, use the **layout drop-down** menu at the top right of the toolbar to select **Default**.
+
+![Going back to default editor layout.](../../../.gitbook/assets/screenshot-171.png)
+
