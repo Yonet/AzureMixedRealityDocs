@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Azure Mixed Reality Curriculum](README.md)
-* [Lessons](lessons/README.md)
+* [Unity Lessons](lessons/README.md)
   * [01 - Introduction to Mixed Reality](lessons/lesson1/README.md)
     * [Concepts](lessons/lesson1/concepts.md)
     * [Project](lessons/lesson1/project/README.md)

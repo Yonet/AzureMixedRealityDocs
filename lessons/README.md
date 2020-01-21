@@ -1,4 +1,4 @@
-# Lessons
+# Unity Lessons
 
 * [Lesson 1](lesson1/):  Introduction to Mixed Reality Applications and Development.
 * [Lesson 2](lesson-2.md):  Introduction to Mixed Reality Developer Tools and 3D Concepts.
