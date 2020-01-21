@@ -22,3 +22,5 @@ Prefabs are a great way to configure and store GameObjects for re-use in your ga
 
 All copies of the Prefab template in a Scene are linked. This means that if you change the object values for the health potion Prefab, for example, each copy of that Prefab within the Scene will change to match it. However, you can also make specific instances of the GameObject different to the default Prefab settings.
 
+
+
