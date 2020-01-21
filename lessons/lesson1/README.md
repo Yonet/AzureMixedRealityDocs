@@ -12,38 +12,24 @@ In the **Project** section, you will set up your first Mixed Reality project usi
 
 You can jump directly into setting up your first project here on the [How to get started with mixed reality development using Unity3D section](project/how-to-get-started-with-mixed-reality-development-using-unity.md). 
 
-### [Concepts](concepts.md)
+* \*\*\*\*[**Concepts**](concepts.md)\*\*\*\*
+* \*\*\*\*[**Project**](project/)\*\*\*\*
+* **What could go wrong?**
+* \*\*\*\*[**Resources**](mixed-reality-resources.md)\*\*\*\*
 
-### Project
+### 
 
-* [How to Get Started with Mixed Reality Development Using Unity?](project/how-to-get-started-with-mixed-reality-development-using-unity.md)
-* [How to get started with Unity3D Editor interface?](project/how-to-get-started-with-unity3d-editor-interface.md)
-* [What are some key concepts for working with Unity?](project/what-are-some-key-concepts-for-working-with-unity.md)
-* [How to enable Developer Mode in HoloLens 1?](project/how-to-enable-developer-mode-in-hololens-1.md)
-* [How to enable Developer Mode in HoloLens 2?](project/how-to-enable-developer-mode-in-hololens-2.md)
-* [How to enable Developer Mode on an Android device?](project/how-to-enable-developer-mode-on-an-android-device.md)
+
 
 ## 
 
 ### 
 
-### What are some examples of Mixed Reality Applications?
-
 \*\*\*\*
-
-## Project
 
 ### 
 
-### How to enable Developer Mode in HoloLens 2?
-
-### How to enable Developer Mode for Android?
-
-### [How to get started with Unity3D?](https://youtu.be/1O3rU4h8I80)
-
-![https://youtu.be/1O3rU4h8I80](../../.gitbook/assets/screenshot-142.png)
-
-### How to get started with HoloLens Seed Project?
+### [How to get started with Unity3D?](https://youtu.be/1O3rU4h8I80)How to get started with HoloLens Seed Project?
 
 ### How to create a new scene?
 

@@ -11,6 +11,7 @@
       * [How to enable Developer Mode in HoloLens 1?](lessons/lesson1/project/how-to-enable-developer-mode-in-hololens-1.md)
       * [How to enable Developer Mode in HoloLens 2?](lessons/lesson1/project/how-to-enable-developer-mode-in-hololens-2.md)
       * [How to enable Developer Mode on an Android Device?](lessons/lesson1/project/how-to-enable-developer-mode-on-an-android-device.md)
+    * [What could go wrong?](lessons/lesson1/what-could-go-wrong.md)
     * [Resources](lessons/lesson1/mixed-reality-resources.md)
   * [02 - Mixed Reality Developer Tools](lessons/lesson-2.md)
   * [03 - Hand Interactions and Controllers](lessons/lesson-3.md)

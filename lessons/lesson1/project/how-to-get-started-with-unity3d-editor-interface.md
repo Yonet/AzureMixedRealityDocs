@@ -6,8 +6,7 @@ description: >-
 
 # How to get started with Unity3D Editor interface?
 
-  
-​[https://youtu.be/5Ri3mhvY1\_U](https://youtu.be/5Ri3mhvY1_U)
+![https://youtu.be/1O3rU4h8I80](../../../.gitbook/assets/screenshot-142.png)
 
 The Unity Editor has **four main sections:**
 
