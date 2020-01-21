@@ -12,23 +12,25 @@ In the **Project** section, you will set up your first Mixed Reality project usi
 
 You can jump directly into setting up your first project here on the [How to get started with mixed reality development using Unity3D section](project/how-to-get-started-with-mixed-reality-development-using-unity.md). 
 
-## Concepts
+### Concepts
 
+* What is Mixed Reality? 
+* Why is Mixed Reality important?
+* [How do I decide if I need to develop for Virtual Reality or Augmented Reality?](https://twitter.com/WindowsDocs/status/1212766878235602944)[Will mixed reality replace our phones and PCs?](https://youtu.be/eqIu7HJeWSo)
+* [What kind of applications might benefit from immersive experiences?](concepts/what-kind-of-applications-might-benefit-from-immersive-experiences.md)
 
+### Project
 
-## [What is Mixed Reality?](../../what-is-mixed-reality.md) 
+* [How to Get Started with Mixed Reality Development Using Unity?](project/how-to-get-started-with-mixed-reality-development-using-unity.md)
+* [How to get started with Unity3D Editor interface?](project/how-to-get-started-with-unity3d-editor-interface.md)
+* [What are some key concepts for working with Unity?](project/what-are-some-key-concepts-for-working-with-unity.md)
+* [How to enable Developer Mode in HoloLens 1?](project/how-to-enable-developer-mode-in-hololens-1.md)
+* [How to enable Developer Mode in HoloLens 2?](project/how-to-enable-developer-mode-in-hololens-2.md)
+* [How to enable Developer Mode on an Android device?](project/how-to-enable-developer-mode-on-an-android-device.md)
 
-### Why is Mixed Reality important?
-
-### [How do I decide if I need to develop for Virtual Reality or Augmented Reality?](https://twitter.com/WindowsDocs/status/1212766878235602944)
-
-![https://twitter.com/WindowsDocs/status/1212766878235602944](../../.gitbook/assets/screenshot-146.png)
+## 
 
 ### [Will mixed reality replace our phones and PCs?](https://youtu.be/eqIu7HJeWSo)
-
-![https://youtu.be/eqIu7HJeWSo](../../.gitbook/assets/screenshot-144.png)
-
-### What kind of applications might benefit from immersive experiences?
 
 ### What are some use cases for Mixed Reality applications?
 
