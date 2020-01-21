@@ -14,7 +14,7 @@ You can jump directly into setting up your first project here on the [How to get
 
 * \*\*\*\*[**Concepts**](concepts.md)\*\*\*\*
 * \*\*\*\*[**Project**](project/)\*\*\*\*
-* **What could go wrong?**
+* \*\*\*\*[**What could go wrong?**](what-could-go-wrong.md)\*\*\*\*
 * \*\*\*\*[**Resources**](mixed-reality-resources.md)\*\*\*\*
 
 ### 

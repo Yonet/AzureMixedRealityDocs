@@ -1,6 +1,6 @@
 # What could go wrong?
 
-## What are some of the security issues with Mixed Reality Applications?
+#### What are some of the security issues with Mixed Reality Applications?
 
 #### Why is eye scan data is sensitive information?
 
