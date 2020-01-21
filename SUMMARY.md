@@ -51,6 +51,8 @@
   * [Will mixed reality replace our phones and PCs?](what-is-mixed-reality/will-mixed-reality-replace-our-phones-and-pcs.md)
   * [How do I decide if I need to develop for Virtual Reality or Augmented Reality?](what-is-mixed-reality/how-do-i-decide-if-i-need-to-develop-for-virtual-reality-or-augmented-reality.md)
   * [What kind of applications might benefit from immersive experiences?](what-is-mixed-reality/what-kind-of-applications-might-benefit-from-immersive-experiences.md)
+  * [What are some use cases for Mixed Reality applications?](what-is-mixed-reality/what-are-some-use-cases-for-mixed-reality-applications.md)
+  * [What are some examples of Mixed Reality Applications?](what-is-mixed-reality/what-are-some-examples-of-mixed-reality-applications.md)
 * [Core Concepts and Building Blocks](core-building-blocks/README.md)
   * [3D Scene](core-building-blocks/3d-scene.md)
   * [3D Objects](core-building-blocks/3d-objects/README.md)
