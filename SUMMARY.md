@@ -45,6 +45,7 @@
   * [10 - Scene Understanding](lessons/lesson-10.md)
   * [11 - AI](lessons/lesson-11.md)
   * [12 - Case Studies](lessons/lesson-12.md)
+* [WebXR Lessons](webxr-lessons.md)
 * [What is Mixed Reality?](what-is-mixed-reality.md)
 * [Core Concepts and Building Blocks](core-building-blocks/README.md)
   * [3D Scene](core-building-blocks/3d-scene.md)
