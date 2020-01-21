@@ -8,14 +8,14 @@ description: 'Shortlink: http://bit.ly/MixedRealityCurriculum'
 
 This book is designed as a collection of classes that starts from basic concepts and builds a project over time. Each lesson can also be used as an individual workshop. Each class follow the below structure:
 
-* Core concepts and discussion points.
-* Project step by step walk-through.
-* What could go wrong section to discuss the common mistakes and issues.
-* Further reading resources.
+* **Core concepts** and discussion points.
+* **Project** step by step walk-through.
+* **What could go wrong** section to discuss the common mistakes and issues.
+* Further reading **resources**.
 
-Each class have questions as sections and builds the part of the project related to the question. If you feel comfortable to answer a question, feel free to move on to the next level. 
+Each class have **questions** as sections and builds the part of the project related to the question. If you feel comfortable to answer a question, feel free to move on to the next question or the next class. 
 
-If you have any questions, suggestions and improvement, please submit an issue here: [https://github.com/Yonet/AzureMixedRealityDocs/issues](https://github.com/Yonet/AzureMixedRealityDocs/issues).
+If you have any questions, suggestions and improvements, please [**submit an issue**](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) here: [https://github.com/Yonet/AzureMixedRealityDocs/issues](https://github.com/Yonet/AzureMixedRealityDocs/issues).
 
 Hope you enjoy developing your mixed reality application!
 
