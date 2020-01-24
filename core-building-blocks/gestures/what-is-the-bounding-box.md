@@ -10,3 +10,5 @@ Bounding is the standard interface for object manipulation in Mixed Reality. It 
 
 ![ Example of visual feedback based on proximity to a bounding box.](../../.gitbook/assets/hololens2_proximity.gif)
 
+![Scaling an object via bounding box.](../../.gitbook/assets/hololens2_boundingbox.gif)
+
