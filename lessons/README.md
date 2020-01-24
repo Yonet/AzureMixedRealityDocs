@@ -2,7 +2,7 @@
 
 * [Lesson 1](lesson1/):  Introduction to Mixed Reality Applications and Development.
 * [Lesson 2](lesson-2.md):  Introduction to Mixed Reality Developer Tools and 3D Concepts.
-* [Lesson 3](lesson-3.md):  Working with Hand Interactions and Controllers.
+* [Lesson 3](lesson-3/):  Working with Hand Interactions and Controllers.
 * [Lesson 4](lesson-4.md):  Eye and Head Gaze Tracking.
 * [Lesson 5](lesson-5.md):  Spatial Visualization using Bing Maps.
 * [Lesson 6](lesson-6.md):  Working with REST APIs.
