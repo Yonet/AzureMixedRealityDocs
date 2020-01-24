@@ -76,6 +76,7 @@
   * [Hand Interactions](core-building-blocks/gestures/README.md)
     * [What is the Bounding box?](core-building-blocks/gestures/what-is-the-bounding-box.md)
     * [What is an App Bar?](core-building-blocks/gestures/what-is-an-app-bar.md)
+  * [Solvers](core-building-blocks/solvers.md)
   * [Eye Tracking and Gaze Interactions](core-building-blocks/motion-controllers.md)
   * [Voice Input](core-building-blocks/voice-input.md)
   * [Coordinate Systems](core-building-blocks/coordinate-systems.md)
