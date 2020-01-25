@@ -5,7 +5,7 @@
 * [Lesson 3](lesson-3/):  Working with Hand Interactions and Controllers.
 * [Lesson 4](lesson-4.md):  Eye and Head Gaze Tracking.
 * [Lesson 5](lesson-5.md):  Spatial Visualization using Bing Maps.
-* [Lesson 6](lesson-6.md):  Working with REST APIs.
+* [Lesson 6](lesson-6/):  Working with REST APIs.
 * [Lesson 7](lesson-7/):  Azure Spatial Anchors and Backend Services.
 * [Lesson 8](./):  Displaying Spatial Anchors on a map.
 * [Lesson 9](./):  Working with QR codes.
