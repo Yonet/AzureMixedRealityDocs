@@ -12,3 +12,5 @@ Yes, if you build you can prevent that from happening. You can implement Authent
 
 
 
+### How can I have access to my anchor offline?
+
