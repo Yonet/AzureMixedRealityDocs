@@ -1,0 +1,3 @@
+# What is Hand Interaction
+
+Hand interaction is a very natural way to interact with 3D models. Hand interaction enables the user to use either one hand or both hands to interact with an object. The use of hands is great for new users when combined with voice, eye tracking or head gaze. There is a low learning curve to understanding how to use the interaction as there is a consistent experience across hand tracking.
