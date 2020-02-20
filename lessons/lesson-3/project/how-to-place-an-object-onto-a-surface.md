@@ -1,2 +1,2 @@
-# How to place an object onto a surface?
+# How to add hand interactions to an object?
 
