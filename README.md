@@ -26,8 +26,8 @@ Hope you enjoy developing your mixed reality application!
 * [Lesson 1](lessons/lesson1/): Introduction to Mixed Reality Applications and Development.
 * [Lesson 2](lessons/lesson-2.md): Introduction to Mixed Reality Developer Tools and 3D Concepts.
 * [Lesson 3](lessons/lesson-3/): Working with Hand Interactions.
-* [Lesson 4](lessons/lesson-4.md): Eye and Head Gaze Tracking.
-* [Lesson 5](lessons/lesson-5.md): Spatial Visualization using Bing Maps.
+* [Lesson 4](lessons/lesson-4/): Eye and Head Gaze Tracking.
+* [Lesson 5](lessons/lesson-5/): Spatial Visualization using Bing Maps.
 * [Lesson 6](lessons/lesson-6/): Working with REST APIs.
 * [Lesson 7](lessons/lesson-7/): Azure Spatial Anchors and Backend Services.
 * [Lesson 8](lessons/lesson-9.md): Working with QR codes.

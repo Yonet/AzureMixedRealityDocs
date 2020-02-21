@@ -12,13 +12,13 @@ description: Spatial Visualization using Bing Map
 
 ### What is Bing Maps SDK?
 
-![](../.gitbook/assets/weathercube.gif)
+![](../../.gitbook/assets/weathercube.gif)
 
 ## Project
 
 ### [How to include Bing Maps SDK into your project?](https://youtu.be/i2A6K2-CQ_k)
 
-![https://youtu.be/i2A6K2-CQ\_k](../.gitbook/assets/mapsdk.png)
+![https://youtu.be/i2A6K2-CQ\_k](../../.gitbook/assets/mapsdk.png)
 
 ### How to sign up as a developer for Bing Maps?
 
@@ -28,7 +28,7 @@ description: Spatial Visualization using Bing Map
 
 ### What is a Map Terrain Type?
 
-![](../.gitbook/assets/mapterraintype.png)
+![](../../.gitbook/assets/mapterraintype.png)
 
 ### How to add hand interactions for scaling and rotation?
 
@@ -48,7 +48,7 @@ This approach is better suited for large data sets where clustering may be requi
 
 * Add a `MapPinLayer` component to the MapRenderer's GameObject. If clustering is enabled, check this setting on the layer and attach a prefab that has a ClusterMapPin component.
 
-![Map Pin Layer Script](../.gitbook/assets/mappinlayerwithclustering.png)
+![Map Pin Layer Script](../../.gitbook/assets/mappinlayerwithclustering.png)
 
 * In a script, get a reference to the `MapPinLayer` and add `MapPin` instances to the the layer's `MapPins` collection.
 
