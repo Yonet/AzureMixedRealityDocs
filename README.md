@@ -1,5 +1,5 @@
 ---
-description: 'Shortlink: http://bit.ly/MixedRealityCurriculum'
+description: 'Shortlink: https://aka.ms/MixedRealityCurriculum'
 ---
 
 # Azure Mixed Reality Curriculum
