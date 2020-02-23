@@ -1,4 +1,4 @@
-# How to sign up for Azure Student Account?
+# How to sign up for Azure Account?
 
 * Go to [Azure For Students page](https://azure.microsoft.com/en-us/free/students/?WT.mc_id=github-mixedrealitycurriculum-ayyonet): [**bit.ly/AzureStudentCredit**](http://bit.ly/AzureStudentCredit) ****or scan the below QR code.
 

@@ -83,7 +83,7 @@
       * [What is Anchor Relationships and what is it useful for?](lessons/lesson-7/concepts/what-is-anchor-relationships-and-what-is-it-useful-for.md)
       * [What information about an environment is transmitted and stored on the ASA service?](lessons/lesson-7/concepts/what-information-about-an-environment-is-transmitted-and-stored-on-the-asa-service.md)
     * [Project](lessons/lesson-7/project/README.md)
-      * [How to sign up for Azure Student Account?](lessons/lesson-7/project/how-to-sign-up-for-azure-student-account.md)
+      * [How to sign up for Azure Account?](lessons/lesson-7/project/how-to-sign-up-for-azure-student-account.md)
       * [How to create an Azure Spatial Anchor resources?](lessons/lesson-7/project/how-to-create-an-azure-spatial-anchor-resources.md)
       * [How to include Azure Spatial Anchors\(ASA\) SDK to your project?](lessons/lesson-7/project/how-to-include-azure-spatial-anchors-asa-sdk-to-your-project.md)
       * [How to create an Azure Spatial Anchor app and configure a scene?](lessons/lesson-7/project/how-to-create-an-azure-spatial-anchor-app-and-configure-a-scene.md)
