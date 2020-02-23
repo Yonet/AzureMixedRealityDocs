@@ -7,4 +7,4 @@ To provide transparency, below is an image of an environment and the derived spa
 ![An environment and its derived sparse point cloud.](../../../.gitbook/assets/asapointcloud.png)
 
 
-
+[![Alt text](https://img.youtube.com/vi/uwPjlqs8DqE/0.jpg)](https://www.youtube.com/watch?v=uwPjlqs8DqE)
