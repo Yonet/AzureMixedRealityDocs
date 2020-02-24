@@ -1,6 +1,6 @@
 # How to run the MRTK Hand Interaction examples in Unity Editor
 
-![MRTK Hand Interaction Examples](.Images\how_to_run_the_mrtk_hand_interaction_examples_in_unity_editor\mrtk_hand_interaction_examples.png)
+![MRTK Hand Interaction Examples](../../../.gitbook/assets/how_to_run_the_mrtk_hand_interaction_examples_in_unity_editor/mrtk_hand_interaction_examples.png)
 
 The **HandInteractionExamples.unity** example scene contains various types of interactions and UI controls that highlight articulated hand input.
 
@@ -8,7 +8,7 @@ To try the hand interaction scene, first open the **HandInteractionExamples** sc
 
 This example scene uses TextMesh Pro. If you receive a prompt asking you to import **TMP Essentials**, select the **Import TMP Essentials** button. Some of the MRTK examples use TMP Essentials for improved text rendering. After you select **Import TMP Essentials**, Unity will then import the package.
 
-![Import TMP Essentials](.Images\how_to_run_the_mrtk_hand_interaction_examples_in_unity_editor\MRTK_GettingStarted_TMPro.png)
+![Import TMP Essentials](../../../.gitbook/assets/how_to_run_the_mrtk_hand_interaction_examples_in_unity_editor/MRTK_GettingStarted_TMPro.png)
 
 After Unity completes the import, close the TMP Importer window and reload the scene. You can reload the scene by double-clicking the scene in the Project window.
 
