@@ -6,7 +6,7 @@ Mixed reality is the result of blending the physical world with the digital worl
 
 Since mixed reality blends both physical and digital worlds, these two realities define the polar ends of a spectrum known as the virtuality continuum. For simplicity, we refer to this as the mixed reality spectrum. On the left-hand side we have physical reality in which we, humans, exist; on the right-hand side we have the corresponding digital reality.
 
-[insert picture]
+![Mixed Reality Spectrum](../../../.gitbook/assets/mr-spectrum.png)
 
 **Augmented vs. Virtual Reality**
 
