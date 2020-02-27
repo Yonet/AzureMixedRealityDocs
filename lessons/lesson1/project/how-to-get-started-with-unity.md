@@ -12,8 +12,6 @@ In addition to tutorials on Unity Learn, Unity provides a [manual](https://docs.
 
 The [Unity Hub](https://docs.unity3d.com/Manual/GettingStartedUnityHub.html) is a management tool that you can use to manage all of your Unity Projects and installations. Unity Hub is great for managing multiple installations of the Unity Editor along with their associated components, creating new Projects, and opening existing Projects. Before you install Unity Hub, ensure that your pc meets the [system requirements](https://docs.unity3d.com/Manual/system-requirements.html) for Unity.
 
-[insert image]
-
 On the [Download Unity](https://unity3d.com/get-unity/download) page, select **Download Unity Hub** to download the application and begin the installation process.
 
 To install and use the Unity Editor, you must have a Unity Developer Network (UDN) account. If you already have an account, sign in, choose your licenses type, and proceed to the Installing the Unity Editor section.
@@ -37,11 +35,9 @@ To complete this lesson, you will need to install a Unity version appropriate fo
 
 If you are developing for a HoloLens 1, you will need to access version 2018.4 LTS via the [Long Term Support Releases](https://unity3d.com/unity/qa/lts-releases). Select **Unity Hub** next to the latest Unity 2018.4 Expand **LTS Release 2018.4.17f1** and select **Download (Win)** under **Unity Editor Download Assistant**.
 
-[insert picture]
+![Download Unity LTS Release 2018.4.17f1](../../../.gitbook/assets/unity_v2018.png)  
 
 The installation wizard will walk you through the steps to install this version of Unity. During installation, you will be prompted to select workloads to install. Select **Universal Windows Platform Build Support**. This platform is only available for use if you're using Unity on a Windows computer.
-
-[insert picture]
 
 You could later add this version of Unity to the Unity Hub by using the **Installs** section and **Locate** the download.
 
@@ -49,30 +45,26 @@ You could later add this version of Unity to the Unity Hub by using the **Instal
 
 Navigate to the **Installs** tab and click **Add**.
 
-[insert picture]
+![Unity Installs](../../../.gitbook/assets/unity_installs_add.png)
 
 **Select a version of Unity**, select the latest Unity version that starts with **2019.2** and click **Next**.
 
-[insert picture]
+![Select Unity Version 2019.2](../../../.gitbook/assets/select_unity_version.png)
 
 For **Add modules to your install**, you have the opportunity to select additional components to install with Unity. Under the **Platforms** section, select **Universal Windows Platform Build Support**. This platform is only available for use if you're using Unity on a Windows computer.
 
-[insert picture]
+![Select Unity Modules](../../../.gitbook/assets/unity_modules.png)
 
 **Documentation** is already pre-selected and can remain selected. This provides offline documentation which can be accessed in the Unity Editor via **Help** > **Scripting Reference** *or* **Help** > **Unity Manual**. The installed documentation could also be accessed on your computer by navigating to **C:\Program Files\Unity\Hub\Editor\SELECT A UNITY VERSION\Editor\Data\Documentation**).
 
 After you've selected the necessary modules, select **Done** to begin installation.
 
-[insert picture]
-
 ## Create a New Unity 3D Project
 
 Now that Unity is installed, you can create a new project using that version. In the Unity Hub, navigate to the **Projects** tab and click **New**. If you have multiple versions of Unity installed, click the drop down arrow next to **New** and select a version that is 2019.2.X.
 
-[insert picture]
-
 Enter a **Project Name** for your project and select a **Location** to save the project. When working on Windows, there is a MAX_PATH limit of 255 characters. Unity is affected by these limits and may fail to compile if any file path is longer than 255 characters. Consequently, it is strongly recommended to store your Unity project as close to the root of the drive as possible.
 
-[insert picture]
+![Create new Unity project](../../../.gitbook/assets/create_project.png)
 
 Click **Create** to create the project. Once the project has been created, the Unity Editor will launch.
