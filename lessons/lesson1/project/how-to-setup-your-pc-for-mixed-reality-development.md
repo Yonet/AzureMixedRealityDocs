@@ -6,7 +6,7 @@ For the best experience with Windows Mixed Reality you want to start with a new 
 
 To see if your PC can run Windows Mixed Reality run the [Mixed Reality Portal App](https://www.microsoft.com/store/apps/9NG1H8B3ZC7M).
 
-[insert image]
+![Mixed Reality Portal App](../../../.gitbook/assets/mr_portal_app_main.png)
 
 After running the app, you will receive an analysis of your PC against the required hardware, drivers, and operating system. One of the following messages will display at the top of the analysis: 
 
@@ -16,13 +16,13 @@ After running the app, you will receive an analysis of your PC against the requi
 
 Below the message, an evaluation is provided for your PC's hardware, drivers and operating system.
 
-[insert picture]
+![Mixed Reality Portal App Results](../../../.gitbook/assets/mr_portal_app.png)
 
 |Icon  |Description  |
 |---------|---------|
-|[insert image]     |   Your PC passes the required item.      |
-|[insert image]     |   There may be issues with your PC for the given requirement. If you encounter issues, you may need to troubleshoot or upgrade your PC.     |
-|[insert image]     |    Your PC does not meet the requirements for the specified item.     |
+|![Pass](../../../.gitbook/assets/check_mark.png)     |   Your PC passes the required item.      |
+|![Issues](../../../.gitbook/assets/issues.png)     |   There may be issues with your PC for the given requirement. If you encounter issues, you may need to troubleshoot or upgrade your PC.     |
+|![Fail](../../../.gitbook/assets/doesnt_meet_requirements.png)     |    Your PC does not meet the requirements for the specified item.     |
 
 ## Windows Mixed Reality PC Compatibility Guidelines
 
