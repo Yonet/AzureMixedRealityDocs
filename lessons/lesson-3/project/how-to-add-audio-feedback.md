@@ -14,9 +14,9 @@ To add audio feedback, first add an **Audio Source** component to the object. Th
 
 Once the Audio Source component has been added to the object, in the Inspector window, change the **Spatial Blend** property to **1** to enable spatial audio.
 
-Next, with the object still selected, click **Add Component** and search for the **Near Interaction Touchable (Script)**. Once found, select the component to add to the object. Near interactions come in the form of touches and grabs - which is an interaction that occurs when the user is within close proximity to an object and uses hand interaction.
-
 ![Enable Spatial Blend](../../../.gitbook/assets/how_to_add_audio_feedback/spatial_blend.PNG)
+
+Next, with the object still selected, click **Add Component** and search for the **Near Interaction Touchable (Script)**. Once found, select the component to add to the object. Near interactions come in the form of touches and grabs - which is an interaction that occurs when the user is within close proximity to an object and uses hand interaction.
 
 After the **Near Interaction Touchable (Script)** is added to the object, click the **Fix Bounds** and **Fix Center** buttons. This will update the **Local Center** and **Bounds** properties of the **Near Interaction Touchable (Script)** to match the BoxCollider.
 
