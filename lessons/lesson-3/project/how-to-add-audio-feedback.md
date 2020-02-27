@@ -38,7 +38,7 @@ Drag the object to receive the event and define **AudioSource.PlayOneShot** as t
 
 Next, assign an audio clip to the trigger. You can find audio clips provided by MRTK by navigating to Assets > MixedRealityToolkit.SDK > StandardAssets > Audio. Once you've found a suitable audio clip, assign the audio clip to the **Audio Clip** field.
 
-[insert picture]
+![Add Audio Clip](../../../.gitbook/assets/how_to_add_audio_feedback/add_audio_clip.PNG)
 
 You can now test the touch interaction using the in-editor simulation. Press the **Play** button to enter Game mode. Once in Game mode, hold the spacebar to bring up the hand and use the mouse to touch the object and trigger the sound effect.
 
