@@ -2,13 +2,13 @@
 
 One of the advantages of developing apps for Windows Mixed Reality is that there is a spectrum of experiences that the platform can support.
 
-[insert picture of spectrum]
+![Mixed Reality Spectrum](../../../.gitbook/assets/mr-spectrum.png)
 
 ## Physical Reality
 
 One of the most powerful ways that mixed reality can bring value to users is by placing digital information or content in a user’s current environment or physical reality. This approach is popular for apps where the placement of digital content in the real world is important and/or keeping the user’s real world environment “present” during their experience is key. This approach also allows users to easily move from real world tasks to digital tasks and back easily which encourages the user to feel that the mixed reality apps are truly part of their environment.
 
-[insert picture]
+![Physical Reality](../../../.gitbook/assets/physical_reality.jpg)[insert picture]
 
 **Examples:**
 
@@ -27,7 +27,7 @@ Given Windows Mixed Reality’s ability to recognize and map the user's environm
 
 Fully mixed reality apps may only care enough about the environment to best use its makeup for encouraging specific user behavior (like encouraging movement or exploration) or by replacing elements with changes (a kitchen counter is virtually skinned to show a different tile pattern). This type of experience may even transform an element into an entirely different object, but still retain the rough dimensions of the object as its base (a kitchen island is transformed into a dumpster for a crime thriller game).
 
-[insert picture]
+![HoloLens 2](../../../.gitbook/assets/fully_mr.jpg)
 
 **Examples:**
 
@@ -42,7 +42,7 @@ Fully mixed reality apps may only care enough about the environment to best use 
 
 Digital reality apps are centered around an environment that completely changes the user’s world and can place them in a different time and space. These environments can feel very real, creating immersive and thrilling experiences that are only limited by the app creator’s imagination. Once Windows Mixed Reality identifies the user’s space, the user is immersed in a completely digital environment, unaware of what occurs in the physical environment around them. These experiences may also completely separate time and space, meaning a user could walk the streets of Rome in an immersive experience, while remaining relatively still in their real world space. Context of the real world environment may not be important.
 
-[insert picture]
+![HoloLens 2](../../../.gitbook/assets/digital_reality.jpg)
 
 **Examples:**
 
