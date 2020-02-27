@@ -43,7 +43,7 @@ For this lesson, download the latest version of the **Microsoft.MixedRealityTool
 
 Create a new 3D Unity project via the Unity Hub. Be sure to save the project at a location as close to the root of the drive as possible to avoid build errors for your mixed reality application.
 
-[insert picture]
+![Create a new Unity project](../../../.gitbook/assets/create_project.png)
 
 ### Configure Unity Project for Windows Mixed Reality
 
@@ -51,13 +51,9 @@ Configuring your Unity project for Windows Mixed Reality slightly differs depend
 
 **Switch Build Platform (all devices)**
 
-In the Unity menu, select **File** > **Build Settings...** to open the Build Settings window.
+In the Unity menu, select **File** > **Build Settings...** to open the Build Settings window. In the Build Settings window, select **Universal Windows Platform** and click the **Switch Platform** button. Unity will begin the process to switch the platform.
 
-[insert image]
-
-In the Build Settings window, select **Universal Windows Platform** and click the **Switch Platform** button. Unity will begin the process to switch the platform.
-
-[insert image]
+![Switch Platform](../../../.gitbook/assets/switch_platform.png)
 
 When Unity has finished switching the platform, close the Build Settings window.
 
@@ -65,15 +61,13 @@ When Unity has finished switching the platform, close the Build Settings window.
 
 Enabling virtual reality applies to mixed reality and augmented reality headsets because it refers to enabling stereoscopic vision, i.e. rendering different images for each eye. In the Unity menu, select **Edit** > **Project Settings...** to open the Project Settings window.
 
-[insert picture]
-
 In the Project Settings window, select **Player** > **XR Settings** to expand the XR Settings.
 
-[insert picture]
+![XR Settings](../../../.gitbook/assets/xr_settings.png)
 
 In the XR Settings, check the **Virtual Reality Supported** checkbox to enable virtual reality. Next, click the **+** icon and select **Windows Mixed Reality** to add the Windows Mixed Reality SDK. Unity will begin the process to add the SDK.
 
-[insert picture]
+![Add Windows Mixed Reality SDK](../../../.gitbook/assets/add_wmrsdk.png)
 
 When Unity has finished adding the SDK, optimize the XR Settings as follows:
 
@@ -81,19 +75,19 @@ When Unity has finished adding the SDK, optimize the XR Settings as follows:
 - Check the Windows Mixed Reality **Enable Depth Sharing** checkbox
 - Set Stereo **Rendering Mode** to **Single Pass Instanced**.
 
-[insert picture]
+![Add Windows Mixed Reality SDK](../../../.gitbook/assets/wmrsdk_settings.png)
 
 To learn about optimizing Unity for Windows Mixed Reality, you can refer to  [Recommended settings for Unity](https://docs.microsoft.com/en-us/windows/mixed-reality/recommended-settings-for-unity).
 
-**Enable Spatial Perception (HoloLens 2 only**
+**Enable Spatial Perception (HoloLens 2 only)**
 
 Spatial perception allows visualization of the spatial mapping mesh on Windows Mixed Reality devices. In the Project Settings window, select **Player** > **Publishing Settings** to expand the Publishing Settings.
 
-[insert picture]
+![Publishing Settings](../../../.gitbook/assets/publishing_settings.png)
 
 In the Publishing Settings, scroll down to the **Capabilities** section and check the **SpatialPerception** checkbox.
 
-[insert picture]
+![Spatial Perception](../../../.gitbook/assets/spatial_perception.png)
 
 Close the Project Settings window.
 
@@ -103,7 +97,7 @@ Since maintaining high framerate on HoloLens (first gen) is so important, we wan
 
 Still inside the **Project Settings** window, select **Quality**. Next, select the dropdown under the **Windows Store** logo and select **Very Low**. You'll know the setting is applied correctly when the box in the Windows Store column and the **Very Low** row is green.
 
-[insert picture]
+![Spatial Perception](../../../.gitbook/assets/quality_very_low.png)
 
 Close the Project Settings window.
 
@@ -115,25 +109,25 @@ The TextMesh Pro package also includes additional resources that will make disco
 
 In the Unity menu, select **Window** > **TextMeshPro** > **Import TMP Essential Resources**.
 
-[insert picture]
+![Import TMP Essential Resources](../../../.gitbook/assets/tmp.png)
 
 In the Import Unity Package window, click the **All** button to ensure all the assets are selected, then click the **Import** button to import the assets.
 
-[insert picture]
+![Import TMP Essential Resources](../../../.gitbook/assets/import_tmp.png)
 
 ### Import MRTK Unity Package(s)
 
 Custom packages can be imported into a Unity project via a custom package import. The **Microsoft.MixedReality.Toolkit.Unity.Foundation.2.3.0.unitypackage** package is required to use MRTK within your Unity project. To import the package into your project, select **Assets** > **Import Package** > **Custom Package** in the Unity menu.
 
-[insert picture]
+![Import Custom Package](../../../.gitbook/assets/import_custom_package.png)
 
 In the **Import package...** window, select the **Microsoft.MixedReality.Toolkit.Unity.Foundation.2.2.0.unitypackage** you downloaded and click the **Open** button.
 
-[insert picture]
+![Select Package](../../../.gitbook/assets/select_package.png)
 
 In the Import Unity Package window, click the **All** button to ensure all the assets are selected, then click the **Import** button to import the assets.
 
-[insert picture]
+![Import Unity Foundation Package](../../../.gitbook/assets/unity_foundation_import.png)
 
 You can repeat the same steps above to import the additional optional MRTK Unity packages. For this lesson, only the **Microsoft.MixedReality.Toolkit.Unity.Foundation.2.2.0.unitypackage** is required.
 
@@ -141,23 +135,23 @@ You can repeat the same steps above to import the additional optional MRTK Unity
 
 After the required MRTK package has been imported, the **MRTK Project Configurator** window should appear. If it does not, open it by selecting **Mixed Reality Toolkit** > **Utilities** > **Configure Unity Project** in the Unity menu.
 
-[insert picture]
+![Configure Unity Project](../../../.gitbook/assets/configure_unity_project.png)
 
 In the MRTK Project Configurator window, expand the **Modify Configurations** section. Uncheck the **Enable MSBuild for Unity** checkbox. MSBuild for Unity may not support all SDKs you will be using and can be challenging to disable after it has been enabled. Consequently, it is strongly recommended to not enable MSBuild for Unity.
 
 Next, ensure all other options are checked, and click the **Apply** button to apply the settings.
 
-[insert picture]
+![Apply Settings](../../../.gitbook/assets/apply_settings.png)
 
 ### Configure the Mixed Reality Toolkit
 
 To use MRTK in your current scene, select **Mixed Reality Toolkit** > **Add to Scene and Configure...** in the Unity menu.
 
-[insert picture]
+![Add MRTK to scene](../../../.gitbook/assets/add_mrtk_to_scene.png)
 
 Two new objects are added to the Hierarchy: **MixedRealityToolkit** and **MixedRealityPlayspace**. 
 
-[insert picture]
+![MRTK Objects](../../../.gitbook/assets/mrtk_objects.png)
 
 One of the main ways that the MRTK is configured is through the many profiles available in the foundation package. The main MixedRealityToolkit object in a scene will have the active profile, which is essentially a ScriptableObject. The top level MRTK Configuration Profile contains sub-profile data for each core of the primary core systems, each of which are designed to configure the behavior of their corresponding sub-systems. Furthermore, these sub-profiles are also Scriptable Objects and thus can contain references to other profile objects one level below them. There is essentially an entire tree of connected profiles that make up the configuration information for how to initialize the MRTK sub-systems and features.
 
@@ -183,9 +177,9 @@ Camera profile settings are set to match so that the editor quality and player q
 
 Given your chosen device, in the Hierarchy window, select the **MixedRealityToolkit** object. In the Inspector window, change the Mixed Reality Toolkit configuration profile to the appropriate profile configuration.
 
-### Build Mixed Reality Application 
+### Build Mixed Reality Application
 
-Before you can deploy your mixed reality application to a device, you need to first build the application. Earlier, you switched your build platform to **Universal Windows Platform (UWP)**. This is the platform that you will use to build your application. 
+Before you can deploy your mixed reality application to a device, you need to first build the application. Earlier, you switched your build platform to **Universal Windows Platform (UWP)**. This is the platform that you will use to build your application.
 
 The main workflow when building an application for UWP using Unity is as follows:
 
@@ -197,17 +191,17 @@ First, in the Unity menu, select **File** > **Build Settings...** to open the **
 
 In the Build Settings window, click the **Add Open Scenes** button to add your current scene to the **Scenes In Build** list.
 
-[insert picture]
+![Add Open Scenes](../../../.gitbook/assets/add_open_scenes.png)
 
 Next, click the **Build** button to open the **Build Universal Windows Platform** window. In the Build Universal Windows Platform window, create a **Builds** folder inside your project folder to organize all of your builds into a single location. Inside the **Builds** folder, create a new folder for the build. After you've created a new folder for the build, click the **Select Folder** button to start the build process. This process may take a few minutes to complete.
 
-[insert picture]
+![Select Build Folder](../../../.gitbook/assets/select_build_folder.png)
 
 ### Deploy Mixed Reality Application to Device
 
 When the build process is completed, Unity will prompt Windows File Explorer to open the location you stored the build. Navigate inside the folder, and double-click the solution file (.sln) to open it in Visual Studio.
 
-[insert picture]
+![.SLN File](../../../.gitbook/assets/sln_file.png)
 
 If Visual Studio asks you to install new components, take a moment to ensure that all prerequisite components are installed as specified in the [Install the Tools](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools) documentation.
 
@@ -217,15 +211,15 @@ Using the top toolbar in Visual Studio, configure Visual Studio for your device 
 |---------|---------|---------|---------|
 |HoloLens (first gen)     |    Release     |     X86    |     Device    |
 |HoloLens 2     |  Master or Release      |    ARM     |     Device    |
-|Android     |         |         |         |
+|Android     |    ?     |    ?     |    ?     |
 
-[insert picture]
+![Visual Studio Settings](../../../.gitbook/assets/vs_settings.png)
 
 After you've configured Visual Studio for your device, connect your device to the computer. As a reminder, before building to your device, the device must be in **Developer Mode** and paired with your development computer.
 
 Finally, in the top toolbar in Visual Studio, select **Debug** > **Start Without Debugging** to build and deploy to your device. Selecting **Start Without Debugging** causes the application to immediately start on your device upon a successful build, but without the debugger attached and information appearing in Visual Studio. This also means that you can disconnect your USB cable while your application is running on your device without stopping the application.
 
-[insert picture]
+![Start Without Debugging](../../../.gitbook/assets/start_without_debugging.png)
 
 To deploy to your device without having the application start automatically, you can select **Build** > **Deploy Solution**.
 
