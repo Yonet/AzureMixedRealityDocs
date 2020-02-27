@@ -18,5 +18,3 @@ You can move an object using one or two hands. This setting is dependent on the 
 Select the preferred **Manipulation Type** so that the user is restricted to use one of the available manipulation types.
 
 ![Manipulation Type](../../../.gitbook/assets/how_to_grab_and_move_an_object/manipulation_type.PNG)
-
-note: is there a way to limit just to moving and not move scale or move rotate?
