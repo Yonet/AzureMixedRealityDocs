@@ -1,7 +1,5 @@
 # How to Style Bounding Box
 
-![MRTK Bounding Box](../../../.gitbook/assets/how_to_style_bounding_box/mrtk_bounding_box.PNG)
-
 Bounding boxes make it easier and more intuitive to manipulate objects with one hand for both near and far interaction by providing handles that can be used for scaling and rotating. A bounding box will show a cube around the hologram to indicate that it can be interacted with. The bounding box also reacts to user input.
 
 You can add a bounding box to an object by adding the BoundingBox.cs script as a component of the object.
