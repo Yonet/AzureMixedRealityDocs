@@ -8,7 +8,7 @@ There are two main types of devices that deliver Windows Mixed Reality experienc
 
 |Characteristic  |Holographic Devices  |Immersive Devices  |
 |---------|---------|---------|
-|**Example Device**     |    Microsoft HoloLens 2 </br> [insert picture]   |   Samsung HMD Odyssey+ </br> [insert picture]      |
+|**Example Device**     |    Microsoft HoloLens 2   |   Samsung HMD Odyssey+  |
 |**Display**     |    See-through display. Allows user to see the physical environment while wearing the headset.     |    Opaque display. Blocks out the physical environment while wearing the headset.     |
 |**Movement**     |    Full six-degrees-of-freedom movement, both rotation and translation.     |    Full six-degrees-of-freedom movement, both rotation and translation.     |
 
