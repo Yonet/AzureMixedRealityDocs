@@ -8,43 +8,25 @@ To add the **Bounding Box (Script)** component to an object, first select the ob
 
 ![Add Bounding Box Script component](../../../.gitbook/assets/how_to_style_bounding_box/bounding_box_script.PNG)
 
-Select the **Bounding Box** script to apply the component to the object. The bounding box is only visible in Game mode. Press play to view the bounding box.
+Select the **Bounding Box** script to apply the component to the object. The bounding box is only visible in Game mode. Press play to view the bounding box. By default, the HoloLens 1st gen style is used.
 
 ![View Bounding Box in Game Mode](../../../.gitbook/assets/how_to_style_bounding_box/bounding_box_default.PNG)
 
-## Change Wireframe Color
-
-You can change the color of the wireframe (the bounding box lines) by assigning a material to the **Wireframe Material** property.
-
-In the **Box Display** section, drag a new material to the **Wireframe Material** parameter.
-
-![Change Wireframe Material parameter](../../../.gitbook/assets/how_to_style_bounding_box/wireframe_material_pink.PNG)
-
-When you press play, the wireframe for the bounding box will be the color you dragged into the **Wireframe Material** parameter.
-
-![New Wireframe Material](../../../.gitbook/assets/how_to_style_bounding_box/wireframe_color.PNG)
-
-## Change Wireframe Thickness
-
-You can adjust the thickness of the wireframe by modifying the value for the **Wireframe Edge Radius** property.
-
-In the **Box Display** section, change the value for the **Wireframe Edge Radius** parameter to **0.01**.
-
-![Change Wireframe Edge Radius parameter](../../../.gitbook/assets/how_to_style_bounding_box/wireframe_edge_radius.PNG)
-
-When you press play, the wireframe for the bounding box will thicker than the default thinner wireframe.
-
-![New Wireframe thickness](../../../.gitbook/assets/how_to_style_bounding_box/wireframe_thickness.PNG)
+To reflect the MRTK bounding box style, you need to change the parameters inside the **Handles** section of the **Bounding Box (Script)** component.
 
 ## Change Handle Color
 
 You can change the color of the handles by assigning a material to the **Handle Material** property.
 
-In the **Handles** section, drag a new material to the **Handle Material** parameter.
+In the **Handles** section, click the circle icon to open the **Select Material** window.
 
 ![Change Handle Material parameter](../../../.gitbook/assets/how_to_style_bounding_box/handle_material.PNG)
 
-When you press play, the handles for the bounding box will be the color you dragged into the **Handle Material** parameter.
+In the **Select Material** window, search for **BoundingBoxHandleWhite**. Once found, select to assign the color to the handle material.
+
+![Search for BoundingBoxHandleWhite](../../../.gitbook/assets/how_to_style_bounding_box/wireframe_material_pink.PNG)
+
+When you press play, the handle colors for the bounding box will be white.
 
 ![New Handle Material](../../../.gitbook/assets/how_to_style_bounding_box/handle_color.PNG)
 
@@ -52,10 +34,54 @@ When you press play, the handles for the bounding box will be the color you drag
 
 You can change the color of the handles when an object is grabbed by assigning a material to the **Handle Grabbed Material** property.
 
-In the **Handles** section, drag a new material to the **Handle Grabbed Material** parameter.
+In the **Handles** section, click the circle icon to open the **Select Material** window.
 
 ![Change Handle Grabbed material](../../../.gitbook/assets/how_to_style_bounding_box/handle_grabbed_parameter.PNG)
 
-When you press play, grab oen of the handles of the bounding box. The color of the handle will change to the color you dragged into the **Handle Grabbed Material** parameter.
+In the **Select Material** window, search for **BoundingBoxHandleBlueGrabbed**. Once found, select to assign the color to the handle material.
+
+![Search for BoundingBoxHandleWhite](../../../.gitbook/assets/how_to_style_bounding_box/bounding_box_handle_blue_grabbed.PNG)
+
+When you press play, grab one of the handles of the bounding box. The color of the handle will change to blue.
 
 ![New Handle Grabbed material](../../../.gitbook/assets/how_to_style_bounding_box/handle_grabbed_color.PNG)
+
+## Change Scale Handles
+
+You can change the scale handles in corners by assigning a scale handle prefab in the **Scale Handle Prefab** and **Scale Handle Slate Prefab** (for 2D slate) parameters.
+
+First, assign a prefab to the **Scale Handle Prefab**. In the **Handles** section, click the circle icon to open the **Select GameObject** window.
+
+![Open Select GameObject window](../../../.gitbook/assets/how_to_style_bounding_box/select_game_object_window.PNG)
+
+In the **Select GameObject** window, switch to the **Assets** tab and search for **MRTK_BoundingBox_ScaleHandle**. Once found, select to assign the prefab to the scale handle.
+
+![Search for MRTK_BoundingBox_ScaleHandle](../../../.gitbook/assets/how_to_style_bounding_box/scale_handle_prefab.PNG)
+
+Next, assign a prefab to the **Scale Handle Slate Prefab**. In the **Handles** section, click the circle icon to open the **Select GameObject** window.
+
+![Open Select GameObject window](../../../.gitbook/assets/how_to_style_bounding_box/select_game_object_window.PNG)
+
+In the **Select GameObject** window, switch to the **Assets** tab and search for **MRTK_BoundingBox_ScaleHandle_Slate**. Once found, select to assign the prefab to the scale handle.
+
+![Search for MRTK_BoundingBox_ScaleHandle_Slate](../../../.gitbook/assets/how_to_style_bounding_box/scale_handle_slate_prefab.PNG)
+
+When you press play, grab one of the handles of the bounding box to see the change in how the scale handle look.
+
+![New Handle Grabbed material](../../../.gitbook/assets/how_to_style_bounding_box/scale_handle_new.PNG)
+
+## Change Rotation Handles
+
+You can change the rotation handles by assigning a rotation handle prefab in the **Rotation Handle Prefab** parameter.
+
+In the **Handles** section, click the circle icon to open the **Select GameObject** window.
+
+![Open Select GameObject window](../../../.gitbook/assets/how_to_style_bounding_box/rotation_handle_prefab.PNG)
+
+In the **Select GameObject** window, switch to the **Assets** tab and search for **MRTK_BoundingBox_RotateHandle**. Once found, select to assign the prefab to the scale handle.
+
+![Search for MRTK_BoundingBox_RotateHandle](../../../.gitbook/assets/how_to_style_bounding_box/search_rotate_handle.PNG)
+
+When you press play, grab one of the handles of the bounding box to see the change in how the scale handle look.
+
+![New Handle Grabbed material](../../../.gitbook/assets/how_to_style_bounding_box/rotate_handle_new.PNG)
