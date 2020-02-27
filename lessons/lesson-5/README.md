@@ -4,22 +4,6 @@ description: Spatial Visualization using Bing Map
 
 # 05 - Map Visualization
 
-## Concepts
-
-### Why is spatial data important?
-
-### What are some good spatial visualizations for Mixed Reality?
-
-### What is Bing Maps SDK?
-
-![](../../.gitbook/assets/weathercube.gif)
-
-## Project
-
-### [How to include Bing Maps SDK into your project?](https://youtu.be/i2A6K2-CQ_k)
-
-![https://youtu.be/i2A6K2-CQ\_k](../../.gitbook/assets/mapsdk.png)
-
 ### How to sign up as a developer for Bing Maps?
 
 ### How to create and configure your first map in unity?
