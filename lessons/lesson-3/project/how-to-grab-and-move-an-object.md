@@ -18,3 +18,7 @@ You can move an object using one or two hands. This setting is dependent on the 
 Select the preferred **Manipulation Type** so that the user is restricted to use one of the available manipulation types.
 
 ![Manipulation Type](../../../.gitbook/assets/how_to_grab_and_move_an_object/manipulation_type.PNG)
+
+You can now test grabbing and moving the object using the in-editor simulation. Press the **Play** button to enter Game mode. Once in Game mode, hold the spacebar to bring up the hand and use the mouse to grab and move the object.
+
+![Add object and action](../../../.gitbook/assets/how_to_grab_and_move_an_object/grab_move_object.PNG)
