@@ -12,10 +12,10 @@ Now that the **Eye Tracking Target (Script)** component has been added to the ob
 
 Next, expand **Voice Select**. Set the voice command list **Size** to 1.
 
-![Assign object and action](../../../.gitbook/assets/how-to-use-eye-tracking-to-select-an-object/voice_select_1.png)
+![Change Size to 1](../../../.gitbook/assets/how-to-use-eye-tracking-to-select-an-object/voice_select_1.png)
 
 A new **Element 0** appears below. Using the dropdown next to **Element 0** select **Select**. This defines the speech command action for this object as **Select**.
 
-![Assign object and action](../../../.gitbook/assets/how-to-use-eye-tracking-to-select-an-object/element_0.png)
+![Select the Select gesture](../../../.gitbook/assets/how-to-use-eye-tracking-to-select-an-object/element_0.png)
 
 The object is now configured for the user to gaze and either say **Select** or use the Select air-tap gesture to select the object.
