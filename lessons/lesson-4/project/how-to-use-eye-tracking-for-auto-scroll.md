@@ -1,4 +1,4 @@
-# How to Use Eye-tracking for Auto Scroll
+# How to use eye-tracking for auto scroll
 
 Auto scroll enables the user to scroll through texts without lifting a finger. As the user reads, the text automatically scrolls up or down depending on where the user is looking. In this project, you will create an object that contains a passage of text. As the user reads the text, the text will automatically scroll using eye-tracking data.
 

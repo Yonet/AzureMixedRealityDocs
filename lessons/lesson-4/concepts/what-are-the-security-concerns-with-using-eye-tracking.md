@@ -1,4 +1,4 @@
-# What are the Security Concerns With Using Eye-tracking?
+# What are the security concerns with using eye-tracking?
 
 As eye-tracking technology has progressed over time, there are growing privacy implications of collecting vast amounts of this new kind of personal information.
 
@@ -17,7 +17,7 @@ dot. The best models achieved accuracy from 58% to
 almost 98% using models of movement speed and
 direction.
 
-Even if the individual’s gaze data has not previously
+Even if the individual's gaze data has not previously
 been recorded and associated with his or her identity,
 one could use attributes derived from the gaze patterns
 to approximate that identity. For example, gender identification effectively halves the global search space. By
@@ -30,7 +30,7 @@ in privacy losses of two kinds:
 
 **Identity of an Individual**
 
-The user’s unique gaze pattern allows fingerprinting. Part of the identity inference are also several bio-indicators, including health status, both momentary and longer term, age, and fatigue. 
+The user's unique gaze pattern allows fingerprinting. Part of the identity inference are also several bio-indicators, including health status, both momentary and longer term, age, and fatigue. 
 
 **Inference of Interests**
 

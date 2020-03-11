@@ -1,4 +1,4 @@
-# How to Setup Head Tracking
+# How to setup head tracking
 
 The **Main Camera** object tracks the movement of the user's head. You can think of the starting position of the user as x = 0, y = 0, z = 0. When you add and configure **Mixed Reality Toolkit** to your scene, the **Main Camera** object is set at the user's starting position of x = 0, y = 0, z = 0.
 

@@ -1,4 +1,4 @@
-# How to Use Eye-tracking to Manipulate an Object
+# How to use eye-tracking to manipulate an object
 
 Eye-tracking can be used to manipulate objects by creating an event to trigger an action. In this project, you will learn how to rotate an object while looking at the object. Before you begin, make sure that your project is setup for eye tracking.
 

@@ -1,4 +1,4 @@
-# How to Setup Eye-Tracking
+# How to setup eye-tracking
 
 To use eye tracking in your app, you must first setup eye tracking which requires the 4 steps below:
 

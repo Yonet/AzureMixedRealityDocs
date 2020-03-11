@@ -1,4 +1,4 @@
-# How to Enable Eye Calibration
+# How to enable eye calibration
 
 For eye tracking to work accurately, each user is required to go through an eye tracking user calibration for which the user has to look at a set of holographic targets. This allows the device to adjust the system for a more comfortable and higher quality viewing experience for the user and to ensure accurate eye tracking at the same time.
 

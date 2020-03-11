@@ -1,4 +1,4 @@
-# How to Simulate Eye-Tracking in the Unity Editor
+# How to simulate eye-tracking in the Unity Editor
 
 You can simulate eye-tracking in the Unity Editor by enabling simulated eye tracking. The eye gaze signal is simulated by using the camera's location as eye gaze origin and the camera's forward vector as eye gaze direction. 
 

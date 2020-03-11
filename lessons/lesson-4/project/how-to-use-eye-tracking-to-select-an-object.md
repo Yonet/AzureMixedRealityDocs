@@ -1,4 +1,4 @@
-# How to Use Eye-tracking to Select an Object
+# How to use eye-tracking to select an object
 
 You can use eye-tracking to select objects. In this project, you will learn how to select an object using a combination of eye-gaze and either the voice command **Select** or the air-tap Select gesture. Before you begin, make sure that your project is setup for eye tracking.
 

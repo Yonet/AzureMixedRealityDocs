@@ -1,4 +1,4 @@
-# How to Get Permission to Use Eye-Tracking
+# How to get permission to use eye-tracking
 
 For eye-tracking capable applications, the user needs to grant app permission to use eye tracking information. You must first enable the **GazeInput** capability. MRTK provides a way to automatically enable the **GazeInput** capability.
 
