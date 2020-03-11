@@ -4,5 +4,3 @@ Using [Azure Spatial Anchors](https://docs.microsoft.com/azure/spatial-anchors/o
 
 ![Minecraft Earth game.](../../../.gitbook/assets/minecraftearth.gif)
 
-### 
-
