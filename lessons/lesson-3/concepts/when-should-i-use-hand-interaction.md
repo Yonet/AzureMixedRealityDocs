@@ -1,4 +1,4 @@
-# When Should I Use Hand Interaction?
+# When should I use hand interaction?
 
 Hand interaction may be suitable for your mixed reality application if any of the scenarios below apply to your mixed reality application:
 

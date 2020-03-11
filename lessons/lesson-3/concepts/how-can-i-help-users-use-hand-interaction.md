@@ -1,4 +1,4 @@
-# How Can I Help Users Use Hand Interactions?
+# How can I help users use hand interactions?
 
 When implementing hands interaction for your mixed reality application, consider the following affordances and behaviors to help new users:
 
