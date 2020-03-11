@@ -1,4 +1,4 @@
-# How to Make Your Buttons Follow Your Hand?
+# How to make your buttons follow your hand
 
 MRTK uses what are known as **Solvers** to allow UI elements to follow the user or other game objects in the scene. The **Radial View** solver is a tag-along component that keeps a particular portion of a GameObject within the user's view.
 

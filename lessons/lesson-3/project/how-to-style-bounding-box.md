@@ -1,4 +1,4 @@
-# How to Style Bounding Box
+# How to style bounding box
 
 Bounding boxes make it easier and more intuitive to manipulate objects with one hand for both near and far interaction by providing handles that can be used for scaling and rotating. A bounding box will show a cube around the hologram to indicate that it can be interacted with. The bounding box also reacts to user input.
 

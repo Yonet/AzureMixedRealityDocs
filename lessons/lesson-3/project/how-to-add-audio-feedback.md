@@ -1,4 +1,4 @@
-# How to Add Audio Feedback
+# How to add audio feedback
 
 You can configure an object to play a sound when the user touches an object by adding a **trigger touch event** to the object.
 

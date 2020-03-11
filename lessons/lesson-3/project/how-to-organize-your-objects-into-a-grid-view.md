@@ -1,4 +1,4 @@
-# How to Organize Your Objects into a Grid View
+# How to organize your objects into a grid view
 
 You can organize any objects in Unity into a grid by using an **Object collection** script. In this example, you will learn how to organize 6 3D objects into a 3 x 3 grid.
 

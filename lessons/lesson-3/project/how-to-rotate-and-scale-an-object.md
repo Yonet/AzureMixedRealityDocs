@@ -1,4 +1,4 @@
-# How to Rotate and Scale an Object
+# How to rotate and scale an object
 
 To rotate and scale an object, first ensure that the **Manipulation Handler (Script)** and **Near Interaction Grabbable (Script)** components are added to the object. The **Manipulation Handler (Script)** allows you to manipulate an object while the **Near Interaction Grabble (Script)** allows the object to respond to near hand interactions.
 

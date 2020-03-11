@@ -1,11 +1,11 @@
-# How to Add Manipulation Handler to Your Object
+# How to add manipulation handler to your object
 
 To be able to manipulate an object, the object must have the following components:
 
 - Collider Component
 - Manipulation Handler (Script) Component
 
-Collider components define the shape of a GameObject for the purposes of physical collisions. A collider, which is invisible, does not need to be the exact same shape as the GameObject’s mesh. A rough approximation of the mesh is often more efficient and indistinguishable in gameplay.
+Collider components define the shape of a GameObject for the purposes of physical collisions. A collider, which is invisible, does not need to be the exact same shape as the GameObject's mesh. A rough approximation of the mesh is often more efficient and indistinguishable in gameplay.
 
 By default, the Collider component is automatically added when Unity primitives (cube, sphere, etc.) are created.
 

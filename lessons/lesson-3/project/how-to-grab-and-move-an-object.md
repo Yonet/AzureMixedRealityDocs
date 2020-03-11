@@ -1,4 +1,4 @@
-# How to Grab and Move an Object
+# How to grab and move an object
 
 To grab and move an object, first ensure that the **Manipulation Handler (Script)** and **Near Interaction Grabbable (Script)** components are added to the object. The **Manipulation Handler (Script)** allows you to manipulate an object while the **Near Interaction Grabble (Script) allows the object to respond to near hand interactions.
 

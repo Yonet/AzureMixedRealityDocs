@@ -1,4 +1,4 @@
-# How to Add Button Prefabs to Your Project
+# How to add button prefabs to your project
 
 Mixed Reality Toolkit is equipped with a variety of button prefabs that you could add to your project. A prefab is a pre-configured GameObject stored as a Unity Asset and can be reused throughout your project.
 

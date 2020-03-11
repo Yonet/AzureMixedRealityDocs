@@ -1,4 +1,4 @@
-# How to run the MRTK Hand Interaction examples in Unity Editor
+# How to run the MRTK hand interaction examples in Unity Editor
 
 ![MRTK Hand Interaction Examples](../../../.gitbook/assets/how_to_run_the_mrtk_hand_interaction_examples_in_unity_editor/mrtk_hand_interaction_examples.png)
 

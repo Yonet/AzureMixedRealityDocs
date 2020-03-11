@@ -1,4 +1,4 @@
-# How to Make an Object Respond to Input Events
+# How to make an object respond to input events
 
 An input event is an action in your app that triggers a specific action to occur. For example, you could use speech to trigger an object to change colors. There are several input events that can be used in your app by implementing an event handler. A description of each handler is provided below: <br><br>
 
