@@ -49,7 +49,7 @@
       * [Using eye gaze to influence the user.](lessons/lesson-4/what-could-go-wrong/using-eye-gaze-to-influence-the-user..md)
     * [Resources](lessons/lesson-4/resources.md)
   * [05 - Map Visualization](lessons/lesson-5/README.md)
-    * [Concepts](lessons/lesson-5/concepts.md)
+    * [Concepts](lessons/lesson-5/concepts/README.md)
       * [Why is spatial data important?](lessons/lesson-5/concepts/why-is-spatial-data-important.md)
       * [What are some good spatial visualizations for Mixed Reality?](lessons/lesson-5/concepts/what-are-some-good-spatial-visualizations-for-mixed-reality.md)
       * [What is Bing Maps SDK?](lessons/lesson-5/concepts/what-is-bing-maps-sdk.md)
