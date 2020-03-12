@@ -10,7 +10,7 @@ In this lesson, you will learn about the **basic concepts** about **Mixed Realit
 
 In the **Project** section, you will set up your first Mixed Reality project using **Unity** and **Mixed Reality Tool Kit**.
 
-You can jump directly into setting up your first project here on the [How to get started with mixed reality development using Unity3D section](project/how-to-get-started-with-mixed-reality-development-using-unity.md). 
+You can jump directly into setting up your first project on the [How to get started with mixed reality development using Unity3D section](project/how-to-get-started-with-mixed-reality-development-using-unity.md). 
 
 * \*\*\*\*[**Concepts**](concepts.md)\*\*\*\*
 * \*\*\*\*[**Project**](project/)\*\*\*\*
