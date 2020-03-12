@@ -1,4 +1,4 @@
-# How to Get Started with Mixed Reality Development Using Unity?
+# How to get started with mixed reality development using Unity?
 
 ![How To Get Started witHow To Get Started with Mixed Reality Development Using Unity3D](../../../.gitbook/assets/screenshot-140.png)
 

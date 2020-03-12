@@ -1,4 +1,4 @@
-# How to Setup Your PC for Mixed Reality Development
+# How to setup your PC for mixed reality development
 
 ## Minimum PC Hardware Guidelines
 

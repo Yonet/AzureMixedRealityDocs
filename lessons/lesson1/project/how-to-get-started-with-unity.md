@@ -1,4 +1,4 @@
-# How to Get Started with Unity
+# How to get started with Unity?
 
 ## What is Unity?
 

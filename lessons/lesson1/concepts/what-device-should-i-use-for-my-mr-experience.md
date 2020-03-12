@@ -1,4 +1,4 @@
-# What Device Should I Use for My Mixed Reality Experience?
+# What device should I use for my mixed reality experience?
 
 There are two main types of devices that deliver Windows Mixed Reality experiences:
 
