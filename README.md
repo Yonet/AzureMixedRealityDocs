@@ -26,7 +26,7 @@ Hope you enjoy developing your mixed reality application!
 ## Lessons
 
 * [Lesson 1](lessons/lesson1/): Introduction to Mixed Reality Applications and Development.
-* [Lesson 2](lessons/lesson-2.md): Introduction to Mixed Reality Developer Tools and 3D Concepts.
+* [Lesson 2](lessons/lesson-2/): Introduction to Mixed Reality Developer Tools and 3D Concepts.
 * [Lesson 3](lessons/lesson-3/): Working with Hand Interactions.
 * [Lesson 4](lessons/lesson-4/): Eye and Head Gaze Tracking.
 * [Lesson 5](lessons/lesson-5/): Spatial Visualization using Bing Maps.
