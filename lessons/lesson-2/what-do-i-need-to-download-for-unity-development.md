@@ -10,6 +10,8 @@ Before you get started with developing for Mixed Reality for Unity, make sure to
 * [ ] **Unity** Hub & latest Unity.
 * [ ] **Visual Studio**
 * [ ] **Windows 10 SDK**
+* [ ] Enable **Hyper-V**
+* [ ] Optional: **HoloLens Emulator**
 
 ## Windows 10
 
