@@ -1,3 +1,7 @@
+---
+description: Common issues to consider while developing for Mixed Reality
+---
+
 # What could go wrong?
 
 #### What are some of the security issues with Mixed Reality Applications?
