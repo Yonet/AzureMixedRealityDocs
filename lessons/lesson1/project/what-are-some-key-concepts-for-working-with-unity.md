@@ -10,6 +10,10 @@ description: >-
 
 In Unity, areas of the game that a player can interact with are generally made up of one or more Scenes. Small games may only use one Scene; large ones could have hundreds.
 
+Every Unity project you create comes with a SampleScene that has a light and a camera. 
+
+![SampleScene with a light and camera.](../../../.gitbook/assets/samplescene.png)
+
 ### GameObjects and components
 
 Every object in the game world exists as a **GameObject** in Unity. GameObjects are given specific features by giving them appropriate **components**, which provide a wide range of different functionality. 
