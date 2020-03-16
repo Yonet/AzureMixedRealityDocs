@@ -4,6 +4,10 @@ description: Introduction to Mixed Reality Applications and Development
 
 # 01 - Introduction to Mixed Reality
 
+Short link: [aka.ms/UnityIntroToMixedReality](https://aka.ms/UnityIntroToMixedReality)
+
+![QR code for aka.ms/UnityIntroToMixedReality](../../.gitbook/assets/unityintro2mr.png)
+
 ### Overview
 
 In this lesson, you will learn about the **basic concepts** of **Mixed Reality** and explore the **applications of Mixed Reality** in different **industries**. 
