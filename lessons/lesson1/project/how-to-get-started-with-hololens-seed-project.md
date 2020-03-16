@@ -33,3 +33,24 @@ git remote add origin git@github.com:<YOUR ACCOUNT>/<YOUR REPOS>.git
 git push -u --force origin master
 ```
 
+### How to update your project to latest seed?
+
+ Whenever there is a new update for [Mixed Reality Toolkit](https://microsoft.github.io/MixedRealityToolkit-Unity/README.html?WT.mc_id=hololensseedproject-github-ayyonet) or [Azure Spatial Anchors](https://docs.microsoft.com/azure/spatial-anchors/?WT.mc_id=hololensseedproject-github-ayyonet) packages, this repo will be updated with the latest version. You can automaticly get the latest packages by adding the seed repo as your upstream and pulling from it.
+
+```text
+git remote add upstream https://github.com/Yonet/HoloLensUnitySeedProject.git
+git pull upstream master
+```
+
+You can check to see if your remote origin and upstream by copy and pasting to your terminal:
+
+```text
+git remote -v
+```
+
+You can remove the upstream anytime by running:
+
+```text
+git remote remove upstream https://github.com/Yonet/HoloLensUnitySeedProject.git
+```
+
