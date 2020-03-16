@@ -1,9 +1,9 @@
-# What do I need to download for Unity Development?
+# What do I need to download for Unity development?
 
 Before you get started with developing for Mixed Reality for Unity, make sure to check everything in the below list and follow the instructions for each download.
 
 {% hint style="danger" %}
- Not following the instructions for specific downloads would result in errors while developing or building your application. Before you try to debug, check the list and detailed instructions.
+ Not following the instructions for specific download might result in errors while developing or building your application. Before you try to debug, check the list and detailed instructions.
 {% endhint %}
 
 * [ ] Latest **Windows 10** Education or Pro
