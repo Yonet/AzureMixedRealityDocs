@@ -13,7 +13,7 @@ This book is designed as a collection of classes that starts from basic concepts
 * **What could go wrong** section to discuss the common mistakes and issues.
 * Further reading **resources**.
 
-Each class have **questions** as sections and builds the part of the[ project](https://github.com/Yonet/MixedRealityUnitySamples) related to the question. If you feel comfortable to answer a question, feel free to move on to the next question or the next class. 
+Each class have **questions** as sections and builds the part of the[ project](https://github.com/Yonet/MixedRealityUnitySamples) related to the question. If you feel comfortable to answer a question, feel free to **move on to the next question** or the next class. 
 
 If you have any **questions**, **suggestions** and **improvements**, please [**submit an issue**](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) here: [https://github.com/Yonet/AzureMixedRealityDocs/issues](https://github.com/Yonet/AzureMixedRealityDocs/issues).
 

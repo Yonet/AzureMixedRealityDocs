@@ -109,6 +109,7 @@
   * [12 - Case Studies](lessons/lesson-12.md)
 * [WebXR Lessons](webxr-lessons.md)
 * [What is Mixed Reality?](what-is-mixed-reality/README.md)
+  * [What is the](what-is-mixed-reality/what-is-the.md)
   * [Why is Mixed Reality important?](what-is-mixed-reality/why-is-mixed-reality-important.md)
   * [Will mixed reality replace our phones and PCs?](what-is-mixed-reality/will-mixed-reality-replace-our-phones-and-pcs.md)
   * [How do I decide if I need to develop for Virtual Reality or Augmented Reality?](what-is-mixed-reality/how-do-i-decide-if-i-need-to-develop-for-virtual-reality-or-augmented-reality.md)
