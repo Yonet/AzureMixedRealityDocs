@@ -14,6 +14,12 @@ Every Unity project you create comes with a SampleScene that has a light and a c
 
 ![SampleScene with a light and camera.](../../../.gitbook/assets/samplescene.png)
 
+You can **create a new scene** by right clicking under the assets tab and selecting **Create &gt; Scene**. Organizing scenes under a **Scenes folder** is only for the organization purposes. 
+
+![Creating a new scene.](../../../.gitbook/assets/newscene.png)
+
+You can use scenes to organize **navigation** inside your application or adding different **levels** to a game.
+
 ### GameObjects and components
 
 Every object in the game world exists as a **GameObject** in Unity. GameObjects are given specific features by giving them appropriate **components**, which provide a wide range of different functionality. 
