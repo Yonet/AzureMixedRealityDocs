@@ -5,7 +5,7 @@
   * [01 - Introduction to Mixed Reality](lessons/lesson1/README.md)
     * [Concepts](lessons/lesson1/concepts.md)
     * [Project](lessons/lesson1/project/README.md)
-      * [What do I need to download for Unity development?](lessons/lesson1/project/what-do-i-need-to-download-for-unity-development.md)
+      * [What do I need to download for Mixed Reality development with Unity?](lessons/lesson1/project/what-do-i-need-to-download-for-unity-development.md)
       * [How to Get Started with Mixed Reality Development Using Unity?](lessons/lesson1/project/how-to-get-started-with-mixed-reality-development-using-unity.md)
       * [How to get started with Unity3D Editor interface?](lessons/lesson1/project/how-to-get-started-with-unity3d-editor-interface.md)
       * [What are some key concepts for working with Unity?](lessons/lesson1/project/what-are-some-key-concepts-for-working-with-unity.md)
