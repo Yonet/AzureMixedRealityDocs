@@ -26,5 +26,7 @@ Let's take the latest version in the image below, **2019.3.5f:**
 
 ![](../../.gitbook/assets/unityversioning.png)
 
+## How to update my Unity version to a newer one?
 
+In your Unity Hub, under the project tab, you can select the Unity version drop down for your application and select a newer version of Unity. Unity will confirm your choice before updating your project. It is a good idea to save a version of your project as a new branch in github, in case you need to revert back.
 
