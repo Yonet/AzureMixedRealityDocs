@@ -4,7 +4,7 @@
 
 You can create a new project from the seed instead of downloading the different assets and setting up your git project. To be able to use the seed project, you can [get a github account](https://github.com/?WT.mc_id=github-mixedrealitycurriculum-ayyonet) and setup your development environment or directly download the repository content.
 
-![](../../../.gitbook/assets/downloadseed.png)
+![Download Seed project from github.](../../../.gitbook/assets/downloadseed.png)
 
 ## Setup
 
