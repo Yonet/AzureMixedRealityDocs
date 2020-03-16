@@ -17,6 +17,8 @@ You can jump directly into setting up your first project on the [How to get star
 * \*\*\*\*[**What could go wrong?**](what-could-go-wrong.md)\*\*\*\*
 * \*\*\*\*[**Resources**](mixed-reality-resources.md)\*\*\*\*
 
+[How to get started with Unity3D?](https://youtu.be/1O3rU4h8I80)How to get started with HoloLens Seed Project?
+
 ### How to create a new scene?
 
 * On the Project panel, right click and select Create &gt; Scene.

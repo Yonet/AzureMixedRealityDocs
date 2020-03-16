@@ -1,5 +1,7 @@
 # Concepts
 
+In this lesson, you will learn about Spatial Anchors and the use case scenarios of Spatial Anchors: 
+
 * [What is a Spatial Anchor?](what-is-a-spatial-anchor.md)
 * [Why use Spatial Anchors? ](why-use-spatial-anchors.md)
 * [Which devices does Azure Spatial Anchors support?](which-devices-does-azure-spatial-anchors-support.md)
