@@ -1,4 +1,12 @@
+---
+description: Developing for Mixed Reality using Unity3D
+---
+
 # Unity Lessons
+
+Short link: [aka.ms/MixedRealityUnityLessons](https://aka.ms/MixedRealityUnityLessons)
+
+![Mixed Reality Unity Lessons link.](../.gitbook/assets/mrunitylessins.png)
 
 * [Lesson 1](lesson1/):  Introduction to Mixed Reality Applications and Development.
 * [Lesson 2](lesson-2.md):  Introduction to Mixed Reality Developer Tools and 3D Concepts.
