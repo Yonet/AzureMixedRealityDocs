@@ -6,7 +6,7 @@ description: Introduction to Mixed Reality Applications and Development
 
 Short link: [aka.ms/UnityIntroToMixedReality](https://aka.ms/UnityIntroToMixedReality)
 
-![QR code for aka.ms/UnityIntroToMixedReality](../../.gitbook/assets/unityintro2mr.png)
+![QR code for Introduction to Mixed Reality](../../.gitbook/assets/unityintro2mr.png)
 
 ### Overview
 

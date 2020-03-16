@@ -1,10 +1,8 @@
----
-description: 'Shortlink: aka.ms/MixedRealityCurriculum'
----
-
 # Azure Mixed Reality Curriculum
 
-![Curriculum Link: aka.ms/MixedRealityCurriculum](.gitbook/assets/curriculum.png)
+Short link: [aka.ms/MixedRealityCurriculum](https://aka.ms/MixedRealityCurriculum)
+
+![Curriculum Link QR Code](.gitbook/assets/curriculum.png)
 
 ## How to use this book?
 
