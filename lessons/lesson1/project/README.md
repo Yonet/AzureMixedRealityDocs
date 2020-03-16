@@ -1,6 +1,6 @@
 # Project
 
-
+In this project we w
 
 * [How to Get Started with Mixed Reality Development Using Unity?](how-to-get-started-with-mixed-reality-development-using-unity.md)
 * [How to get started with Unity3D Editor interface?](how-to-get-started-with-unity3d-editor-interface.md)
