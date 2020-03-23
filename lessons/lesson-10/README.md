@@ -1,4 +1,4 @@
-# 10 - Scene Understanding
+# 10 - Spatial Awareness
 
 **Overview**
 

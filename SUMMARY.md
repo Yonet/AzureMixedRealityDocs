@@ -136,7 +136,7 @@
     * [Resources](lessons/lesson-7/asa-resources.md)
   * [08 - Spatial Anchor Visualization on Map](lessons/lesson-8.md)
   * [09 - QR Codes](lessons/lesson-9.md)
-  * [10 - Scene Understanding](lessons/lesson-10/README.md)
+  * [10 - Spatial Awareness](lessons/lesson-10/README.md)
     * [Concepts](lessons/lesson-10/concepts.md)
     * [Project](lessons/lesson-10/project.md)
     * [What could go wrong?](lessons/lesson-10/what-could-go-wrong.md)
