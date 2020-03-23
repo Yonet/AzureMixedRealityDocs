@@ -14,6 +14,8 @@ The Spatial Awareness system provides real-world environmental awareness in mixe
 
 Scene understanding provides Mixed Reality developers with a structured, high-level environment representation designed to make developing for environmentally aware applications intuitive.
 
+![Spatial Awareness environment mesh.](../../.gitbook/assets/mrtk_spatialawareness_main.png)
+
 * **​**[**Concepts​**](concepts/)\*\*\*\*
 * \*\*\*\*[**​Project​**](project.md)\*\*\*\*
 * \*\*\*\*[**​What could go wrong?​**](what-could-go-wrong.md)\*\*\*\*
