@@ -11,7 +11,7 @@
 
 ![Creating a new Unity Scene.](../../../.gitbook/assets/newscene.png)
 
-Every new Scene comes with a light and camera. We have to modify the camera later for our Mixed Reality project.
+Every new Scene comes with a **light** and **camera**. We have to modify the camera later for our Mixed Reality project.
 
 ![New scene camera.](../../../.gitbook/assets/newscenecamera.png)
 

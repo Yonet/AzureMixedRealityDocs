@@ -1,5 +1,7 @@
 # Resources
 
+* **Code Samples**: [https://aka.ms/MixedRealityUnitySamples](https://aka.ms/MixedRealityUnitySamples)
+
 ## Useful Links
 
 * Azure Spatial Anchors Documentation: [bit.ly/AzureSpatialAnchors](https://docs.microsoft.com/en-us/azure/spatial-anchors/?WT.mc_id=github-mixedrealitycurriculum-ayyonet)
