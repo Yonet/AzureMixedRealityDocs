@@ -1,2 +1,2 @@
-# Spatial Mapping
+# What is Spatial Mapping?
 
