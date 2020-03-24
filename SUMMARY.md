@@ -139,7 +139,7 @@
   * [10 - Spatial Awareness](lessons/lesson-10/README.md)
     * [Concepts](lessons/lesson-10/concepts/README.md)
       * [What is Spatial Mapping?](lessons/lesson-10/concepts/spatial-mapping.md)
-      * [Scene Understanding?](lessons/lesson-10/concepts/scene-understanding.md)
+      * [What is Scene Understanding?](lessons/lesson-10/concepts/scene-understanding.md)
       * [What is SceneQuads?](lessons/lesson-10/concepts/what-is-scenequads.md)
     * [Project](lessons/lesson-10/project.md)
     * [What could go wrong?](lessons/lesson-10/what-could-go-wrong.md)
