@@ -141,6 +141,7 @@
       * [What is Spatial Mapping?](lessons/lesson-10/concepts/spatial-mapping.md)
       * [What is Scene Understanding?](lessons/lesson-10/concepts/scene-understanding.md)
       * [What is SceneQuads?](lessons/lesson-10/concepts/what-is-scenequads.md)
+      * [How to decide to use Spatial Map or Scene Understanding?](lessons/lesson-10/concepts/how-to-decide-to-use-spatial-map-or-scene-understanding.md)
     * [Project](lessons/lesson-10/project.md)
     * [What could go wrong?](lessons/lesson-10/what-could-go-wrong.md)
     * [Resources](lessons/lesson-10/resources.md)
