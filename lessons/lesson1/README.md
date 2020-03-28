@@ -16,7 +16,7 @@ In the **Project** section, you will set up your first Mixed Reality project usi
 
 You can jump directly into setting up your first project on the [How to get started with mixed reality development using Unity3D section](project/how-to-get-started-with-mixed-reality-development-using-unity.md). 
 
-* \*\*\*\*[**Concepts**](concepts.md)\*\*\*\*
+* \*\*\*\*[**Concepts**](concepts/)\*\*\*\*
 * \*\*\*\*[**Project**](project/)\*\*\*\*
 * \*\*\*\*[**What could go wrong?**](what-could-go-wrong.md)\*\*\*\*
 * \*\*\*\*[**Resources**](mixed-reality-resources.md)\*\*\*\*

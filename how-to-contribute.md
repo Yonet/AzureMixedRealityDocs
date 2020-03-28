@@ -23,7 +23,7 @@ If you are contributing to Unity Samples, please
    ```
 
 3. Add the changes you want to make. Please follow the structure of the [content explained here](./#how-to-use-this-book).
-   1. Every lesson has, [**concepts**,](lessons/lesson1/concepts.md)[ **project**](lessons/lesson1/project/), ****[**what could go wrong**](lessons/lesson1/what-could-go-wrong.md) and ****[**resources**](lessons/lesson1/mixed-reality-resources.md) sub-sections.
+   1. Every lesson has, [**concepts**,](lessons/lesson1/concepts/)[ **project**](lessons/lesson1/project/), ****[**what could go wrong**](lessons/lesson1/what-could-go-wrong.md) and ****[**resources**](lessons/lesson1/mixed-reality-resources.md) sub-sections.
    2. Every sub-section is divided into [questions](lessons/lesson1/project/how-to-get-started-with-mixed-reality-development-using-unity.md). Please keep the questions and answers precise. If there is another concept you need to explain, **add a new page for the question**.
    3. Questions are meant to follow the top down order and answer the questions necessary to develop the project. Make sure any new questions make sense for the whole of the **hands on project** and **does not diverge into peripheral topics**. Feel free to add the peripheral topics to **Resources** section, [Core concepts](core-building-blocks/) section or file an issue to discuss if the subject is necessary learning.
    4. If you are including a word or a concepts that a person new to Mixed Reality or development in general, please include it in [Glossary ](glossary/)section.
