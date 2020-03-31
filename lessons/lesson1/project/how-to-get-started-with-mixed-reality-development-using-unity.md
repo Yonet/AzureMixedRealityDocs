@@ -1,6 +1,6 @@
 # How to Get Started with Mixed Reality Development Using Unity?
 
-{% embed url="https://youtu.be/A0FHizvwB44" caption="Getting Started with Unity3D" %}
+{% embed url="https://youtu.be/A0FHizvwB44" %}
 
 
 
