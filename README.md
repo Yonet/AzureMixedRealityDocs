@@ -6,7 +6,9 @@ Short link: [aka.ms/MixedRealityCurriculum](https://aka.ms/MixedRealityCurriculu
 
 ## How to use this book?
 
-[https://youtu.be/sj9-FrPJdkY](https://youtu.be/sj9-FrPJdkY)
+{% embed url="https://youtu.be/sj9-FrPJdkY" %}
+
+
 
 This book is designed as a collection of classes that starts from basic concepts and **builds a project** over time. Each lesson can also be used as an **individual workshop**. Each class follow the below structure:
 

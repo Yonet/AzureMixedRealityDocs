@@ -1,6 +1,8 @@
 # What is the difference between Augmented Reality, Virtual Reality and Mixed Reality?
 
-[https://youtu.be/gR1KkNuCAxY](https://youtu.be/gR1KkNuCAxY)
+{% embed url="https://youtu.be/gR1KkNuCAxY" %}
+
+
 
 **Augmented Reality\(AR\)** is defined as a technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view. Augmented Reality experiences are not limited to visual addition to our world. You can create augmented experiences that are only audio addition to your physical world. 
 
