@@ -43,3 +43,5 @@ Click on Build button, not Build and Run.
 
 ![Build your project into a new folder by clicking build button. ](../../../.gitbook/assets/build.png)
 
+When your build is done, your file explorer will automatically open to the build folder you just created.
+
