@@ -98,7 +98,7 @@
       * [How to sign up for Bing Maps Developer Key?](lessons/lesson-5/project/how-to-sign-up-for-bing-maps-developer-key.md)
       * [How to add BingMaps SDK to your project?](lessons/lesson-5/project/how-to-add-bingmaps-sdk-to-your-project.md)
       * [How to create and configure your first map in unity?](lessons/lesson-5/project/how-to-create-and-configure-your-first-map-in-unity.md)
-      * [How to style your map using render settings?](lessons/lesson-5/project/how-to-style-your-map-using-render-settings.md)
+      * [How to style your map?](lessons/lesson-5/project/how-to-style-your-map-using-render-settings.md)
       * [What is a Map Terrain Type?](lessons/lesson-5/project/what-is-a-map-terrain-type.md)
       * [How to add hand interactions for scaling and rotation?](lessons/lesson-5/project/how-to-add-hand-interactions-for-scaling-and-rotation.md)
       * [How to style bounding box?](lessons/lesson-5/project/how-to-style-bounding-box.md)
