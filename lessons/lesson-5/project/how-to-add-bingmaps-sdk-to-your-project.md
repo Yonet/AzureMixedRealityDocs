@@ -1,6 +1,6 @@
 # How to add BingMaps SDK to your project?
 
-![https://youtu.be/pEdOls9kZGE](../../../.gitbook/assets/mapsdk.png)
+{% embed url="https://youtu.be/pEdOls9kZGE" caption="How to add Bing Maps SDK to your project." %}
 
-[https://youtu.be/pEdOls9kZGE](https://youtu.be/pEdOls9kZGE)
+
 
