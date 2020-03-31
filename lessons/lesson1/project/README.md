@@ -16,8 +16,7 @@ Check your knowledge by answering below question before you move into the projec
 * [How to change preferences in Unity?](how-to-change-preferences-in-unity.md)
 * [How to add Mixed Reality Toolkit\(MRTK\) to a project?](how-to-add-mixed-reality-toolkit-mrtk-to-a-project.md)
 * [How to open MRTK example scenes?](how-to-open-mrtk-example-scenes.md)
-* [How to enable Developer Mode in HoloLens 1?](how-to-enable-developer-mode-in-hololens-1.md)
-* [How to enable Developer Mode in HoloLens 2?](how-to-enable-developer-mode-in-hololens-2.md)
+* [How to enable Developer Mode in HoloLens?](how-to-enable-developer-mode-in-hololens-2.md)
 * [How to enable Developer Mode on an Android device?](how-to-enable-developer-mode-on-an-android-device.md)
 * How to build and deploy your project for **HoloLens 1?**
 * How to build and deploy your project for **HoloLens 2?**
