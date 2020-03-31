@@ -1,2 +1,2 @@
-# How to build your app for Android Device?
+# How to build and deploy your project for Android?
 

@@ -18,8 +18,8 @@ Check your knowledge by answering below question before you move into the projec
 * [How to open MRTK example scenes?](how-to-open-mrtk-example-scenes.md)
 * [How to enable Developer Mode in HoloLens?](how-to-enable-developer-mode-in-hololens-2.md)
 * [How to enable Developer Mode on an Android device?](how-to-enable-developer-mode-on-an-android-device.md)
-* How to build and deploy your project for **HoloLens 1?**
-* How to build and deploy your project for **HoloLens 2?**
-* How to build and deploy your project for **Windows Mixed Reality Headset**?
-* How to build and deploy your project for **Android?**
+* [How to build your project for **HoloLens?**](how-to-build-your-project-for-hololens.md)\*\*\*\*
+* [How to deploy your app for **HoloLens?**](how-to-deploy-your-app-to-a-hololens.md)\*\*\*\*
+* [How to build and deploy your project for **Windows Mixed Reality Headset**?](how-to-build-your-project-for-windows-mixed-reality-headset.md)
+* [How to build and deploy your project for **Android?**](how-to-build-your-project-for-windows-mixed-reality-headset.md)\*\*\*\*
 
