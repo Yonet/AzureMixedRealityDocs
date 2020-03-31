@@ -20,3 +20,9 @@ The view of the map can be configured in the **Location** foldout.
 
 ![Location settings.](../../../.gitbook/assets/maprenderer-location.png)
 
+The `Center` is the **geolocation** where the map is currently focused, represented as a latitude and longitude in degrees.
+
+The `ZoomLevel` is the **area of the map** that is visible. **Lower zoom levels** correspond to **zooming out**, **higher zoom levels** correspond to **zooming in.**
+
+The map uses a web [**Mercator projection**](https://en.wikipedia.org/wiki/Mercator_projection).
+
