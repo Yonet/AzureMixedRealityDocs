@@ -1,8 +1,10 @@
+---
+description: Unity Introduction.
+---
+
 # How to Get Started with Mixed Reality Development Using Unity?
 
-{% embed url="https://youtu.be/A0FHizvwB44" %}
-
-
+{% embed url="https://youtu.be/A0FHizvwB44" caption="Getting started with Unity development." %}
 
 ### How to create a new scene?
 

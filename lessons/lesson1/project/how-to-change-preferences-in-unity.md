@@ -1,6 +1,6 @@
 # How to change preferences in Unity?
 
-{% embed url="https://youtu.be/kllqGB1EBH0" %}
+{% embed url="https://youtu.be/kllqGB1EBH0" caption="Changing preferences in Unity3D" %}
 
 * Go to **Edit &gt; Preferences**.
 * Change the color scheme under **General**, if it is available.
