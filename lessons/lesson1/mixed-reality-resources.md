@@ -28,5 +28,12 @@ description: Mixed Reality getting started resources
 
 ![Tools to install link.](../../.gitbook/assets/mrtools.png)
 
+* **Elliminate Texture Confusion: Bump, Normal and Displacement Maps:** [**https://www.pluralsight.com/blog/film-games/bump-normal-and-displacement-maps**](https://www.pluralsight.com/blog/film-games/bump-normal-and-displacement-maps)\*\*\*\*
+* **Normal vs. Displacement Mapping & Why Games Use Normals:** [**https://cgcookie.com/articles/normal-vs-displacement-mapping-why-games-use-normals**](https://cgcookie.com/articles/normal-vs-displacement-mapping-why-games-use-normals)\*\*\*\*
+* **Live editing WebGL shaders with Firefox Developer Tools:** [**https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/**](https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/)\*\*\*\*
+* **WebXR Emulator:**[**https://chrome.google.com/webstore/detail/webxr-api-emulator/mjddjgeghkdijejnciaefnkjmkafnnje?hl=en**](https://chrome.google.com/webstore/detail/webxr-api-emulator/mjddjgeghkdijejnciaefnkjmkafnnje?hl=en)\*\*\*\*
+
+![WebXR Emulator Extention.](../../.gitbook/assets/webxremulator.gif)
+
 
 
