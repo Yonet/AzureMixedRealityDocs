@@ -1,4 +1,4 @@
-# What are SceneQuads?
+# What is SceneQuads?
 
 **SceneQuads** are computed **2D primitives** that describe **a flat surface** and has an **API** designed to be used to help **placement of the objects**. 
 

@@ -13,6 +13,7 @@ Check your knowledge by answering below question before you move into the projec
 * [What are some key concepts for working with Unity?](what-are-some-key-concepts-for-working-with-unity.md)
 * [How to Get Started with Mixed Reality Development Using Unity?](how-to-get-started-with-mixed-reality-development-using-unity.md)
 * [How to get started with HoloLens Seed Project?](how-to-get-started-with-unity3d-editor-interface.md)
+* [How to change preferences in Unity?](how-to-change-preferences-in-unity.md)
 * [How to add Mixed Reality Toolkit\(MRTK\) to a project?](how-to-add-mixed-reality-toolkit-mrtk-to-a-project.md)
 * [How to open MRTK example scenes?](how-to-open-mrtk-example-scenes.md)
 * [How to enable Developer Mode in HoloLens 1?](how-to-enable-developer-mode-in-hololens-1.md)
