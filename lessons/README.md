@@ -19,5 +19,5 @@ Short link: [aka.ms/MixedRealityUnityLessons](https://aka.ms/MixedRealityUnityLe
 * [Lesson 9](./):  Working with QR codes.
 * [Lesson 10](lesson-11.md): Working with Scene Understanding.
 * [Lesson 11](./): Getting Started with AI.
-* [Lesson 12](lesson-12.md): Project Discussion and Case Studies.
+* [Lesson 12](lesson-12/): Project Discussion and Case Studies.
 

@@ -46,7 +46,7 @@ Hope you enjoy developing your mixed reality application!
 * [Lesson 9](lessons/lesson-8.md): Displaying Spatial Anchors on a map.
 * [Lesson 10](lessons/lesson-11.md): Working with Spatial Awareness and Scene Understanding.
 * [Lesson 11](lessons/lesson-10/): Getting Started with AI.
-* [Lesson 12](lessons/lesson-12.md): Project Discussion and Case Studies.
+* [Lesson 12](lessons/lesson-12/): Project Discussion and Case Studies.
 
 
 
