@@ -33,7 +33,7 @@ Hope you enjoy developing your mixed reality application!
 
 ![](.gitbook/assets/hummingbird.png)
 
-## Lessons
+## Unity3D Lessons
 
 * [Lesson 1](lessons/lesson1/): Introduction to Mixed Reality Applications and Development.
 * [Lesson 2](lessons/lesson-2/): Introduction to Mixed Reality Developer Tools and 3D Concepts.
