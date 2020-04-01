@@ -4,6 +4,12 @@ Short link: [aka.ms/MixedRealityCurriculum](https://aka.ms/MixedRealityCurriculu
 
 ![Curriculum Link QR Code](.gitbook/assets/curriculum.png)
 
+Mixed Reality Curriculum Playlist: [https://aka.ms/MixedRealityCurriculumVideos](https://aka.ms/MixedRealityCurriculumVideos).
+
+Code Samples: [https://aka.ms/MixedRealityUnitySamples](https://aka.ms/MixedRealityUnitySamples).
+
+Github: [https://github.com/Yonet/AzureMixedRealityDocs](https://github.com/Yonet/AzureMixedRealityDocs/issues)
+
 ## How to use this book?
 
 {% embed url="https://youtu.be/sj9-FrPJdkY" %}
