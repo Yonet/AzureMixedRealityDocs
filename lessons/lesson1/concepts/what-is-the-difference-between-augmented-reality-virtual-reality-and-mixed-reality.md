@@ -1,6 +1,6 @@
 # What is the difference between Augmented Reality, Virtual Reality and Mixed Reality?
 
-{% embed url="https://youtu.be/gR1KkNuCAxY" caption="What is AR/VR/MR/XR?" %}
+{% embed url="https://youtu.be/gR1KkNuCAxY" %}
 
 
 
