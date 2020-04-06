@@ -1,6 +1,10 @@
 # What is Scene Understanding?
 
+**Scene Understanding** is an advanced **feature of Spatial Awareness** that gives **HoloLens 2** developers a structured, high-level **environment representation**.
+
 Your mixed reality device is constantly integrating information about what it sees in your environment. Scene Understanding funnels all of these data sources and produces **one single cohesive abstraction**.
+
+With Scene Understanding, you can rely on the system to tell you when it has detected certain **surfaces** and identify the surfaces as **walls, floors, ceilings**, and **platforms**. Scene Understanding creates a watertight mesh of your environment, even if you haven't scanned it completely.
 
 {% hint style="danger" %}
 Note that Scene Understanding SDK is only available for **HoloLens 2**.
