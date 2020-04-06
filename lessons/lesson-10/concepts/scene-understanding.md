@@ -1,5 +1,7 @@
 # What is Scene Understanding?
 
+Your mixed reality device is constantly integrating information about what it sees in your environment. Scene Understanding funnels all of these data sources and produces **one single cohesive abstraction**.
+
 {% hint style="danger" %}
 Note that Scene Understanding SDK is only available for **HoloLens 2**.
 {% endhint %}
