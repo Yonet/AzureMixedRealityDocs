@@ -10,3 +10,7 @@ The goal of **Scene understanding** is to **transform** the **un-structured envi
 
 ![Common spatial mapping usage scenarios: placement, occlusion, physics and navigation.](../../../.gitbook/assets/sceneunderstandingusage.png)
 
+{% hint style="info" %}
+The process of converting the raw sensor data into a Scene is a potentially **expensive operation** that could take seconds for **medium spaces \(~10x10m\)** to minutes for **very large spaces \(~50x50m\)** and therefore it is not something that is being computed by the device without application **request.**
+{% endhint %}
+
