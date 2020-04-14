@@ -36,7 +36,6 @@
       * [How to choose performant 3D models for your application?](lessons/lesson-2/concepts/how-to-choose-models-for-your-app-for-performance.md)
       * [What is an animation cycle?](lessons/lesson-2/concepts/what-is-an-animation-cycle.md)
     * [Project](lessons/lesson-2/project/README.md)
-      * [Untitled](lessons/lesson-2/project/untitled.md)
       * [How to simulate input interactions in Unity editor?](lessons/lesson-2/project/how-to-simulate-input-interactions-in-unity-editor.md)
       * [How to  set-up HoloLens 2 development environment?](lessons/lesson-2/project/how-to-set-up-hololens-2-development-environment.md)
       * [How to use MRTK Visual Profiler?](lessons/lesson-2/project/how-to-use-mrtk-visual-profiler.md)
