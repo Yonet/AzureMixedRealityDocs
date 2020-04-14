@@ -56,6 +56,7 @@
   * [03 - Hand Interactions and Controllers](lessons/lesson-3/README.md)
     * [Concepts](lessons/lesson-3/concepts/README.md)
       * [Why the hand interaction is important?](lessons/lesson-3/concepts/why-the-hand-interaction-is-important.md)
+      * [What are Gestures?](lessons/lesson-3/concepts/what-are-gestures.md)
     * [Project](lessons/lesson-3/project/README.md)
       * [How to run the MRTK Hand Interaction examples in Unity Editor?](lessons/lesson-3/project/how-to-run-the-mrtk-hand-interaction-examples-in-unity-editor.md)
       * [How to add hand interactions to an object?](lessons/lesson-3/project/how-to-place-an-object-onto-a-surface.md)
