@@ -40,6 +40,16 @@ If you are contributing to Unity Samples, please
 6. Write meaningful commit messages. 
 7. [Make a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) to [the upstream master](https://github.com/Yonet/MixedRealityUnitySamples) when you are done with your changes.
 
+## Being a contributor
+
+{% hint style="info" %}
+If you are a regular contributor you can ask to be added as a contributor and use Gitbook to add or edit content.
+{% endhint %}
+
+If you are planning to contribute regularly, please file an issue to the repository and ask for permission to edit in Gitbook. Once you have access you can edit directly on Gitbook editor as shown in the below video.
+
+{% embed url="https://youtu.be/PRXwcrN38ac" %}
+
 
 
 ```text
