@@ -24,9 +24,9 @@ After the **Near Interaction Touchable (Script)** is added to the object, click 
 
 With the object still selected, click **Add Component** and search for the **Hand Interaction Touch (Script)**. Once found, select the component to add to the object.
 
-![Add Hand Interation Touch Script component](../../../.gitbook/assets/hand_interaction_touch.PNG)
+![Add Hand Interaction Touch Script component](../../../.gitbook/assets/hand_interaction_touch.PNG)
 
-To make audio play when the object is touched, you will need to add an **On Touch Started** event to the **Hand Interaction Touch (Script)** component. In the Inspector window, navigate to the **Hand Interaction Touch (Script)** component and click the small **+** icon to create a new **On Touch Started ()** event. 
+To make audio play when the object is touched, you will need to add an **On Touch Started** event to the **Hand Interaction Touch (Script)** component. In the Inspector window, navigate to the **Hand Interaction Touch (Script)** component and click the small **+** icon to create a new **On Touch Started ()** event.
 
 ![Add Event](../../../.gitbook/assets/add_event.PNG)
 
