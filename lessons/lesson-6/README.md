@@ -4,25 +4,18 @@ description: Working with REST APIs
 
 # 06 - REST APIs
 
-## Concepts
+# Concepts
 
-### What is a REST API?
+* [What is "back-end" code?](what-is-backend-code.md)
+* [What is an API?](what-is-an-api.md)
+* [What are HTTP and REST?](what-are-http-and-rest.md)
+* [Why do we need to work with REST APIs?](why-do-we-need-to-work-with-rest-apis.md)
+* [How can you add real-time data to your application?](how-can-you-add-real-time-data-to-your-application.md)
+* [What is a database?](what-is-a-database.md)
+* [Why are there different databases?](why-are-there-different-databases.md)
+* [Relational vs schemaless databases](relational-vs-schemaless-databases.md)
+* [What are 'serverless' functions?](what-are-serverless-functions.md)
 
-**Representational state transfer** \(**REST**\) is a software architectural style that defines a set of constraints to be used for creating Web services. 
-
-### What is back-end for an application?
-
-### Why do we need to work with a REST API?
-
-To be able to save any user data and progression, we need a back-end system with a storage.
-
-### How to have real time data in your application?
-
-### What are some examples of application that would use realtime websockets vs REST APIs?
-
-### What is a Database?
-
-### Why are there different Databases?
 
 ## Project
 
@@ -40,7 +33,7 @@ How to decide on which database you need for your application?
 
 How to set-up your first database with Azure?
 
-### How to structure your database? 
+### How to structure your database?
 
 How to change your APIs to save the data to your database?
 
@@ -55,6 +48,3 @@ How to handle errors?
 What are the security concerns with REST APIs?
 
 What kind of bugs are common related to REST APIs?
-
-
-
