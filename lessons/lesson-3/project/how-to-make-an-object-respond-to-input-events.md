@@ -20,55 +20,55 @@ To use speech to trigger an objet to rotate, you will need to create a new speec
 
 In the Hierarchy window, click the **MixedRealityToolkit** object. In the Inspector window, click **Clone**.
 
-![Clone Configuration profile](../../../.gitbook/assets/clone_configuration_profile.PNG)
+![Clone Configuration profile](../../../.gitbook/assets/clone_configuration_profile.png)
 
 In the **Clone Profile** window, click **Clone** to create a configuration new profile.
 
-![Create new Configuration profile](../../../.gitbook/assets/create_new_config_profile.PNG)
+![Create new Configuration profile](../../../.gitbook/assets/create_new_config_profile.png)
 
 In the Inspector window, select **Input** and click **Clone**.
 
-![Clone Input profile](../../../.gitbook/assets/clone_input_profile.PNG)
+![Clone Input profile](../../../.gitbook/assets/clone_input_profile.png)
 
 In the **Clone Profile** window, click **Clone** to create a new Input System profile.
 
-![Create new Input profile](../../../.gitbook/assets/create_new_input_profile.PNG)
+![Create new Input profile](../../../.gitbook/assets/create_new_input_profile.png)
 
 Expand the **Speech** section and click **Clone**.
 
-![Clone Speech profile](../../../.gitbook/assets/clone_speech_profile.PNG)
+![Clone Speech profile](../../../.gitbook/assets/clone_speech_profile.png)
 
 In the **Clone Profile** window, click **Clone** to create a new Speech Commands profile.
 
-![Create new Speech profile](../../../.gitbook/assets/create_new_speech_profile.PNG)
+![Create new Speech profile](../../../.gitbook/assets/create_new_speech_profile.png)
 
 In the **Speech Commands** section, click the **+ Add a New Speech Command** button. This will enable you to add a new speech command to the bottom of the list of existing speech commands.
 
-![Add new Speech Command](../../../.gitbook/assets/add_new_speech_command.PNG)
+![Add new Speech Command](../../../.gitbook/assets/add_new_speech_command.png)
 
 In the **Keyword** field, enter the phrase **Change Color**.
 
-![Type in a Keyword](../../../.gitbook/assets/keyword.PNG)
+![Type in a Keyword](../../../.gitbook/assets/keyword.png)
 
 If you intend to use the in-editor simulation to test the trigger but do not have a microphone, assign a **KeyCode** using a corresponding key on your keyboard, for example: **C**.
 
-![Select a KeyCode](../../../.gitbook/assets/keycode.PNG)
+![Select a KeyCode](../../../.gitbook/assets/keycode.png)
 
 In the Hierarchy window, select the object that will perform the action. In the Inspector window, click **Add Component** and search for **Speech Input Handler**. Once found, add the **Speech Input Handler (Script)** to the object.
 
-![Manipulation Type](../../../.gitbook/assets/add_component.PNG)
+![Manipulation Type](../../../.gitbook/assets/add_component.png)
 
 On the **Speech Input Handler (Script)** component, un-check **Is Focus Required**. By unchecking this box, the user is not required to look at the object to trigger the speech command.
 
-![Manipulation Type](../../../.gitbook/assets/is_focus_required.PNG)
+![Manipulation Type](../../../.gitbook/assets/is_focus_required.png)
 
 On the **Speech Input Handler (Script)** component, click the small **+** button to add a keyword element to the list of keywords.
 
-![Manipulation Type](../../../.gitbook/assets/add_keyword.PNG)
+![Manipulation Type](../../../.gitbook/assets/add_keyword.png)
 
 Expand the newly created **Element 0**. Type the new keyword **Change Color** that was created earlier. Unity only allows registered keywords from the **Speech Commands** list in the **Speech Commands Profile**. If you enter a nonregistered keyword, a warning will appear.
 
-![Manipulation Type](../../../.gitbook/assets/type_keyword.PNG)
+![Manipulation Type](../../../.gitbook/assets/type_keyword.png)
 
 Click the **+** button to create a new **Response ()** event. Assign the object to the event and define **MeshRender.Materialmaterial** as the action to be triggered. This will enable you to assign a color.
 
@@ -76,12 +76,12 @@ Click the **+** button to create a new **Response ()** event. Assign the object 
 
 To assign the color, click the circle for the material (currently **None (Material)**). In the **Select Material** window, search for **MRTK_Standard** to locate the MRTK standard materials. Select a color to assign to the material.
 
-![Manipulation Type](../../../.gitbook/assets/search_mrtk_standard.PNG)
+![Manipulation Type](../../../.gitbook/assets/search_mrtk_standard.png)
 
 To test the input event using in editor simulation, press the play button to enter Game mode. 
 
-![Object before color change](../../../.gitbook/assets/before_color_change.PNG)
+![Object before color change](../../../.gitbook/assets/before_color_change.png)
 
 If you have a microphone connected to your computer, say the phrase **Change Color**. If you do not have a microphone connected to your computer, press the **C** key on your keyword.
 
-![Object after color change](../../../.gitbook/assets/color_change.PNG)
+![Object after color change](../../../.gitbook/assets/color_change.png)
