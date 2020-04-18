@@ -4,7 +4,7 @@ Mixed Reality Toolkit is equipped with a variety of button prefabs that you coul
 
 You can find button prefabs available in MRTK by navigating to **MixedRealityToolkit.SDK** > **Features** > **UX** > **Interactable** > **Prefabs**.
 
-![MRTK Button Prefabs](../assets/button_prefabs.PNG)
+![MRTK Button Prefabs](../../../.gitbook/assets/button_prefabs.png)
 
 In this project, you will learn how to change the color of a cube when a button is pressed.
 
