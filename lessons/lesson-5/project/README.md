@@ -1,7 +1,3 @@
----
-description: HoloLens 2 and Windows Mixed Reality Headset project using Bing Maps SDK
----
-
 # Project
 
 In this project we will create a 3D map visualization as shown in the video below:
