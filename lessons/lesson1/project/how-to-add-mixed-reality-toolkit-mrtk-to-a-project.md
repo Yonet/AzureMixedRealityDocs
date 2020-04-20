@@ -1,6 +1,6 @@
 # How to add Mixed Reality Toolkit\(MRTK\) to a project?
 
-If you are using HoloLens Seed project, you do not need to follow this step. **Seed project already comes with MRTK**. Still it's good to know how to import the MRTK assets for your future projects. 
+If you are using HoloLens Seed project, you do not need to follow this step. **Seed project already comes with MRTK**. Still, it's good to know how to import the MRTK assets for your future projects. 
 
 First, you need to download MRTK by going to their github page: [aka.ms/MRTKGithub](https://aka.ms/MRTKGithub) and navigating to **releases tab**. Scroll down to **Assets** section and download the tools:
 

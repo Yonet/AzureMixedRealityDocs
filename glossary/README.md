@@ -14,11 +14,11 @@ is a characteristic of a product or system, whose interfaces are completely unde
 
 #### Dispatcher pattern:
 
-The **dispatcher pattern** is a method for scheduling \(or _dispatching_\) code for execution from a worker-[thread](https://en.wikipedia.org/wiki/Thread_%28computing%29) to the main-thread.  In object-oriented programming, a member variable \(sometimes called a member field\) is a variable that is associated with a specific object, and accessible for all its methods \(member functions\). In class-based languages, these are distinguished into two types: if there is only one copy of the variable shared with all instances of the class, it is called a class variable or static member variable; while if each instance of the class has its own copy of the variable, the variable is called an instance variable.
+The **dispatcher pattern** is a method for scheduling \(or _dispatching_\) code for execution from a worker-[thread](https://en.wikipedia.org/wiki/Thread_%28computing%29) to the main-thread.  In object-oriented programming, a member variable \(sometimes called a member field\) is a variable that is associated with a specific object, and accessible for all its methods \(member functions\). In class-based languages, these are distinguished into two types. If there is only one copy of the variable shared with all instances of the class, it is called a class variable or static member variable.  Iff each instance of the class has its own copy of the variable, the variable is called an instance variable.
 
 #### **Member variable:** 
 
-In object-oriented programming, a member variable \(sometimes called a member field\) is a variable that is associated with a specific object, and accessible for all its methods \(member functions\). In class-based languages, these are distinguished into two types: if there is only one copy of the variable shared with all instances of the class, it is called a class variable or static member variable; while if each instance of the class has its own copy of the variable, the variable is called an instance variable.
+In object-oriented programming, a member variable \(sometimes called a member field\) is a variable that is associated with a specific object and accessible for all its methods \(member functions\). In class-based languages, these are distinguished into two types.  If there is only one copy of the variable shared with all instances of the class, it is called a class variable or static member variable.  If each instance of the class has its own copy of the variable, the variable is called an instance variable.
 
 #### Quaternion: 
 

@@ -4,7 +4,7 @@
 
 ![Mixed Reality Experiences](../../../.gitbook/assets/hololens2_guides.jpg)
 
-We think of **Mixed reality** as a spectrum from **physical world** to **augmented world** to fully immersive **virtual world** and all the possibilities in between.
+We think of **Mixed reality** as a spectrum from the **physical world** to an **augmented world** to fully immersive **virtual world** and all the possibilities in between.
 
 ![Mixed Reality Spectrum](../../../.gitbook/assets/mrspectrum.png)
 

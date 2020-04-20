@@ -48,7 +48,7 @@ foreach (var mapPinLocation in _maoPinLocations)
 
 ### What is clustring map pins means?
 
-An advantage to using the MapPinLayer is that it supports clustering. If a ClusterMapPin prefab is specified on the layer, MapPins will be clustered automatically. When MapPins are clustered, the ClusterMapPin is shown in the place of the many MapPins that associate to it.
+An advantage of using the MapPinLayer is that it supports clustering. If a ClusterMapPin prefab is specified on the layer, MapPins will be clustered automatically. When MapPins are clustered, the ClusterMapPin is shown in the place of the many MapPins that associate to it.
 
 Clustering is highly recommended for large datasets as this will reduce the number of MapPin instances that need to be rendered for zoomed out views. Besides this rendering performance benefit, it is often preferable to cluster MapPins from a usability perspective since dense, cluttered views will make it more difficult for the user to interact with individual MapPins.
 
@@ -82,5 +82,5 @@ It is important to note that the level of detail offset can have a large impact 
 
 ### Can adding pins would slow down my application?
 
-Creating and adding many MapPins at once, either to a MapPinLayer or as children of the MapRenderer, could be time consuming and thus cause a frame hitch. If the MapPins can be initialized and added all at startup, this may be an acceptable one time hit. However, if data is being streamed and converted to MapPins throughout the app's lifetime, consider spreading out the MapPin creation and addition over multiple frames, i.e. time slice the additions. This will help to maintain render performance.
+Creating and adding many MapPins at once, either to a MapPinLayer or as children of the MapRenderer, could be time-consuming, and thus cause a frame hitch. If the MapPins can be initialized and added all at startup, this may be an acceptable one time hit. However, if data is being streamed and converted to MapPins throughout the app's lifetime, consider spreading out the MapPin creation and addition over multiple frames, i.e. time slice the additions. This will help to maintain render performance.
 

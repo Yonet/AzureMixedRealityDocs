@@ -22,7 +22,7 @@ You can use scenes to organize **navigation** inside your application or adding 
 
 ### GameObjects and components
 
-Every object in the game world exists as a **GameObject** in Unity. GameObjects are given specific features by giving them appropriate **components**, which provide a wide range of different functionality. 
+Every object in the game world exists as a **GameObject** in Unity. GameObjects are given specific features by giving them appropriate **components** which provide a wide range of different functionality. 
 
 When you create a new GameObject, it comes with a Transform component already attached. This component controls the GameObject’s positional properties in the 3D \(or 2D\) gamespace. You need to add all other components manually in the Inspector.
 

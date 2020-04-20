@@ -1,6 +1,6 @@
 # Concepts
 
-In this lesson, you will learn about the **basic concepts** about **Mixed Reality** and explore the **applications of Mixed Reality** in different **industries**. 
+In this lesson, you will learn about the **basic concepts** of **Mixed Reality** and explore the **applications of Mixed Reality** in different **industries**. 
 
 Read through the questions below. If you feel comfortable with the answer, feel free to skip to [project](../project/) section or next chapters.
 
