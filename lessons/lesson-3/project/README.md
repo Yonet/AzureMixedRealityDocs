@@ -12,4 +12,4 @@
 - [How to style bounding box?](../../../lessons/lesson-3/project/how-to-style-bounding-box.md)
 - [How to add button prefabs to your project?](../../../lessons/lesson-3/project/how-to-add-button-prefabs-to-your-project.md)
 - [How to make your buttons follow your hand?](../../../lessons/lesson-3/project/how-to-make-your-buttons-follow-your-hand.md)
-- [How to use simplified joint data access?](../../../lessons/lesson-3/project/how-to-run-the-mrtk-hand-interaction-examples-in-unity-editor.md)
+- [How to use simplified joint data access?](../../../lessons/lesson-3/project/how-to-use-simplified-joint-data-access.md)
