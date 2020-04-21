@@ -24,7 +24,7 @@ This display all settings related to the currently selected object. You will exp
 
 #### Project window 
 
-This is where you manage your Project Assets. Assets are the media files used in a Project \(for example, images, 3D models and sound files\). The Project window acts like a file explorer, and can be used to explore and create folders on your computer. When the walkthrough asks you to find an Asset at a given file path, use this window.
+This is where you manage your Project Assets. Assets are the media files used in a Project \(for example, images, 3D models and sound files\). The Project window acts like a file explorer, and it can be used to explore and create folders on your computer. When the walkthrough asks you to find an Asset at a given file path, use this window.
 
 **TIP**: If your Editor layout doesn’t match the image above, use the **layout drop-down** menu at the top right of the toolbar to select **Default**.
 
@@ -96,11 +96,11 @@ This tool enables you to **move**, **rotate**, or **scale** GameObjects, but is 
 
 ![Focusing on an GameObject Keyboard Shortcut: F](../../../.gitbook/assets/gifmaker_20200121133521683.gif)
 
-Another useful shortcut is the **F** key, which enables you to focus on a selected object. If you forget where a GameObject is in your Scene, select it in the Hierarchy. Then move your cursor over the Scene view, and press **F to center** it.
+Another useful shortcut is the **F** key, which enables you to focus on a selected object. If you forget where a GameObject is in your Scene, select it in the Hierarchy. Then, move your cursor over the Scene view and press **F to center** it.
 
 ### Navigating with the mouse
 
-When you’re in the Scene view, you can also:
+When you’re in the Scene view, you can also do the following:
 
 * Left click to select your GameObject in the Scene.
 * Middle click and drag to move the Scene view’s camera using the hand tool.

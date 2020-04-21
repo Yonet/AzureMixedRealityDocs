@@ -16,14 +16,14 @@ Github: [https://github.com/Yonet/AzureMixedRealityDocs](https://github.com/Yone
 
 
 
-This book is designed as a collection of classes that starts from basic concepts and **builds a project** over time. Each lesson can also be used as an **individual workshop**. Each class follow the below structure:
+This book is designed as a collection of classes that starts from basic concepts and **builds a project** over time. Each lesson can also be used as an **individual workshop**. Each class follows the below structure:
 
 * **Core concepts** and discussion points.
-* **Project** step by step walk-through.
-* **What could go wrong** section to discuss the common mistakes and issues.
+* **Project** step-by-step walk-through.
+* **What could go wrong.** A section to discuss the common mistakes and issues.
 * Further reading **resources**.
 
-Each class have **questions** as sections and builds the part of the[ project](https://github.com/Yonet/MixedRealityUnitySamples) related to the question. If you feel comfortable to answer a question, feel free to **move on to the next question** or the next class. 
+Each class has **questions** as sections and builds the corresponding part of the[ project](https://github.com/Yonet/MixedRealityUnitySamples). If you feel you can correctly a question, feel free to **move on to the next question** or the next class. 
 
 If you have any **questions**, **suggestions** and **improvements**, please [**submit an issue**](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) here: [https://github.com/Yonet/AzureMixedRealityDocs/issues](https://github.com/Yonet/AzureMixedRealityDocs/issues).
 
