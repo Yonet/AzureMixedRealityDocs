@@ -34,3 +34,7 @@ Let's take the latest version in the image below, **2019.3.5f:**
 
 In your Unity Hub, under the project tab, you can select the Unity version drop down for your application and select a newer version of Unity. Unity will confirm your choice before updating your project. It is a good idea to save a version of your project as a new branch in Github, in case you need to revert back.
 
+### What could go wrong with Unity NuGet packages?
+
+Here is a detailed article about the subject: [https://www.what-could-possibly-go-wrong.com/unity-and-nuget/](https://www.what-could-possibly-go-wrong.com/unity-and-nuget/)
+
