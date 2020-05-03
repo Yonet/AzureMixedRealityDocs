@@ -14,7 +14,7 @@ description: >-
 This project is for **HoloLens 2** and **Windows Mixed Reality Headsets**.
 {% endhint %}
 
-In this project, we will create a 3D Map visualization using [Bing Maps Unity SDK](https://github.com/microsoft/MapsSDK-Unity?WT.mc_id=github-mixedrealitycurriculum-ayyonet). 
+In this project, we will create a 3D Map visualization using [Bing Maps Unity SDK](https://github.com/microsoft/MapsSDK-Unity?WT.mc_id=github-mixedrealitycurriculum-ayyonet):[ aka.ms/BingMapsUnitySDK](https://aka.ms/BingMapsUnitySDK)
 
 ![Bing Maps Visualization Example.](../../.gitbook/assets/maprenderer-cylinder.png)
 
