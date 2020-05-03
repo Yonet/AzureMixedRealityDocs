@@ -8,7 +8,7 @@ description: >-
 
 ### Overview
 
-**Shortlink**: [https://aka.ms/UnityBingMapsVisualizationLesson](https://aka.ms/UnityBingMapsVisualizationLesson)
+**Shortlink**: [aka.ms/UnityBingMapsVisualizationLesson](https://aka.ms/UnityBingMapsVisualizationLesson)
 
 {% hint style="warning" %}
 This project is for **HoloLens 2** and **Windows Mixed Reality Headsets**.
