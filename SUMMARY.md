@@ -39,6 +39,7 @@
       * [How to simulate input interactions in Unity editor?](lessons/lesson-2/project/how-to-simulate-input-interactions-in-unity-editor.md)
       * [How to  set-up HoloLens 2 development environment?](lessons/lesson-2/project/how-to-set-up-hololens-2-development-environment.md)
       * [How to use MRTK Visual Profiler?](lessons/lesson-2/project/how-to-use-mrtk-visual-profiler.md)
+      * [How to set-up HoloLens 2 Emulator](lessons/lesson-2/project/how-to-set-up-hololens-2-emulator.md)
       * [How to deploy to HoloLens Emulator?](lessons/lesson-2/project/how-to-deploy-to-hololens-emulator.md)
       * [What is HoloLens Device Portal?](lessons/lesson-2/project/what-is-hololens-device-portal.md)
       * [How to monitor performance of your app?](lessons/lesson-2/project/how-to-monitor-performance-of-your-app.md)
