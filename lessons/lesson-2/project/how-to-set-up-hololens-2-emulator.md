@@ -27,15 +27,11 @@ Before installing the emulator, make sure your PC meets the following **hardware
 
 ### How to check or enable "Hyper-V" settings?
 
-{% embed url="https://youtu.be/y7IfnUXVzk8" %}
+{% embed url="https://youtu.be/y7IfnUXVzk8" caption="How to check or enable \"Hyper-V\" on your PC" %}
 
 ### How to install or update the Emulator?
 
-{% embed url="https://youtu.be/mK-bCFWBmyE" %}
-
-### What is HoloLens Emulator?
-
-{% embed url="https://channel9.msdn.com/Shows/Docs-Mixed-Reality/HoloLens-2-Emulator-Overview?WT.mc\_id=github-mixedrealitycurriculum-ayyonet" %}
+{% embed url="https://youtu.be/mK-bCFWBmyE" caption="How to install or update HoloLens Emulator?" %}
 
 
 
