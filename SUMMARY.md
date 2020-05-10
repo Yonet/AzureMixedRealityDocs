@@ -63,6 +63,7 @@
       * [How to run the \(Mixed Reality Toolkit\)MRTK Hand Interaction examples in Unity Editor?](lessons/lesson-3/project/how-to-run-the-mrtk-hand-interaction-examples-in-unity-editor.md)
       * [How to add hand interactions to an object?](lessons/lesson-3/project/how-to-place-an-object-onto-a-surface.md)
       * [How to add Manipulation Handler to your object?](lessons/lesson-3/project/how-to-add-manipulation-handler-to-your-object.md)
+      * [How to organize your objects into a grid view?](lessons/lesson-3/project/how-to-organize-your-objects-into-a-grid-view.md)
       * [How to grab and move an object?](lessons/lesson-3/project/how-to-grab-and-move-an-object.md)
       * [How to rotate and scale an object?](lessons/lesson-3/project/how-to-rotate-and-scale-an-object.md)
       * [How to make an object respond to input events?](lessons/lesson-3/project/how-to-make-an-object-respond-to-input-events.md)
