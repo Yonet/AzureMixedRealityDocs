@@ -60,7 +60,7 @@
       * [Why the hand interaction is important?](lessons/lesson-3/concepts/why-the-hand-interaction-is-important.md)
       * [What are Gestures?](lessons/lesson-3/concepts/what-are-gestures.md)
     * [Project](lessons/lesson-3/project/README.md)
-      * [How to run the MRTK Hand Interaction examples in Unity Editor?](lessons/lesson-3/project/how-to-run-the-mrtk-hand-interaction-examples-in-unity-editor.md)
+      * [How to run the \(Mixed Reality Toolkit\)MRTK Hand Interaction examples in Unity Editor?](lessons/lesson-3/project/how-to-run-the-mrtk-hand-interaction-examples-in-unity-editor.md)
       * [How to add hand interactions to an object?](lessons/lesson-3/project/how-to-place-an-object-onto-a-surface.md)
       * [How to add Manipulation Handler to your object?](lessons/lesson-3/project/how-to-add-manipulation-handler-to-your-object.md)
       * [How to grab and move an object?](lessons/lesson-3/project/how-to-grab-and-move-an-object.md)
