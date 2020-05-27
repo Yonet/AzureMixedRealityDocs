@@ -10,6 +10,8 @@ Code Samples: [https://aka.ms/MixedRealityUnitySamples](https://aka.ms/MixedReal
 
 Github: [https://github.com/Yonet/AzureMixedRealityDocs](https://github.com/Yonet/AzureMixedRealityDocs/issues)
 
+Slack Channel: [https://holodevelopers.slack.com/archives/G012X50UVML](https://holodevelopers.slack.com/archives/G012X50UVML)
+
 ## How to use this book?
 
 {% embed url="https://youtu.be/sj9-FrPJdkY" %}
