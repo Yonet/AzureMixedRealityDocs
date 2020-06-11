@@ -1,62 +1,39 @@
-# How to build and deploy your project for Android?
+# How to set up your project for iOS or Android\[Experimental\]?
 
-{% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
-{% api-method-summary %}
-Get Cakes
-{% endapi-method-summary %}
+**1 \)** Make sure you have imported  **Microsoft.MixedReality.Toolkit.Unity.Foundation** as a custom asset or through NuGet. 
 
-{% api-method-description %}
-This endpoint allows you to get free cakes.
-{% endapi-method-description %}
+**2 \)** In the Unity Package Manager \(UPM\), install the following packages:
 
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="id" type="string" %}
-ID of the cake to get, for free of course.
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
+| Android | iOS |
+| :--- | :--- |
+| AR Foundation Version: 2.1.4 | AR Foundation Version: 2.1.4 |
+| ARCore XR Plugin Version: 2.1.2 | ARKit XR Plugin Version: 2.1.2 |
 
-{% api-method-headers %}
-{% api-method-parameter name="Authentication" type="string" required=true %}
-Authentication token to track down who is emptying our stocks.
-{% endapi-method-parameter %}
-{% endapi-method-headers %}
+**3 \)** Enabling the Unity AR camera settings provider.
 
-{% api-method-query-parameters %}
-{% api-method-parameter name="recipe" type="string" %}
-The API will do its best to find a cake matching the provided recipe.
-{% endapi-method-parameter %}
+The following steps presume use of the MixedRealityToolkit object. Steps required for other service registrars may be different.
 
-{% api-method-parameter name="gluten" type="boolean" %}
-Whether the cake should be gluten-free or not.
-{% endapi-method-parameter %}
-{% endapi-method-query-parameters %}
-{% endapi-method-request %}
+1. Select the **MixedRealityToolkit** object in the scene hierarchy.
 
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-Cake successfully retrieved.
-{% endapi-method-response-example-description %}
+![MixedReality Toolkit in Hierarchy panel.](../../../.gitbook/assets/mrtk_configuredhierarchy.png)
 
-```
-{    "name": "Cake's name",    "recipe": "Cake's recipe name",    "cake": "Binary cake"}
-```
-{% endapi-method-response-example %}
+  2. Select **Copy and Customize** to Clone the MRTK Profile to enable custom configuration.
 
-{% api-method-response-example httpCode=404 %}
-{% api-method-response-example-description %}
-Could not find a cake matching this query.
-{% endapi-method-response-example-description %}
+![Copy and Customize to Clone the MRTK Profile.](../../../.gitbook/assets/cloneprofilearfoundation.png)
 
-```
-{    "message": "Ain't no cake like that."}
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
+ 3.  Select **Clone** next to the Camera Profile.
 
+![Clone camera profile.](../../../.gitbook/assets/clonecameraprofilearfoundation.png)
 
+4.  Navigate the Inspector panel to the camera system section and expand the **Camera Settings Providers** section.
+
+![Camera Settings Providers](../../../.gitbook/assets/expandproviders.png)
+
+ 5.  Click **Add Camera Settings Provider** and expand the newly added **New camera settings** entry.
+
+![New camera settings expanded view.](../../../.gitbook/assets/expandnewprovider.png)
+
+ 6. Select the Unity AR Camera Settings provider from the Type drop down.
+
+![Unity AR Camera Settings.](../../../.gitbook/assets/selectunityarsettings.png)
 
