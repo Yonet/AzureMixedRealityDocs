@@ -20,6 +20,9 @@ Check your knowledge by answering below question before you move into the projec
 * [How to enable Developer Mode on an Android device?](how-to-enable-developer-mode-on-an-android-device.md)
 * [How to build your project for **HoloLens?**](how-to-build-your-project-for-hololens.md)\*\*\*\*
 * [How to deploy your app for **HoloLens?**](how-to-deploy-your-app-to-a-hololens.md)\*\*\*\*
+* [How to set up your project for iOS and Android\[Experimental\]?](how-to-setup-your-app-for-ios-android-device.md)
+* [How to build and deploy your project for **Android?**](how-to-build-your-scene-for-android-and-ios-devices.md)\*\*\*\*
 * [How to build and deploy your project for **Windows Mixed Reality Headset**?](how-to-build-your-project-for-windows-mixed-reality-headset.md)
-* [How to build and deploy your project for **Android?**](how-to-build-your-project-for-windows-mixed-reality-headset.md)\*\*\*\*
+
+
 
