@@ -8,3 +8,7 @@ description: Blueprints scripting overview
 
 ![Blueprints Visual Scripting editor panel](../../.gitbook/assets/blueprints.png)
 
+This system is extremely **flexible** and **powerful** as it provides the ability for **designers** to use virtually the full range of concepts and tools generally only available to programmers. 
+
+In addition, **Blueprint-specific markup** available in **Unreal Engine's C++** implementation enables programmers to create baseline systems that can be extended by designers.
+
