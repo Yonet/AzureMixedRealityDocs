@@ -168,6 +168,7 @@
 * [Unreal Engine Lessons](mixed-reality-using-unreal-engine/README.md)
   * [Blueprints](mixed-reality-using-unreal-engine/blueprints/README.md)
     * [What are Blueprints?](mixed-reality-using-unreal-engine/blueprints/what-are-blueprints.md)
+    * [How to add functionality to buttons using blueprints?](mixed-reality-using-unreal-engine/blueprints/how-to-add-functionality-to-buttons-using-blueprints.md)
 * [Exercises](exercises/README.md)
   * [Creating your first app](exercises/creating-your-first-app.md)
   * [Adding interactions](exercises/adding-interactions.md)

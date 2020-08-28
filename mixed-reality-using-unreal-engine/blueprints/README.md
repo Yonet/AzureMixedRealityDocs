@@ -7,4 +7,5 @@ description: Blueprints Visual Scripting
 In this chapter, we will learn Blueprints basics and create interactive UI elements using blueprints.
 
 * [What are Blueprints?](what-are-blueprints.md)
+* [How to add functionality to buttons using blueprints?](how-to-add-functionality-to-buttons-using-blueprints.md)
 
