@@ -8,6 +8,8 @@ Short link: [aka.ms/UnityIntroToMixedReality](https://aka.ms/UnityIntroToMixedRe
 
 ![QR code for Introduction to Mixed Reality](../../.gitbook/assets/unityintro2mr.png)
 
+![](../../.gitbook/assets/unrealuxtoolsfeatures.png)
+
 ### Overview
 
 In this lesson, you will learn about the **basic concepts** of **Mixed Reality** and explore the **applications of Mixed Reality** in different **industries**. 
