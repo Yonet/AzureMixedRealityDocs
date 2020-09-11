@@ -4,3 +4,5 @@ In their basic form, Blueprints are **visually scripted** additions to your game
 
 Blueprints work by using graphs of Nodes for various purposes - **object construction**, **individual functions**, and general **gameplay events** - that are specific to each instance of the Blueprint in order to implement behavior and other functionality.
 
+Let's look at each of these use cases by an example.
+
