@@ -169,6 +169,7 @@
   * [Blueprints](mixed-reality-using-unreal-engine/blueprints/README.md)
     * [Concepts](mixed-reality-using-unreal-engine/blueprints/concepts/README.md)
       * [What are Blueprints?](mixed-reality-using-unreal-engine/blueprints/concepts/what-are-blueprints.md)
+      * [How Do Blueprints Work?](mixed-reality-using-unreal-engine/blueprints/concepts/how-do-blueprints-work.md)
     * [Project](mixed-reality-using-unreal-engine/blueprints/project/README.md)
       * [How to add functionality to buttons using blueprints?](mixed-reality-using-unreal-engine/blueprints/project/how-to-add-functionality-to-buttons-using-blueprints.md)
     * [What could go wrong?](mixed-reality-using-unreal-engine/blueprints/what-could-go-wrong.md)
