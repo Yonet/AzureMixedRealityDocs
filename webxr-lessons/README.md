@@ -1,10 +1,14 @@
 ---
 description: >-
   Learn how to develop Mixed Reality experiences on the web using WebXR Device
-  APIs
+  APIs.
 ---
 
 # WebXR Lessons
+
+Short link to WebXR Lessons: [http://bit.ly/WebXRCurriculum](http://bit.ly/WebXRCurriculum)
+
+Windows Mixed Reality JavaScript Documentation: [https://bit.ly/MixedRealityJavaScript](https://bit.ly/MixedRealityJavaScript)
 
 ### What are WebXR Device APIs?
 
@@ -45,5 +49,5 @@ description: >-
 
   
 
-![More Coming Soon!](.gitbook/assets/comingsoon.jpg)
+![More Coming Soon!](../.gitbook/assets/comingsoon.jpg)
 
