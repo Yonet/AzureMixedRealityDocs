@@ -1,3 +1,7 @@
+---
+description: Learn Mixed Reality development using Azure Mixed Reality Services
+---
+
 # Azure Mixed Reality Curriculum
 
 Short link: [aka.ms/MixedRealityCurriculum](https://aka.ms/MixedRealityCurriculum)
