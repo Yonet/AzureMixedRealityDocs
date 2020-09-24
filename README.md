@@ -10,8 +10,6 @@ description: >-
 
 {% embed url="https://youtu.be/sj9-FrPJdkY" %}
 
-
-
 This book is designed as a collection of classes that starts from basic concepts and **builds a project** over time. Each lesson can also be used as an **individual workshop**. Each class follows the below structure:
 
 * **Core concepts** and discussion points.
