@@ -1,20 +1,10 @@
 ---
-description: Learn Mixed Reality development using Azure Mixed Reality Services
+description: >-
+  Learn Mixed Reality development using Azure Mixed Reality Services. Short
+  link: aka.ms/MixedRealityCurriculum
 ---
 
 # Azure Mixed Reality Curriculum
-
-Short link: [aka.ms/MixedRealityCurriculum](https://aka.ms/MixedRealityCurriculum)
-
-![Curriculum Link QR Code](.gitbook/assets/curriculum.png)
-
-Mixed Reality Curriculum Playlist: [https://aka.ms/MixedRealityCurriculumVideos](https://aka.ms/MixedRealityCurriculumVideos).
-
-Code Samples: [https://aka.ms/MixedRealityUnitySamples](https://aka.ms/MixedRealityUnitySamples).
-
-Github: [https://github.com/Yonet/AzureMixedRealityDocs](https://github.com/Yonet/AzureMixedRealityDocs/issues)
-
-Slack Channel: [https://holodevelopers.slack.com/archives/G012X50UVML](https://holodevelopers.slack.com/archives/G012X50UVML)
 
 ## How to use this book?
 
@@ -54,5 +44,17 @@ Hope you enjoy developing your mixed reality application!
 * [Lesson 11](lessons/lesson-10/): Getting Started with AI.
 * [Lesson 12](lessons/lesson-12/): Project Discussion and Case Studies.
 
+## Links
 
+Short link: [aka.ms/MixedRealityCurriculum](./)
+
+![Curriculum Link QR Code](.gitbook/assets/curriculum.png)
+
+Mixed Reality Curriculum Playlist: [https://aka.ms/MixedRealityCurriculumVideos](https://aka.ms/MixedRealityCurriculumVideos).
+
+Code Samples: [https://aka.ms/MixedRealityUnitySamples](https://aka.ms/MixedRealityUnitySamples).
+
+Github: [https://github.com/Yonet/AzureMixedRealityDocs](https://github.com/Yonet/AzureMixedRealityDocs/issues)
+
+Slack Channel: [https://holodevelopers.slack.com/archives/G012X50UVML](https://holodevelopers.slack.com/archives/G012X50UVML)
 
