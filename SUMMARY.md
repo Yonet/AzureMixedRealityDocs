@@ -164,6 +164,7 @@
     * [What could go wrong?](lessons/lesson-12/what-could-go-wrong.md)
 * [WebXR Lessons](webxr-lessons/README.md)
   * [What is BabylonJS?](webxr-lessons/what-is-babylonjs.md)
+  * [How to debug and test your WebXR Application with Chrome Dev Tools?](webxr-lessons/how-to-debug-and-test-your-webxr-application-with-chrome-dev-tools.md)
 * [Unreal Engine Lessons](mixed-reality-using-unreal-engine/README.md)
   * [Blueprints](mixed-reality-using-unreal-engine/blueprints/README.md)
     * [Concepts](mixed-reality-using-unreal-engine/blueprints/concepts/README.md)
