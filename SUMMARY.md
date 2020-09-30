@@ -189,6 +189,7 @@
   * [Working with Azure Spatial Anchors for shared experiences](exercises/working-with-azure-spatial-anchors-for-shared-experiences.md)
 * [FAQ](faq.md)
 * [Glossary](glossary/README.md)
+  * [AI](glossary/ai.md)
   * [Mixed Reality](glossary/mixed-reality.md)
 * [How to contribute?](how-to-contribute.md)
 
