@@ -174,7 +174,7 @@
     * [Project](mixed-reality-using-unreal-engine/blueprints/project/README.md)
       * [How to add functionality to buttons using blueprints?](mixed-reality-using-unreal-engine/blueprints/project/how-to-add-functionality-to-buttons-using-blueprints.md)
     * [What could go wrong?](mixed-reality-using-unreal-engine/blueprints/what-could-go-wrong.md)
-* [AI Lessons](ai-lessons/README.md)
+* [Artificial Intelligence\(AI\) Lessons](ai-lessons/README.md)
   * [Image Detection](ai-lessons/image-detection.md)
 * [Exercises](exercises/README.md)
   * [Creating your first app](exercises/creating-your-first-app.md)

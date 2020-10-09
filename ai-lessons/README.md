@@ -2,7 +2,5 @@
 description: Artificial Intelligence with Azure Cognitive Services
 ---
 
-# AI Lessons
-
-AI Lessons
+# Artificial Intelligence\(AI\) Lessons
 
