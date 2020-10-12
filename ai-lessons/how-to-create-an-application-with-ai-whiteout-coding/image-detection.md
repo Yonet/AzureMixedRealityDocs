@@ -22,5 +22,7 @@ Make sure each object has approximately the same amount of images tagged. If you
 
 Tag your objects by selection a square that your object is in and choosing the name of the object.
 
-![Tagging HoloLens 2](../../.gitbook/assets/tagging.png)
+![Tagging objects](../../.gitbook/assets/tagging%20%281%29.png)
+
+Once you are done choose Done Tagging and Train. Training process will take some time. 
 
