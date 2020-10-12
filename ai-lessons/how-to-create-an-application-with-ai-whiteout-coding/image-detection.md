@@ -30,3 +30,7 @@ Once you are done choose Done Tagging and Train. Training process will take some
 
  If you choose to not use an image or clear any tags, you can do that at any time by going back to your **model** under the **AI Builder** on the left handside menu and  choose your model and choose edit. 
 
+AI Builder will give you a Performance score over 100 and a way to quickly test your model before publishing. You can edit your models and retrain to improve your performance. Next section will give you some best practices to improve your performance. 
+
+![Performance score of trained model](../../.gitbook/assets/performance.png)
+
