@@ -10,7 +10,7 @@ Object detection can detect up to **500 different objects in a single model** an
 
 You can try out and see how object detection works before having to create and accounts or apps yourself on the [Azure Computer Vision](https://azure.microsoft.com/services/cognitive-services/computer-vision/?WT.mc_id=aiml-8438-ayyonet#features) page. 
 
-![Try out Computer Vision capabilities](../../.gitbook/assets/seeitinaction.png)
+![Try out Computer Vision capabilities with your own images](../../.gitbook/assets/seeitinaction.png)
 
 ### What can you do with Object Detection?
 
