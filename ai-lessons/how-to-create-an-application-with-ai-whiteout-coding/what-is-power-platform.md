@@ -4,7 +4,7 @@ Power Platform is a set of **tools,** **API**'s and **SDK**'s that helps you **a
 
 ![Power Platform features](../../.gitbook/assets/powerplatform.png)
 
-### What is Power Apps?
+### What are Power Apps?
 
 Power Apps is a set of tools that allows you to create applications with a drag and drop UI and easy integration of your data and 3rd party APIs through connectors. 
 

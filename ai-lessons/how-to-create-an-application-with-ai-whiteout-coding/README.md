@@ -8,7 +8,7 @@ You might have an idea for an application using AI and not have anyone to build 
 
 This article will explain what is the power platform as well as go through a step by step process to create an app that detects objects from photos using **Power Apps** and **AI Builder.** Read or skip through the questions to learn how to build your first Power App with AI features.
 
-{% embed url="https://youtu.be/VXD5ma2ZExw" %}
+{% embed url="https://youtu.be/VXD5ma2ZExw" caption="Object Detection App made with Power Apps" %}
 
 
 
