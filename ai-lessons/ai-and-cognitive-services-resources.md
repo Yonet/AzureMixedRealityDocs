@@ -15,7 +15,10 @@ Shortlink to AI Resources: [https://aka.ms/CurriculumAIResources](https://aka.ms
 ## Power Platform
 
 * [Power Apps Free Trial](https://docs.microsoft.com/powerapps/maker/signup-for-powerapps?WT.mc_id=aiml-8438-ayyonet)
+* [Power Platform Overview](https://powerplatform.microsoft.com/?WT.mc_id=aiml-8438-ayyonet)
 * [Power Platform Documentation](https://docs.microsoft.com/power-platform/?WT.mc_id=aiml-8438-ayyonet)
 * [AI Builder Documentation](https://docs.microsoft.com/ai-builder/?WT.mc_id=aiml-8438-ayyonet)
 * [Power Platform Videos](https://www.youtube.com/c/mspowerplatform/?WT.mc_id=aiml-8438-ayyonet)
+
+
 

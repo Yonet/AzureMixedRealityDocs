@@ -1,22 +1,27 @@
 # What is Power Platform?
 
-With AI Builder, you can add intelligence to your apps even if you have no coding or data science skills.
+Power Platform is a set of **tools,** **API**'s and **SDK**'s that helps you **analyze your data** and build **automations,** **applications** and **virtual agents** with or without having to write any code.
+
+![Power Platform features](../../.gitbook/assets/powerplatform.png)
+
+### What is Power Apps?
+
+Power Apps is a set of tools that allows you to create applications with a drag and drop UI and easy integration of your data and 3rd party APIs through connectors. 
+
+### What is AI Builder?
+
+AI Builder is one of the additional features of Power Apps. With AI Builder, you can add intelligence to your apps even if you have no coding or data science skills. 
+
+#### What are some of the use cases for AI Builder?
+
+You can use pre-trained models to:
+
+* Detect objects from images
+* Analyze your customers sentiment from feedback, 
+* Detect keywords from and 
+* Extract specific information about your business from text
 
 
-
-### Can I use Power Apps and AI Builder for production?
-
-Yes you can. As any tool that does things magically, AI Builder in Power Apps comes with a cost. That doesn't mean you can't [try your ideas out for free](https://docs.microsoft.com/powerapps/maker/signup-for-powerapps?WT.mc_id=aiml-8438-ayyonet).
-
-#### What will my production app cost?
-
-If you want to go to production with Power Apps, it is a good idea to consider the costs. Thankfully there is an app for that.[ AI Builder Calculator](https://powerapps.microsoft.com/ai-builder-calculator/?WT.mc_id=aiml-8438-ayyonet) let's you input what **AI tools you will need** and **how many users** will be accessing your app's AI features and gives you the price it will cost you. 
-
-![AI Builder cost calculator](../../.gitbook/assets/aibuildercalculate%20%281%29.png)
-
-#### What are the preview features?
-
-![AI Builder preview features notice](../../.gitbook/assets/aibuilderpreview.png)
 
 
 
