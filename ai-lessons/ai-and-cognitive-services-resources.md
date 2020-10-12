@@ -10,7 +10,7 @@ Shortlink to AI Resources: [https://aka.ms/CurriculumAIResources](https://aka.ms
 
 ### Core Concepts
 
-* [What is Machine Learning Model?](https://docs.microsoft.com/windows/ai/windows-ml/what-is-a-machine-learning-model?WT.mc_id=aiml-8438-ayyonet)
+* [What is a Machine Learning Model?](https://docs.microsoft.com/windows/ai/windows-ml/what-is-a-machine-learning-model?WT.mc_id=aiml-8438-ayyonet)
 
 ## Power Platform
 
