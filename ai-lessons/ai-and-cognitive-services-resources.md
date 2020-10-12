@@ -20,6 +20,16 @@ Shortlink to AI Resources: [https://aka.ms/CurriculumAIResources](https://aka.ms
 * [AI Builder Documentation](https://docs.microsoft.com/ai-builder/?WT.mc_id=aiml-8438-ayyonet)
 * [Power Platform Videos](https://www.youtube.com/c/mspowerplatform/?WT.mc_id=aiml-8438-ayyonet)
 * [AI Builder Release Status](https://docs.microsoft.com/ai-builder/overview?WT.mc_id=aiml-8438-ayyonet#release-status)
+* [AI Builder Cost Calculator](https://powerapps.microsoft.com/en-us/ai-builder-calculator/?WT.mc_id=aiml-8438-ayyonet)
+
+### Logic Apps
+
+* [Logic Apps Documentation](https://docs.microsoft.com/azure/logic-apps/logic-apps-overview?WT.mc_id=aiml-8438-ayyonet)
+* [Logic Apps Pricing](https://azure.microsoft.com/pricing/details/logic-apps/?WT.mc_id=aiml-8438-ayyonet)
+
+### Azure 
+
+* [Azure Product Cost Calculator](https://azure.microsoft.com/pricing/calculator/?service=logic-apps&WT.mc_id=aiml-8438-ayyonet)
 
 
 

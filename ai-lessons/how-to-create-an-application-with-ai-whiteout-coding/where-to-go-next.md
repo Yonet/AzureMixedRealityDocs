@@ -21,5 +21,5 @@ Check out the list of [Power Apps Connectors ](https://docs.microsoft.com/connec
 
 ### How to compare costs for Power Apps and Logic Apps?
 
-Once you start using your app, you will have a better idea about the number of users accessing AI capabilities and the number of images that you need to train. You can use [AI Builder Cost Calculator](https://powerapps.microsoft.com/en-us/ai-builder-calculator/?WT.mc_id=aiml-8438-ayyonet) and [Logic App Cost Calculator](https://azure.microsoft.com/pricing/details/logic-apps/?WT.mc_id=aiml-8438-ayyonet) to compare options.
+Once you start using your app, you will have a better idea about the number of users accessing AI capabilities and the number of images that you need to train. You can use [AI Builder Cost Calculator](https://powerapps.microsoft.com/en-us/ai-builder-calculator/?WT.mc_id=aiml-8438-ayyonet) and [Logic App Cost Calculator](https://azure.microsoft.com/pricing/details/logic-apps/?WT.mc_id=aiml-8438-ayyonet) to compare options. You can check any other service price through [Azure Product Cost Calculator](https://azure.microsoft.com/pricing/calculator/?service=logic-apps&WT.mc_id=aiml-8438-ayyonet).
 
