@@ -10,11 +10,11 @@ Great question! There are so **many tools** out there and **many ways to do the 
 
 I have a rule of thumb when I want to build something, use what ever is available and easy to use first. When your needs exceeds what the tool you are using covers, look into another solution or building it yourself. 
 
-For example, if you have an app idea, it is better to have a prototype running as easily as possible. You can test your ideas before investing your time into building custom designed UI or features. In our specific case, you can first prototype your app with the **drag and drop UI** of **Power Apps** and using **prebuild AI models**. When your specific needs surface, such as recognizing a particular object or keyword, you can invest your time into creating your custom models to train for the **object** or **keyword detection**.
-
 {% hint style="info" %}
-Use the tool easiest to get started when you are building something. When your needs exceeds the capabilities of the tool you are using, find a solution that enables you. Don't invest in building things from scratch before you know it is worth it to do so.
+Use the tool **easiest** to get started when you are building your idea. When your **needs exceeds the capabilities** of the tool you are using, find a solution that enables you. Don't invest in building things from scratch before you know it is worth it to do so.
 {% endhint %}
+
+For example, if you have an app idea, it is better to have a prototype running as easily as possible. You can test your ideas before investing your time into building custom designed UI or features. In our specific case, you can first prototype your app with the **drag and drop UI** of **Power Apps** and using **prebuild AI models**. When your specific needs surface, such as recognizing a particular object or keyword, you can invest your time into creating your custom models to train for the **object** or **keyword detection**.
 
 ### Can I use Power Apps and AI Builder for production?
 
@@ -26,5 +26,13 @@ If you want to go to production with Power Apps, it is a good idea to consider t
 
 ![AI Builder cost calculator](../../.gitbook/assets/aibuildercalculate%20%281%29.png)
 
-#### 
+#### What are preview features?
+
+AI Builder was released for **public preview** on June 10, 2019, in Europe and the United States. Preview release features are subject to change and may have restricted functionality before the official release for general availability. Preview releases are not meant for production use. You can try them out and influence the final product by giving feedback. 
+
+The **General Availability\(GA**\) release will occur in a phased manner, with some features remaining in **preview status** while others are released for GA.
+
+![AI Builder Preview features notice](../../.gitbook/assets/aibuilderpreview.png)
+
+
 
