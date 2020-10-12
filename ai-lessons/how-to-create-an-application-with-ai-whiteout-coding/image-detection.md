@@ -6,12 +6,6 @@ To start creating your AI model for your app, sign in to [Power Apps](https://po
 
 Name your new AI model with a unique name. Select Common Objects and proceed to next section.
 
-
-
-
-
-
-
 ![Train your custom model screen for Object Detection](../../.gitbook/assets/commonobj.png)
 
 Name the objects that you are going to detect. 
@@ -25,4 +19,8 @@ Upload images that contains the object you will detect. To start with you can up
 Make sure each object has approximately the same amount of images tagged. If you have more examples of one object, the training data will be likely to detect that object when it is not. 
 
 ![False positive HoloLens 2 detection](../../.gitbook/assets/testresult.png)
+
+Tag your objects by selection a square that your object is in and choosing the name of the object.
+
+![Tagging HoloLens 2](../../.gitbook/assets/tagging.png)
 
