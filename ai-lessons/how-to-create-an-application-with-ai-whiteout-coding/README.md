@@ -4,9 +4,7 @@ description: A fast and easy way to prototype apps with AI capabilities
 
 # How to create an application with AI whiteout coding?
 
-Shortlink: [https://aka.ms/NoCodeAI](https://aka.ms/NoCodeAI)
-
-You might have an idea for an application using AI and not have anyone to build it. You might be a programmer and want to try out your ideas before start writing code. No matter what your coding skill level is, if you want to prototype an application with AI, [**Power Platform**](https://powerplatform.microsoft.com/?WT.mc_id=aiml-8438-ayyonet) and it's [**AI Builder** ](https://powerapps.microsoft.com/ai-builder/?WT.mc_id=aiml-8438-ayyonet) ****feature is a **fast** and **easy option**. 
+You might have an idea for an application using AI and not have anyone to build it. You might be a programmer and want to try out your ideas before start writing code. No matter what your coding skill level is, if you want to prototype an application with AI, **Power Platform** and it's **AI Builder** feature is a **fast** and **easy option**. 
 
 This article will explain what is the power platform as well as go through a step by step process to create an app that detects objects from photos using **Power Apps** and **AI Builder.** Read or skip through the questions to learn how to build your first Power App with AI features.
 
