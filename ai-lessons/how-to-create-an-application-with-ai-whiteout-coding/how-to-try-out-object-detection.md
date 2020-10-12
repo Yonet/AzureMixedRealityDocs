@@ -12,3 +12,9 @@ You can try out and see how object detection works before having to create and a
 
 ![Try out Computer Vision capabilities](../../.gitbook/assets/seeitinaction.png)
 
+### What can you do with Object Detection?
+
+* Object counting and inventory management
+* Brand logo recognition
+* Wildlife animal recognition
+
