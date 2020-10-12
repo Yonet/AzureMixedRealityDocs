@@ -13,9 +13,21 @@ This article will explain what is the power platform as well as go through a ste
 
 
 * [What is Power Platform?](what-is-power-platform.md)
-  * [Can I use Power Apps and AI Builder for production?](what-is-power-platform.md#can-i-use-power-apps-and-ai-builder-for-production)
-  * [What will my production app cost?](what-is-power-platform.md#what-will-my-production-app-cost)
-  * [What are the preview features?](what-is-power-platform.md#what-are-the-preview-features)
+  * [What are Power Apps?](what-is-power-platform.md#what-are-power-apps)
+  * [What is AI Builder?](what-is-power-platform.md#what-is-ai-builder)
+  * [What are some of the use cases for AI Builder?](what-is-power-platform.md#what-are-some-of-the-use-cases-for-ai-builder)
+* [Is AI Builder the right choice?](is-ai-builder-is-the-right-choice.md)
+  * [Can I use Power Apps and AI Builder for production?](is-ai-builder-is-the-right-choice.md#can-i-use-power-apps-and-ai-builder-for-production)
+  * [What will my production app cost?](is-ai-builder-is-the-right-choice.md#what-will-my-production-app-cost)
+  * [What are the preview features?](is-ai-builder-is-the-right-choice.md#what-are-preview-features)
+* [What is Object Detection?](how-to-try-out-object-detection.md)
+  * [How to try out Object Detection capabilities?](how-to-try-out-object-detection.md#how-to-try-out-object-detection-capabilities)
+  * [What can you do with Object Detection?](how-to-try-out-object-detection.md#what-can-you-do-with-object-detection)
+* [How to detect objects from images?](image-detection.md)
+* [How to improve Model performance?](how-to-improve-model-performance.md)
+  * [What are some best practices for training for object detection?](how-to-improve-model-performance.md#what-are-some-best-practices-for-training-for-object-detection)
+  * [How to share your models?](how-to-improve-model-performance.md#how-to-share-your-models)
+* [How to use your model in a Power App?](how-to-use-your-model-in-a-power-app.md)
 
 #### 
 
