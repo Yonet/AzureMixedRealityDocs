@@ -12,6 +12,8 @@ Power Apps is a set of tools that allows you to create applications with a drag 
 
 AI Builder is one of the additional features of Power Apps. With AI Builder, you can add intelligence to your apps even if you have no coding or data science skills. 
 
+![AI Builder Features on Power Apps](../../.gitbook/assets/aibuilderappview.png)
+
 #### What are some of the use cases for AI Builder?
 
 You can use pre-trained models to:
