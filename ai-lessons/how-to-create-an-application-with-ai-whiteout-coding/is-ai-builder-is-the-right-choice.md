@@ -4,7 +4,7 @@ description: >-
   want to build?
 ---
 
-# Is AI Builder is the right choice?
+# Is AI Builder the right choice?
 
 Great question! There are so **many tools** out there and **many ways to do the same thing**. How do you know which one is the right solution before investing time and effort?
 

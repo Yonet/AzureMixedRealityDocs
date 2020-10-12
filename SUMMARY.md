@@ -178,7 +178,7 @@
   * [Fundamental AI Concepts](ai-lessons/fundamental-ai-concepts.md)
   * [How to create an application with AI whiteout coding?](ai-lessons/how-to-create-an-application-with-ai-whiteout-coding/README.md)
     * [What is Power Platform?](ai-lessons/how-to-create-an-application-with-ai-whiteout-coding/what-is-power-platform.md)
-    * [Is AI Builder is the right choice?](ai-lessons/how-to-create-an-application-with-ai-whiteout-coding/is-ai-builder-is-the-right-choice.md)
+    * [Is AI Builder the right choice?](ai-lessons/how-to-create-an-application-with-ai-whiteout-coding/is-ai-builder-is-the-right-choice.md)
     * [Image Detection](ai-lessons/how-to-create-an-application-with-ai-whiteout-coding/image-detection.md)
   * [AI and Cognitive Services Resources](ai-lessons/ai-and-cognitive-services-resources.md)
 * [Exercises](exercises/README.md)
