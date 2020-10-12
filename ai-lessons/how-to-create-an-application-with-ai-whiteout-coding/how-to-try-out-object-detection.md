@@ -2,6 +2,8 @@
 
 AI Builder Object detection is an AI model that you can train to **detect objects in pictures**. AI models usually require that you provide samples of data to train before you are able to perform predictions. Prebuilt models are pre-trained by using a set of samples that are provided by Microsoft, so they are instantly ready to be used in predictions.
 
+![Trained custom model result with AI Builder](../../.gitbook/assets/testresult.png)
+
 Object detection can detect up to **500 different objects in a single model** and support **JPG, PNG, BMP** image format or photos through the Power Apps control.
 
 ### How to try out Object Detection capabilities?
