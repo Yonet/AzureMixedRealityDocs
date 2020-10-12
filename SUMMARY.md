@@ -175,6 +175,7 @@
       * [How to add functionality to buttons using blueprints?](mixed-reality-using-unreal-engine/blueprints/project/how-to-add-functionality-to-buttons-using-blueprints.md)
     * [What could go wrong?](mixed-reality-using-unreal-engine/blueprints/what-could-go-wrong.md)
 * [Artificial Intelligence\(AI\) Lessons](ai-lessons/README.md)
+  * [Fundamental AI Concepts](ai-lessons/fundamental-ai-concepts.md)
   * [How to create an application with AI whiteout coding?](ai-lessons/how-to-create-an-application-with-ai-whiteout-coding/README.md)
     * [Image Detection](ai-lessons/how-to-create-an-application-with-ai-whiteout-coding/image-detection.md)
   * [AI and Cognitive Services Resources](ai-lessons/ai-and-cognitive-services-resources.md)
