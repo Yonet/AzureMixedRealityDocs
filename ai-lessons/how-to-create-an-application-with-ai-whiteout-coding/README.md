@@ -10,8 +10,6 @@ This article will explain what is the power platform as well as go through a ste
 
 {% embed url="https://youtu.be/VXD5ma2ZExw" caption="Object Detection App made with Power Apps" %}
 
-
-
 * [What is Power Platform?](what-is-power-platform.md)
   * [What are Power Apps?](what-is-power-platform.md#what-are-power-apps)
   * [What is AI Builder?](what-is-power-platform.md#what-is-ai-builder)
@@ -28,6 +26,11 @@ This article will explain what is the power platform as well as go through a ste
   * [What are some best practices for training for object detection?](how-to-improve-model-performance.md#what-are-some-best-practices-for-training-for-object-detection)
   * [How to share your models?](how-to-improve-model-performance.md#how-to-share-your-models)
 * [How to use your model in a Power App?](how-to-use-your-model-in-a-power-app.md)
+* [Where to go next?](where-to-go-next.md)
+  * [Should I keep using my power app or rebuild it?](where-to-go-next.md#should-i-keep-using-my-power-app-or-rebuild-it)
+  * [How to create a custom feature for Power Apps?](where-to-go-next.md#how-to-create-a-custom-feature-for-power-apps)
+  * [How to compare costs for Power Apps and Logic Apps?](where-to-go-next.md#how-to-compare-costs-for-power-apps-and-logic-apps)
+* [AI and Cognitive Services Resources](../ai-and-cognitive-services-resources.md)
 
 #### 
 
