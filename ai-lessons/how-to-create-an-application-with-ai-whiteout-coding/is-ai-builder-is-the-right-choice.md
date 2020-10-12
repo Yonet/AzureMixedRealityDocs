@@ -30,7 +30,7 @@ If you want to go to production with Power Apps, it is a good idea to consider t
 
 AI Builder was released for **public preview** on June 10, 2019, in Europe and the United States. Preview release features are subject to change and may have restricted functionality before the official release for general availability. Preview releases are not meant for production use. You can try them out and influence the final product by giving feedback. 
 
-The **General Availability\(GA**\) release will occur in a phased manner, with some features remaining in **preview status** while others are released for GA.
+The **General Availability\(GA**\) release will occur in a phased manner, with some features remaining in **preview status** while others are released for GA. You can check out the release status on the [AI Builder documentation](https://docs.microsoft.com/ai-builder/overview?WT.mc_id=aiml-8438-ayyonet#release-status).
 
 ![AI Builder Preview features notice](../../.gitbook/assets/aibuilderpreview.png)
 
