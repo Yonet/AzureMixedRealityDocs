@@ -12,7 +12,7 @@ Name the objects that you are going to detect.
 
 ![Name each objects to be detected](../../.gitbook/assets/namedobjects.png)
 
-Upload images that contains the object you will detect. To start with you can upload **15 images for each object**. 
+Upload images that contain the object you will detect. To start with you can upload **15 images for each object**. 
 
 ![Training image format and size for object detection](../../.gitbook/assets/imagedetectionformat.png)
 
@@ -20,7 +20,7 @@ Make sure each object has approximately the same amount of images tagged. If you
 
 ![False positive HoloLens 2 detection](../../.gitbook/assets/testresult.png)
 
-Tag your objects by selection a square that your object is in and choosing the name of the object. 
+Tag your objects by selecting a square that your object is in and choosing the name of the object. 
 
 ![Tagging objects](../../.gitbook/assets/tagging%20%281%29.png)
 
@@ -28,7 +28,7 @@ Once you are done choose Done Tagging and Train. Training process will take some
 
 ![You can choose to not use images after you upload and tag them.](../../.gitbook/assets/dontuseimage.png)
 
- If you choose to not use an image or clear any tags, you can do that at any time by going back to your **model** under the **AI Builder** on the left handside menu and  choose your model and choose edit. 
+ If you choose to not use an image or clear any tags, you can do that at any time by going back to your **model** under the **AI Builder** on the left hand side menu and  choose your model and choose edit. 
 
 AI Builder will give you a Performance score over 100 and a way to quickly test your model before publishing. You can edit your models and retrain to improve your performance. Next section will give you some best practices to improve your performance. 
 

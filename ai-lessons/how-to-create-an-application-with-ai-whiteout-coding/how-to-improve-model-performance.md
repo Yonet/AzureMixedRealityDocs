@@ -6,7 +6,7 @@ To help facilitate this process, **AI Builder** allows you to have **multiple ve
 
 ### What are some best practices for training for object detection?
 
-* **Use diverse images** to train with all possible use cases. For example if you are training your data to detect a VR headset, use images of the headset used in different environments as well as the out of the box images. If you only train with images with people wearing the headset, your model would not recognize images of the same device when it is in it's box.
+* **Use diverse images** to train with all possible use cases. For example if you are training your data to detect a VR headset, use images of the headset used in different environments as well as the out of the box images. If you only train with images with people wearing the headset, your model would not recognize images of the same device when it is in its box.
 
 ![Headset training data in different environments and varied objects](../../.gitbook/assets/pxl_20201007_094330183.jpg)
 
