@@ -164,6 +164,7 @@
     * [What could go wrong?](lessons/lesson-12/what-could-go-wrong.md)
 * [WebXR Lessons](webxr-lessons/README.md)
   * [What are WebXR Device APIs?](webxr-lessons/what-are-webxr-device-apis.md)
+  * [Which Devices are Compatible with WebXR?](webxr-lessons/which-devices-are-compatible-with-webxr.md)
   * [What is BabylonJS?](webxr-lessons/what-is-babylonjs.md)
   * [How to debug and test your WebXR Application with Chrome Dev Tools?](webxr-lessons/how-to-debug-and-test-your-webxr-application-with-chrome-dev-tools.md)
 * [Unreal Engine Lessons](mixed-reality-using-unreal-engine/README.md)
