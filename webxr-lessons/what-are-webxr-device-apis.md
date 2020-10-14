@@ -6,5 +6,5 @@ The **WebXR Device API** implements the core of the WebXR feature set, managing 
 
 {% embed url="https://youtu.be/ypSkIYpJjE8" %}
 
-
+WebXR Device APIs are replacing the deprecated WebVR API. WebVR API was designed with only VR devices in mind. With the addition of new AR headsets and AR capable handheld devices, the WebVR API is deprecated in favor of WebXR Device APIs, that include AR Modules. 
 
