@@ -10,8 +10,6 @@ description: Frequently asked questions about Mixed Reality applications and dev
 
 There are many use cases for different industries from education, medical, manufacturing to construction. You can find a list of uses cases and case studies here: [https://github.com/Yonet/MixedRealityResources/blob/master/faq.md\#what-are-some-use-cases-and-what-are-some-use-cases-and-case-studies-for-mixed-reality-applications](https://github.com/Yonet/MixedRealityResources/blob/master/faq.md#what-are-some-use-cases-and-what-are-some-use-cases-and-case-studies-for-mixed-reality-applications)
 
-
-
 ### How do you consider accessibility, diversity, and inclusiveness into your design?
 
 
