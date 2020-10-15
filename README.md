@@ -4,7 +4,11 @@ description: Learn Mixed Reality development using Azure Mixed Reality Services
 
 # Azure Mixed Reality Curriculum
 
-Short link: [aka.ms/MixedRealityCurriculum](https://aka.ms/MixedRealityCurriculum)
+* Mixed Reality Curriculum: [aka.ms/MixedRealityCurriculum](https://aka.ms/MixedRealityCurriculum)
+* Unity Lessons: [aka.ms/MixedRealityUnityLessons](https://aka.ms/MixedRealityUnityLessons)
+* WebXR Lessons: [http://bit.ly/WebXRCurriculum](http://bit.ly/WebXRCurriculum)
+* AI Lessons: [https://aka.ms/AILessons](https://aka.ms/AILessons)
+* Unreal Lessons: [https://aka.ms/MixedRealityUnrealLessons](https://aka.ms/MixedRealityUnrealLessons)
 
 ## How to use this book?
 
