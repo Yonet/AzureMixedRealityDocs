@@ -26,6 +26,15 @@ Short link to AI Resources: [https://aka.ms/CurriculumAIResources](https://aka.m
 * [Brand Detection](https://docs.microsoft.com/azure/cognitive-services/computer-vision/concept-brand-detection?WT.mc_id=aiml-8438-ayyonet)
 * [Spatial Analysis](https://docs.microsoft.com/legal/cognitive-services/computer-vision/intro-to-spatial-analysis-public-preview?context=/azure/cognitive-services/Computer-vision/context/context&WT.mc_id=aiml-8438-ayyonet)
 
+### Language
+
+* [Text Analytics Docs](https://docs.microsoft.com/azure/cognitive-services/text-analytics/?WT.mc_id=aiml-8438-ayyonet)
+
+### Speech
+
+* [Speech Service Overview](https://docs.microsoft.com/azure/cognitive-services/speech-service/overview?WT.mc_id=aiml-8438-ayyonet)
+* [Speech Studio](https://speech.microsoft.com/?WT.mc_id=aiml-8438-ayyonet)
+
 ### Power Platform
 
 * [Power Apps Free Trial](https://docs.microsoft.com/powerapps/maker/signup-for-powerapps?WT.mc_id=aiml-8438-ayyonet)
