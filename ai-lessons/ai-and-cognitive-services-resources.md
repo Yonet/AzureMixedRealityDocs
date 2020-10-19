@@ -28,7 +28,8 @@ Short link to AI Resources: [https://aka.ms/CurriculumAIResources](https://aka.m
 * [Brand Detection](https://docs.microsoft.com/azure/cognitive-services/computer-vision/concept-brand-detection?WT.mc_id=aiml-8438-ayyonet)
 * [Spatial Analysis](https://docs.microsoft.com/legal/cognitive-services/computer-vision/intro-to-spatial-analysis-public-preview?context=/azure/cognitive-services/Computer-vision/context/context&WT.mc_id=aiml-8438-ayyonet)
 * [AI Show: Spatial Analysis Episode](https://channel9.msdn.com/Shows/AI-Show/Computer-Vision-for-Spatial-Analysis?WT.mc_id=aiml-0000-ayyonet)
-* 
+* [Custom Vision Improve Performance](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/getting-started-improving-your-classifier?WT.mc_id=aiml-8438-ayyonet)
+
 ### Language
 
 * [Text Analytics Docs](https://docs.microsoft.com/azure/cognitive-services/text-analytics/?WT.mc_id=aiml-8438-ayyonet)
