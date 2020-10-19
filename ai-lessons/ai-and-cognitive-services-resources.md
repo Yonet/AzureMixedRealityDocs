@@ -19,13 +19,16 @@ Short link to AI Resources: [https://aka.ms/CurriculumAIResources](https://aka.m
 * [Computer Vision Overview](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/?WT.mc_id=aiml-8438-ayyonet#features) 
 * [Computer Vision Documentation](https://docs.microsoft.com/azure/cognitive-services/computer-vision/?WT.mc_id=aiml-8438-ayyonet)
 * [What's New in Computer Vision](https://docs.microsoft.com/azure/cognitive-services/computer-vision/whats-new?WT.mc_id=aiml-8438-ayyonet)
+* [Ignite 2020: What's new in Cognitive Services Video](https://mediusprodstatic.studios.ms/asset-85a1c2ec-5d8e-44f3-ae53-05aa76ce61b2/Archive-video_5500000_1920x1080_AACAudio_1080.mp4?sv=2018-03-28&sr=b&sig=NSMP596G%2B1yOEyLTNAC7Cipg7DkATup2BjMictt3CgY%3D&st=2020-09-22T21%3A51%3A28Z&se=2025-09-22T21%3A56%3A28Z&sp=r&rscd=filename%3DIG20-DB106-What%25e2%2580%2599s%2Bnew%2Bin%2BAzure%2BCognitive%2BServices.mp4&WT.mc_id=aiml-0000-ayyonet)
 * [Computer Vision API v3.1](https://westcentralus.dev.cognitive.microsoft.com/docs/services/computer-vision-v3-1-ga/operations/5d986960601faab4bf452005?WT.mc_id=aiml-8438-ayyonet)
 * [Object Detection](https://docs.microsoft.com/azure/cognitive-services/computer-vision/concept-object-detection?WT.mc_id=aiml-8438-ayyonet)
 * [Optical Character Recognition](https://docs.microsoft.com/azure/cognitive-services/computer-vision/concept-recognizing-text?WT.mc_id=aiml-8438-ayyonet)\(OCR\)
+* [OCR-Form-Tool Repo](https://github.com/microsoft/OCR-Form-Tools?WT.mc_id=aiml-8438-ayyonet)
 * [Face Detection](https://docs.microsoft.com/azure/cognitive-services/computer-vision/concept-detecting-faces?WT.mc_id=aiml-8438-ayyonet)
 * [Brand Detection](https://docs.microsoft.com/azure/cognitive-services/computer-vision/concept-brand-detection?WT.mc_id=aiml-8438-ayyonet)
 * [Spatial Analysis](https://docs.microsoft.com/legal/cognitive-services/computer-vision/intro-to-spatial-analysis-public-preview?context=/azure/cognitive-services/Computer-vision/context/context&WT.mc_id=aiml-8438-ayyonet)
-
+* [AI Show: Spatial Analysis Episode](https://channel9.msdn.com/Shows/AI-Show/Computer-Vision-for-Spatial-Analysis?WT.mc_id=aiml-0000-ayyonet)
+* 
 ### Language
 
 * [Text Analytics Docs](https://docs.microsoft.com/azure/cognitive-services/text-analytics/?WT.mc_id=aiml-8438-ayyonet)
