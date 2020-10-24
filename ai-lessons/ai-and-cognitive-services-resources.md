@@ -65,5 +65,9 @@ Short link to AI Resources: [https://aka.ms/CurriculumAIResources](https://aka.m
 
 * [Azure Product Cost Calculator](https://azure.microsoft.com/pricing/calculator/?service=logic-apps&WT.mc_id=aiml-8438-ayyonet)
 
+### Further Reading
+
+* [Bias in Machine Learning: How Facial Recognition Models Show Signs of Racism, Sexism and Ageism](https://towardsdatascience.com/bias-in-machine-learning-how-facial-recognition-models-show-signs-of-racism-sexism-and-ageism-32549e2c972d)
+
 
 
