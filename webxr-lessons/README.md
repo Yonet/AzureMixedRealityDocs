@@ -14,7 +14,6 @@ Windows Mixed Reality JavaScript Documentation: [https://bit.ly/MixedRealityJava
 * [Which Devices are Compatible with WebXR?](which-devices-are-compatible-with-webxr.md)
 * [Which Browsers Support WebXR?](which-browsers-support-webxr.md)
 * [What is BabylonJS?](what-is-babylonjs.md)
-* [How to Create a WebXR Augmented Reality App?](how-to-create-a-webxr-augmented-reality-app.md)
 * [How to Debug and Test Tour WebXR Applications with Crome Dev Tools?](how-to-debug-and-test-your-webxr-application-with-chrome-dev-tools.md)
 * [What is the Lifecycle of a WebXR Application?](what-is-the-lifecycle-of-a-webxr-application.md)
 
