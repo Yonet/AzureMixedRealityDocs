@@ -24,10 +24,10 @@ Check out the[ list of connectors for Power Apps](https://docs.microsoft.com/en-
 
 You can use pre-trained models to:
 
-* Detect objects from images
-* Analyze your customers sentiment from feedback, 
-* Detect keywords from and 
-* Extract specific information about your business from text
+* **Detect** **objects** from images
+* **Analyze** your customers **sentiment** from feedback
+* Detect **keywords** from text
+* **Extract** **specific** **information** about your business from text
 
 
 
