@@ -49,6 +49,7 @@ Short link to AI Resources: [https://aka.ms/CurriculumAIResources](https://aka.m
 * [Power Platform Overview](https://powerplatform.microsoft.com/?WT.mc_id=aiml-8438-ayyonet)
 * [Power Platform Documentation](https://docs.microsoft.com/power-platform/?WT.mc_id=aiml-8438-ayyonet)
 * [List of Power Apps Connectors](https://docs.microsoft.com/en-us/connectors/connector-reference/connector-reference-powerapps-connectors?WT.mc_id=aiml-8438-ayyonet)
+* [List of Power Automate Connectors](https://docs.microsoft.com/connectors/connector-reference/connector-reference-powerautomate-connectors?WT.mc_id=aiml-8438-ayyonet)
 * [Custom Connectors](https://docs.microsoft.com/en-us/connectors/custom-connectors/?WT.mc_id=aiml-8438-ayyonet)
 * [AI Builder Overview](https://powerapps.microsoft.com/ai-builder/?WT.mc_id=aiml-8438-ayyonet)
 * [AI Builder Documentation](https://docs.microsoft.com/ai-builder/?WT.mc_id=aiml-8438-ayyonet)
@@ -60,6 +61,7 @@ Short link to AI Resources: [https://aka.ms/CurriculumAIResources](https://aka.m
 
 * [Logic Apps Documentation](https://docs.microsoft.com/azure/logic-apps/logic-apps-overview?WT.mc_id=aiml-8438-ayyonet)
 * [Logic Apps Pricing](https://azure.microsoft.com/pricing/details/logic-apps/?WT.mc_id=aiml-8438-ayyonet)
+* [List of Logic Apps Connectors](https://docs.microsoft.com/connectors/connector-reference/connector-reference-logicapps-connectors?WT.mc_id=aiml-8438-ayyonet)
 
 ### Azure 
 
