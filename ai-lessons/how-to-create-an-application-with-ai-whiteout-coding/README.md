@@ -8,7 +8,7 @@ Shortlink: [https://aka.ms/NoCodeAI](https://aka.ms/NoCodeAI)
 
 You might have an idea for an application using AI and not have anyone to build it. You might be a programmer and want to try out your ideas before you start writing code. No matter what your coding skill level is, if you want to prototype an application with AI, [**Power Platform**](https://powerplatform.microsoft.com/?WT.mc_id=aiml-8438-ayyonet) and it's [**AI Builder** ](https://powerapps.microsoft.com/ai-builder/?WT.mc_id=aiml-8438-ayyonet)feature is a **fast** and **easy option**. 
 
-This article explains what the power platform is as well as goes through a step by step process to create an app that detects objects from photos using **Power Apps** and **AI Builder.** Read or skip through the questions to learn how to build your first Power App with AI features.
+This article explains what the power platform is as well as goes through a step by step process to create an app that detects objects from photos using [**Power Apps**](https://docs.microsoft.com/en-us/powerapps/maker/signup-for-powerapps?WT.mc_id=aiml-8438-ayyonet) and [**AI Builder.**](https://docs.microsoft.com/powerapps/use-ai-builder?WT.mc_id=aiml-8438-ayyonet) ****Read or skip through the questions to learn how to build your first Power App with AI features.
 
 {% embed url="https://youtu.be/VXD5ma2ZExw" caption="Object Detection App made with Power Apps" %}
 
