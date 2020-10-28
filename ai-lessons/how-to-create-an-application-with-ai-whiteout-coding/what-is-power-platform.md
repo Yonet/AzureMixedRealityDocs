@@ -16,7 +16,7 @@ Check out the[ list of connectors for Power Apps](https://docs.microsoft.com/en-
 
 ### What is AI Builder?
 
-**AI Builder** is one of the additional features of Power Apps. With AI Builder, you can **add intelligence to your apps** even if you have no coding or data science skills. 
+AI Builder is one of the additional features of Power Apps. With AI Builder, you can add intelligence to your apps even if you have no coding or data science skills. 
 
 ![AI Builder Features on Power Apps](../../.gitbook/assets/aibuilderappview.png)
 
@@ -24,10 +24,10 @@ Check out the[ list of connectors for Power Apps](https://docs.microsoft.com/en-
 
 You can use pre-trained models to:
 
-* **Detect** **objects** from images
-* **Analyze** your customers **sentiment** from feedback
-* Detect **keywords** from text
-* **Extract** **specific** **information** about your business from text
+* Detect objects from images
+* Analyze your customers sentiment from feedback, 
+* Detect keywords from and 
+* Extract specific information about your business from text
 
 
 
