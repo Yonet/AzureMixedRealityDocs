@@ -180,7 +180,7 @@
     * [What could go wrong?](mixed-reality-using-unreal-engine/blueprints/what-could-go-wrong.md)
 * [Artificial Intelligence\(AI\) Lessons](ai-lessons/README.md)
   * [Fundamental AI Concepts](ai-lessons/fundamental-ai-concepts.md)
-  * [How to create an application with AI without coding?](ai-lessons/how-to-create-an-application-with-ai-whiteout-coding/README.md)
+  * [How to create a no code AI application using Power Apps and Custom Vision?](ai-lessons/how-to-create-an-application-with-ai-whiteout-coding/README.md)
     * [What is Power Platform?](ai-lessons/how-to-create-an-application-with-ai-whiteout-coding/what-is-power-platform.md)
     * [Is AI Builder the right choice?](ai-lessons/how-to-create-an-application-with-ai-whiteout-coding/is-ai-builder-is-the-right-choice.md)
     * [What is Object Detection?](ai-lessons/how-to-create-an-application-with-ai-whiteout-coding/how-to-try-out-object-detection.md)

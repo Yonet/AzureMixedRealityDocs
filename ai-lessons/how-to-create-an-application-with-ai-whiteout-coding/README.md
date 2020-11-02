@@ -2,7 +2,7 @@
 description: A fast and easy way to prototype apps with AI capabilities
 ---
 
-# How to create an application with AI without coding?
+# How to create a no code AI application using Power Apps and Custom Vision?
 
 Shortlink: [https://aka.ms/NoCodeAI](https://aka.ms/NoCodeAI)
 
