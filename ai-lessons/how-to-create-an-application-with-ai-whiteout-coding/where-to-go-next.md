@@ -1,4 +1,4 @@
-# Where to go next?
+# What's next?
 
 Now you have your app's prototype, you can add more features, get feedback and test your app. 
 
