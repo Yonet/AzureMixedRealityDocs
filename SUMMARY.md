@@ -13,7 +13,7 @@
       * [What are some examples of Mixed Reality Applications?](lessons/lesson1/concepts/what-are-some-examples-of-mixed-reality-applications.md)
       * [What is Mixed Reality Toolkit\(MRTK\)?](lessons/lesson1/concepts/what-is-mixed-reality-toolkit-mrtk.md)
     * [Project](lessons/lesson1/project/README.md)
-      * [What do I need to download for Mixed Reality development with Unity?](lessons/lesson1/project/what-do-i-need-to-download-for-unity-development.md)
+      * [What do I need to download for Mixed Reality development with Unity for HoloLens?](lessons/lesson1/project/what-do-i-need-to-download-for-unity-development.md)
       * [How to get started with Unity3D Editor interface?](lessons/lesson1/project/how-to-get-started-with-unity3d-editor-interface.md)
       * [What are some key concepts for working with Unity?](lessons/lesson1/project/what-are-some-key-concepts-for-working-with-unity.md)
       * [How to Get Started with Mixed Reality Development Using Unity?](lessons/lesson1/project/how-to-get-started-with-mixed-reality-development-using-unity.md)
