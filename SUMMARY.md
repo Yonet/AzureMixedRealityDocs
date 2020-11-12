@@ -172,6 +172,7 @@
       * [What is Aspect Ratio of a Camera?](webxr-lessons/3d-on-the-web/concepts/what-is-aspect-ratio-of-a-camera.md)
       * [What is near and far clipping planes of a camera?](webxr-lessons/3d-on-the-web/concepts/what-is-near-and-far-clipping-planes-of-a-camera.md)
       * [What does updating projection matrix do?](webxr-lessons/3d-on-the-web/concepts/what-does-updating-projection-matrix-do.md)
+      * [What are 3D primitive objects?](webxr-lessons/3d-on-the-web/concepts/what-are-3d-primitive-objects.md)
     * [Project](webxr-lessons/3d-on-the-web/project.md)
     * [Resources](webxr-lessons/3d-on-the-web/resources.md)
   * [Introduction to WebXR Device APIs](webxr-lessons/introduction-to-webxr-device-apis/README.md)
