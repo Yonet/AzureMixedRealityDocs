@@ -179,6 +179,7 @@
     * [Project](webxr-lessons/introduction-to-webxr-device-apis/project/README.md)
       * [How to debug and test your WebXR Application with Chrome Dev Tools?](webxr-lessons/introduction-to-webxr-device-apis/project/how-to-debug-and-test-your-webxr-application-with-chrome-dev-tools.md)
     * [Resources](webxr-lessons/introduction-to-webxr-device-apis/resources.md)
+    * [What could go wrong?](webxr-lessons/introduction-to-webxr-device-apis/what-could-go-wrong.md)
   * [Introduction to Babylon.js](webxr-lessons/introduction-to-babylon.js/README.md)
     * [Concepts](webxr-lessons/introduction-to-babylon.js/concepts/README.md)
       * [What is BabylonJS?](webxr-lessons/introduction-to-babylon.js/concepts/what-is-babylonjs.md)
