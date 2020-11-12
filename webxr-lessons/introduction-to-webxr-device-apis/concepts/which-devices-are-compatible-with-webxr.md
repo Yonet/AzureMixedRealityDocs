@@ -12,7 +12,7 @@ iOS devices such as iPhone and iPad currently does not support WebXR APIs in Saf
 
 ### Augmented Reality on Android Devices
 
-![WebXR Demo](../.gitbook/assets/animated-gif-downsized_large%20%281%29.gif)
+![WebXR Demo](../../../.gitbook/assets/animated-gif-downsized_large%20%281%29.gif)
 
 {% embed url="https://youtu.be/jg4aTrNvKzM" %}
 

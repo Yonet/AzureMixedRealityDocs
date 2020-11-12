@@ -4,7 +4,7 @@ Different browsers are implementing and WebXR APIs in different timeframes. Curr
 
 You can check the current support status at [CanIUse.com](https://caniuse.com/?search=webXR).
 
-![Check browser support at CanIUse.com](../.gitbook/assets/caniusewebxr.png)
+![Check browser support at CanIUse.com](../../../.gitbook/assets/caniusewebxr.png)
 
 ### How to try out experimental features in Chrome and Edge
 
