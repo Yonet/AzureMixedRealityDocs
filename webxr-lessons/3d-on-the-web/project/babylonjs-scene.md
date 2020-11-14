@@ -34,3 +34,7 @@ Arc Rotate Camera parameters are: **name** you want to give to your camera, **al
 
 ![Arc Rotate Camera parameters: alpha, beta, radius and target position.](../../../.gitbook/assets/camalphabeta.jpg)
 
+{% hint style="info" %}
+ Setting _beta_ to 0 or PI can, for technical reasons, cause problems.
+{% endhint %}
+
