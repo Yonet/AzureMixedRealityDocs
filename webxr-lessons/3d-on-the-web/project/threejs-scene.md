@@ -4,9 +4,19 @@ description: ThreeJS basic scene
 
 # ThreeJS Scene
 
+Although Three.js creates scene, camera and light as well as the object, the code syntax is little different.
+
+{% embed url="https://jsfiddle.net/yonet3d/p3crufLn/6/" %}
 
 
-{% embed url="https://jsfiddle.net/yonet3d/p3crufLn/3/" %}
 
 
+
+### Exercise
+
+* [ ] Navigate to the code sample by clicking [Edit in JSFiddle](https://jsfiddle.net/yonet3d/p3crufLn/). 
+* [ ] Uncomment the lines 18 and 19 by deleting '/\*' and '\*/'
+* [ ] Press run to see the animation. 
+* [ ] Change the values added to x and y rotation to see the result.
+* [ ] Change the cube's position instead of the rotation value. 
 
