@@ -8,11 +8,11 @@ description: >-
 
 Short link to WebXR Lessons: [http://bit.ly/WebXRCurriculum](http://bit.ly/WebXRCurriculum)
 
+Windows Mixed Reality JavaScript Documentation: [https://bit.ly/MixedRealityJavaScript](https://bit.ly/MixedRealityJavaScript)
+
 ### Why web is important for Mixed Reality Development?
 
-Web is for All
-
-Windows Mixed Reality JavaScript Documentation: [https://bit.ly/MixedRealityJavaScript](https://bit.ly/MixedRealityJavaScript)
+Web is for all and web is always free. 
 
 * [3D on the Web](3d-on-the-web/)
 * [Introduction to WebXR Device APIs](introduction-to-webxr-device-apis/)
