@@ -14,7 +14,7 @@ We also need a **light** source for our objects to be visible.
 
 Finally, we will create a basic shape\(**mesh**\), box. 
 
-Let's create the basic scene using different libraries.
+![Box Mesh to be rendered](../../../.gitbook/assets/boxmesh.png)
 
-#### 
+Let's create the basic scene using different libraries.
 
