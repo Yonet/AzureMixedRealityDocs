@@ -6,7 +6,9 @@ description: ThreeJS basic scene
 
 Although [Three.js](https://threejs.org/) creates scene, camera and light as well as the object, the code syntax is little different.
 
-{% embed url="https://jsfiddle.net/yonet3d/p3crufLn/6/" %}
+{% embed url="https://jsfiddle.net/yonet3d/p3crufLn/6/" caption="JSFiddle Three.js example" %}
+
+{% embed url="https://youtu.be/1BbxT9\_SFVw?t=603" %}
 
 
 
