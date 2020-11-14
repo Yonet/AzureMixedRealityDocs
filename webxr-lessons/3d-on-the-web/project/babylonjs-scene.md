@@ -4,7 +4,7 @@ description: Basic Scene with a cube
 
 # BabylonJS Scene
 
-To create a basic scene, we initialize a **scene**, create **camera,** **light** and a **mesh** and return the scene object.
+To create a basic Babylon.js scene, we initialize a **scene**, create **camera,** **light** and a **mesh** and return the scene object.
 
 ### BabylonJS Code
 
