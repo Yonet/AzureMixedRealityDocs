@@ -42,7 +42,19 @@ Arc Rotate Camera parameters are: **name** you want to give to your camera, **al
 
 ### Light
 
-A **hemispheric light** is an easy way to simulate an ambient environment light. A hemispheric light is defined by a direction, usually 'up' towards the sky. However it is by setting the color properties that the full effect is achieved. In our case, we are doing the bare minimum, just giving a name to the light and set it's location.
+A **hemispheric light** is an easy way to simulate an ambient environment light. In our case, we are doing the bare minimum, just giving a name to the light and set it's location.
 
 Setting y location to 1 while our main object is in the center \(0,0,0\) location will move the light above the object.  
+
+### Box Mesh
+
+We are creating a Box Mesh by calling BABYLON.MeshBuilder.CreateBox method with the minimum requirements, a name and an options empty object.  
+
+### Exercise
+
+* [ ] Navigate to the code sample playground: [https://playground.babylonjs.com/\#KBS9I5\#158](https://playground.babylonjs.com/#KBS9I5#158)
+* [ ] Move your mouse over the box and click & drag.
+* [ ] Uncomment line 5 and save or play the playground example. 
+* [ ] Again, move mouse over the box and click & drag.
+* [ ] On the BABYLON.MeshBuilder.CreateBox method replace the empty object with this object: {width: 4, height: 2}. 
 
