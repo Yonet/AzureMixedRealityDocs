@@ -28,6 +28,8 @@ Live code on babylon playground: [https://playground.babylonjs.com/\#KBS9I5\#158
 **Scene** object gets **engine** as the input argument. You don't have to worry about the engine when you are working on the playground but when you are working on your local code sample, we will create the engine as well.
 {% endhint %}
 
+### Camera
+
  ****_**Arc Rotate Camera**_  ****acts like a satellite in orbit around a target and always points towards the target position. In our case, it is pointing towards the box. Where ever you move your camera, it will still point to towards the box. 
 
 Arc Rotate Camera parameters are: **name** you want to give to your camera, **alpha**\(radians\) the longitudinal rotation, **beta** _beta_ \(radians\) the latitudinal rotation, **radius\(**the distance from the target position\), **target position**\(center where the box will be created as a default\), **scene**\(optional argument\). In this code example scene is not given as an argument and defaults to the scene object on the playground. 
@@ -35,6 +37,12 @@ Arc Rotate Camera parameters are: **name** you want to give to your camera, **al
 ![Arc Rotate Camera parameters: alpha, beta, radius and target position.](../../../.gitbook/assets/camalphabeta.jpg)
 
 {% hint style="info" %}
- Setting _beta_ to 0 or PI can, for technical reasons, cause problems.
+ Setting _beta_ to **0** or **PI** can, for technical reasons, **cause problems.**
 {% endhint %}
+
+### Light
+
+A **hemispheric light** is an easy way to simulate an ambient environment light. A hemispheric light is defined by a direction, usually 'up' towards the sky. However it is by setting the color properties that the full effect is achieved. In our case, we are doing the bare minimum, just giving a name to the light and set it's location.
+
+Setting y location to 1 while our main object is in the center \(0,0,0\) location will move the light above the object.  
 
