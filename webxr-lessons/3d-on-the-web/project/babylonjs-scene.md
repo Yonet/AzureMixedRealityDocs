@@ -8,7 +8,7 @@ To create a basic Babylon.js scene, we initialize a **scene**, create **camera,*
 
 ### BabylonJS Code
 
-```text
+```typescript
 const createScene =  () => {
     const scene = new BABYLON.Scene(engine);
 
