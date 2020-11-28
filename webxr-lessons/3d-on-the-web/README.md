@@ -4,9 +4,7 @@ description: Fundamentals of 3D on the web
 
 # 3D on the Web
 
-World wide web allows anyone share their experiences with the world freely. With the availability of the technologies like WebXR, it is now possible to share immersive experiences on the web as well.
-
-{% embed url="https://youtu.be/1BbxT9\_SFVw" caption="Getting started with 3D on the Web " %}
+{% embed url="https://youtu.be/1BbxT9\_SFVw" %}
 
 
 
