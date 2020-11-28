@@ -182,6 +182,7 @@
       * [ThreeJS Scene](webxr-lessons/3d-on-the-web/project/threejs-scene.md)
       * [AFrame Scene](webxr-lessons/3d-on-the-web/project/aframe-scene.md)
       * [AR.JS](webxr-lessons/3d-on-the-web/project/ar.js.md)
+      * [Lighting your scene](webxr-lessons/3d-on-the-web/project/lighting-your-scene.md)
     * [Resources](webxr-lessons/3d-on-the-web/resources.md)
   * [Introduction to WebXR Device APIs](webxr-lessons/introduction-to-webxr-device-apis/README.md)
     * [Concepts](webxr-lessons/introduction-to-webxr-device-apis/concepts/README.md)
