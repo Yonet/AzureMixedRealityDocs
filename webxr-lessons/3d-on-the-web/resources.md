@@ -3,6 +3,7 @@
 ### Tooling
 
 * **WebXR Emulator**: [Firefox](https://addons.mozilla.org/en-US/firefox/addon/webxr-api-emulator/), [Chrome](https://chrome.google.com/webstore/detail/webxr-api-emulator/mjddjgeghkdijejnciaefnkjmkafnnje)
+* WebXR Viewer on [Apple store](https://apps.apple.com/us/app/webxr-viewer/id1295998056)
 * Web Server for [Chrome extension](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/related?hl=en)
 * Visual Studio Code\(VSCode\) [download](https://code.visualstudio.com/download?WT.mc_id=aiml-0000-ayyonet)
 * VSCode [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
