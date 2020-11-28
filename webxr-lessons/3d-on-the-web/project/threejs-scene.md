@@ -12,7 +12,7 @@ Although [Three.js](https://threejs.org/) creates scene, camera and light as wel
 
 
 
-
+{% embed url="https://threejs.org/examples/\#webgl\_camera" caption="ThreeJS Orthographic vs Perspective camera example" %}
 
 ### Exercise
 
