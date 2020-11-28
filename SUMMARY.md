@@ -182,6 +182,7 @@
       * [3D scene interactions](webxr-lessons/3d-on-the-web/concepts/3d-scene-interactions.md)
       * [What are 3DOF or 6DOF?](webxr-lessons/3d-on-the-web/concepts/what-are-3dof-or-6dof.md)
     * [Project](webxr-lessons/3d-on-the-web/project/README.md)
+      * [What could go wrong?](webxr-lessons/3d-on-the-web/project/what-could-go-wrong.md)
       * [How to create a basic 3D scene?](webxr-lessons/3d-on-the-web/project/how-to-create-a-basic-3d-scene.md)
       * [BabylonJS Scene](webxr-lessons/3d-on-the-web/project/babylonjs-scene.md)
       * [ThreeJS Scene](webxr-lessons/3d-on-the-web/project/threejs-scene.md)
