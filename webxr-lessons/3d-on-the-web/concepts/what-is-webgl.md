@@ -1,6 +1,6 @@
 # What is WebGL?
 
-3D JavaScript engines like ThreeJS and BabylonJS use WebGL to render to Canvas to make it easier for JavaScript developers who are not an expert in **computer graphics**. [WebGL](https://en.wikipedia.org/wiki/WebGL) is a is a **cross-platform**, royalty-free web standard for a low-level 3D graphics JavaScript API, or _programmable interface_, for drawing interactive **2D** and **3D** graphics in web pages. WebGL connects your web browser up to your device’s **graphics card**, providing you with far more graphical processing power than is available on a traditional website.
+**3D JavaScript engines** like **ThreeJS** and **BabylonJS** use WebGL to render to Canvas to make it easier for JavaScript developers who are not an expert in **computer graphics**. [WebGL](https://en.wikipedia.org/wiki/WebGL) is a is a **cross-platform**, royalty-free web standard for a low-level 3D graphics JavaScript API, or _programmable interface_, for drawing interactive **2D** and **3D** graphics in web pages. WebGL connects your web browser up to your device’s **graphics card**, providing you with far more graphical processing power than is available on a traditional website.
 
 {% hint style="info" %}
 To use WebGL capabilities, you need a device and a browser that supports it. You can check which **browsers support WebGL** at [caniuse.com](https://caniuse.com/?search=WebGL) by searching for WebGL.
