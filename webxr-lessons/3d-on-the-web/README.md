@@ -8,8 +8,6 @@ World wide web allows anyone share their experiences with the world freely. With
 
 {% embed url="https://youtu.be/1BbxT9\_SFVw" caption="Getting started with 3D on the Web " %}
 
-
-
 * [Concepts](concepts/)
   * [What is WebGL?](concepts/what-is-webgl.md)
   * [How to work with 3 dimensions, 3D coordinates?](concepts/how-to-work-with-3-dimensions.md)
