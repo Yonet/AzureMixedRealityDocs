@@ -186,7 +186,6 @@
       * [BabylonJS Scene](webxr-lessons/3d-on-the-web/project/babylonjs-scene.md)
       * [ThreeJS Scene](webxr-lessons/3d-on-the-web/project/threejs-scene.md)
       * [AFrame Scene](webxr-lessons/3d-on-the-web/project/aframe-scene.md)
-      * [AR.JS](webxr-lessons/3d-on-the-web/project/ar.js.md)
       * [How to create a globe visualization with ThreeJS](webxr-lessons/3d-on-the-web/project/how-to-create-a-globe-visualization-with-threejs.md)
       * [Lighting your scene](webxr-lessons/3d-on-the-web/project/lighting-your-scene.md)
       * [Adding interactions](webxr-lessons/3d-on-the-web/project/adding-interactions.md)
