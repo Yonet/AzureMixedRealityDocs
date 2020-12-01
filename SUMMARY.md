@@ -200,6 +200,7 @@
       * [Which Devices are Compatible with WebXR?](webxr-lessons/introduction-to-webxr-device-apis/concepts/which-devices-are-compatible-with-webxr.md)
       * [Which Browsers support WebXR?](webxr-lessons/introduction-to-webxr-device-apis/concepts/which-browsers-support-webxr.md)
       * [What is the Lifecycle of a WebXR Application?](webxr-lessons/introduction-to-webxr-device-apis/concepts/what-is-the-lifecycle-of-a-webxr-application.md)
+      * [What is XRReferenceSpaceType?](webxr-lessons/introduction-to-webxr-device-apis/concepts/what-is-xrreferencespacetype.md)
     * [Project](webxr-lessons/introduction-to-webxr-device-apis/project/README.md)
       * [How to detect WebXR capabilities for AR or VR experiences?](webxr-lessons/introduction-to-webxr-device-apis/project/how-to-detect-webxr-capabilities-for-ar-or-vr-experiences.md)
       * [How to debug and test your WebXR Application with Chrome Dev Tools?](webxr-lessons/introduction-to-webxr-device-apis/project/how-to-debug-and-test-your-webxr-application-with-chrome-dev-tools.md)
