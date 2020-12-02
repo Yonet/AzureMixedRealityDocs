@@ -23,5 +23,9 @@ document.body.appendChild(VRButton.createButton(renderer));
   renderer.setAnimationLoop(animate);
   ```
 
+### Run the VR experience on your phone
+
+If you are on an iOS
+
 
 
