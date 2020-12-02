@@ -16,6 +16,8 @@ Finally, we will create a basic shape\(**mesh**\), box.
 
 ![Box Mesh to be rendered](../../../.gitbook/assets/boxmesh.png)
 
+![Geometry vs Material of a mesh](../../../.gitbook/assets/vertex.png)
+
 {% embed url="https://threejs.org/examples/\#webgl\_multiple\_scenes\_comparison" caption="ThreeJS Mesh = material + geometry example" %}
 
 
