@@ -59,6 +59,10 @@ manager.onError = function (url) {
 
 See [GLTFLoader documentation](https://threejs.org/docs/index.html#examples/en/loaders/GLTFLoader) for further details.
 
+### Exercise
+
+* [ ] Try other object types and loaders to add different models to your scene. You can find more models under three.js/examples/models.
+
 ### Troubleshooting
 
 You've spent hours modeling an artisanal masterpiece, you load it into the webpage, and — oh no! 😭 It's distorted, miscolored, or missing entirely. Start with these troubleshooting steps:
