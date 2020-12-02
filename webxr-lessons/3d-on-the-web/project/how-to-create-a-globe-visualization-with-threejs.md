@@ -46,3 +46,5 @@ const material = new MeshPhongMaterial({
 * [ ] Set the position of the clouds same as the earth mesh.
 * [ ] Add animation slightly faster than earth.
 
+To see how to map real time tweet location data to your globe using web sockets, check out [Tweet Migration project](https://github.com/Yonet/TweetMigration).
+
