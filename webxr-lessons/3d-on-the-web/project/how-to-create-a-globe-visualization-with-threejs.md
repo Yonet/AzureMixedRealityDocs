@@ -1,7 +1,5 @@
 # How to create a globe visualization with ThreeJS
 
-
-
 * [ ] Checkout the github repo: [https://github.com/Yonet/WebXRWorkshop](https://github.com/Yonet/WebXRWorkshop)
 * [ ] npm install dependencies
 * [ ] Add a sphere geometry
