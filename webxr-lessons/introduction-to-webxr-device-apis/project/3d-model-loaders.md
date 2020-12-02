@@ -1,29 +1,60 @@
 # How to load a 3D Model
 
-ThreeJS
-
 {% embed url="https://threejs.org/examples/\#webgl\_loader\_gltf" caption="ThreeJS gltf loader demo" %}
 
 Only a few loaders \(e.g. ObjectLoader\) are included by default with three.js — others should be added to your app individually.
 
 ```typescript
-import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
+import { GLTFLoader } from '/jsm/loaders/GLTFLoader.js';
+
+//Model loader
+const manager = new LoadingManager();
+const loader = new GLTFLoader(manager).setPath("/assets/models/AyaSofia/");
+let modelLoaded = false;
 ```
 
 Once you've imported a loader, you're ready to add a model to your scene. Syntax varies among different loaders — when using another format, check the examples and documentation for that loader. For glTF, usage with global scripts would be:
 
+Change the onSelect function to load and place the model, instead of the Sphere mesh we were placing previously.
+
 ```typescript
-const loader = new GLTFLoader();
+function onSelect() {
+	if (reticle.visible && !modelLoaded) {
+		loader.load(
+			"GM_poly.gltf",
+			function (gltf) {
+				gltf.scene.children[0].position.setFromMatrixPosition(reticle.matrix);
+				scene.add(gltf.scene);
+				modelLoaded = true;
+			},
+			undefined,
+			function (error) {
+				console.error(error);
+			}
+		);
+	}
+}
+```
 
-loader.load( 'path/to/model.glb', function ( gltf ) {
+We can add event callbacks for loading manager.
 
-	scene.add( gltf.scene );
+```typescript
+manager.onStart = function (url, itemsLoaded, itemsTotal) {
+	console.log("Started loading file: " + url + ".\nLoaded " + itemsLoaded + " of " + itemsTotal + " files.");
+};
 
-}, undefined, function ( error ) {
+manager.onLoad = function () {
+	console.log("Loading complete!");
+};
 
-	console.error( error );
+manager.onProgress = function (url, itemsLoaded, itemsTotal) {
+	console.log("Loading file: " + url + ".\nLoaded " + itemsLoaded + " of " + itemsTotal + " files.");
+};
 
-} );
+manager.onError = function (url) {
+	console.log("There was an error loading " + url);
+};
+
 ```
 
 See [GLTFLoader documentation](https://threejs.org/docs/index.html#examples/en/loaders/GLTFLoader) for further details.
