@@ -16,7 +16,12 @@ description: A-Frame and Project Resources
 * Gltf Viewer: [https://gltf-viewer.donmccurdy.com/](https://gltf-viewer.donmccurdy.com/)
 * RapidCompact Mesh Optimizer: [https://rapidcompact.com/](https://rapidcompact.com/)
 * VArtiste Texture Painting Tool: [https://vartiste.xyz/](https://vartiste.xyz/)
-* VArtiste Tutorial: [https://www.youtube.com/watch?v=36OYFO4slAs&t=16s&ab\_channel=MozillaMixedReality](https://www.youtube.com/watch?v=36OYFO4slAs&t=16s&ab_channel=MozillaMixedReality)
+* VArtiste Tutorial: 
+
+{% embed url="https://www.youtube.com/watch?v=36OYFO4slAs&t=16s&ab\_channel=MozillaMixedReality" %}
+
+
+
 * Skies texture: [https://www.cgskies.com/](https://www.cgskies.com/)
 
 
