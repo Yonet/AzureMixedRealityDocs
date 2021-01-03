@@ -4,3 +4,5 @@
 
 Find the related links document: [**bit.ly/webstreet**](http://bit.ly/webstreet)**.**
 
+Find the links on [Resources](../resources.md).
+
