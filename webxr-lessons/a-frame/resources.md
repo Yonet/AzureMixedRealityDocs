@@ -7,7 +7,7 @@ description: A-Frame and Project Resources
 
 
 * A-Frame Documentation: [http://aframe.io/](http://aframe.io/)
-* A-Frame VR game examples: [**https://dseffects.com/vr/games.php**](https://dseffects.com/vr/games.php)
+* A-Frame VR game examples: [https://dseffects.com/vr/games.php](https://dseffects.com/vr/games.php)
 * WebXR Input Profiles: [https://github.com/immersive-web/webxr-input-profiles](https://github.com/immersive-web/webxr-input-profiles)
 * A-Frame Ocean Example: [http://codevember-19-ocean.glitch.me/](http://codevember-19-ocean.glitch.me/)
 * 3D Assets: https://github.com/Yonet/MixedRealityResources\#assets
