@@ -1,2 +1,2 @@
-# Introduction to WebXR Device APIs
+# WebXR Device APIs
 
