@@ -209,6 +209,7 @@
     * [Concepts](webxr-lessons/a-frame/concepts.md)
     * [Project](webxr-lessons/a-frame/project/README.md)
       * [Creating WebXR apps for Transportation with A-Frame](webxr-lessons/a-frame/project/creating-webxr-apps-for-transportation-with-a-frame.md)
+      * [Transportation Game](webxr-lessons/a-frame/project/transportation-game.md)
     * [What could go wrong?](webxr-lessons/a-frame/what-could-go-wrong.md)
     * [Resources](webxr-lessons/a-frame/resources.md)
   * [Babylon.js](webxr-lessons/babylon.js/README.md)
