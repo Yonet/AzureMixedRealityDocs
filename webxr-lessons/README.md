@@ -6,7 +6,7 @@ description: >-
 
 # WebXR Lessons
 
-Short link to WebXR Lessons: [http://bit.ly/WebXRCurriculum](http://bit.ly/WebXRCurriculum)
+Short link to WebXR Lessons: [www.learnwebxr.dev](www.learnwebxr.dev)
 
 Windows Mixed Reality JavaScript Documentation: [https://bit.ly/MixedRealityJavaScript](https://bit.ly/MixedRealityJavaScript)
 
