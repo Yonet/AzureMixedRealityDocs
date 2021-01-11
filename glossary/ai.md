@@ -6,9 +6,13 @@ A group of specialized mathematical functions that represent what a machine lear
 
 #### Classification
 
- A task in which a model must predict what specific known group\(s\) a new input might belong to.
+ A task in which a model must predict what specific known group\(s\) a new input might belong to.[ Read more](https://docs.microsoft.com/azure/machine-learning/algorithm-module-reference/multiclass-boosted-decision-tree?WT.mc_id=aiml-11552-ayyonet).
 
 #### Regression
 
- A task in which a model must predict a numerical value for a specific scenario. ****[Read more](https://docs.microsoft.com/azure/machine-learning/algorithm-module-reference/boosted-decision-tree-regression?WT.mc_id=aiml-11552-ayyonet)
+ A task in which a model must predict a numerical value for a specific scenario. ****[Read more](https://docs.microsoft.com/azure/machine-learning/algorithm-module-reference/boosted-decision-tree-regression?WT.mc_id=aiml-11552-ayyonet).
+
+#### Confidence
+
+ Certainty level of the result driven in percentages.
 
