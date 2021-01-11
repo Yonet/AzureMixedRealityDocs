@@ -262,5 +262,6 @@
 * [Glossary](glossary/README.md)
   * [AI](glossary/ai.md)
   * [Mixed Reality](glossary/mixed-reality.md)
+  * [Computer Science](glossary/computer-science.md)
 * [How to contribute?](how-to-contribute.md)
 
