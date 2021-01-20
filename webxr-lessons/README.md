@@ -8,7 +8,7 @@ description: >-
 
 Short link to WebXR Lessons: [www.learnwebxr.dev](www.learnwebxr.dev)
 
-Windows Mixed Reality JavaScript Documentation: [https://bit.ly/MixedRealityJavaScript](https://bit.ly/MixedRealityJavaScript)
+Windows Mixed Reality JavaScript Documentation: [aka.ms/WebXR](http://aka.ms/WebXR)
 
 ### Why web is important for Mixed Reality Development?
 
