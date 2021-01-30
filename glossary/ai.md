@@ -16,3 +16,7 @@ A group of specialized mathematical functions that represent what a machine lear
 
  Certainty level of the result driven in percentages.
 
+| Term | Definition |
+| :--- | :--- |
+| **Cross-lingual** |  **Cross**-**lingual** text mining is a general category denoting tasks and methods for accessing the information in sets of documents written in several languages, or whenever the language used to express an information need is different from the language of the documents. |
+
