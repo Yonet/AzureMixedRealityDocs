@@ -1,6 +1,6 @@
 # First Scene in Playground
 
-Playground is an online editor that you can write your code and view the results. We will create our scenes, save and share them on playground.
+We will create our scenes, save and share them on playground.
 
 ### BabylonJS Code
 
