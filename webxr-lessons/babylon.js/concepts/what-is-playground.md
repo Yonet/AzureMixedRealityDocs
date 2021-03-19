@@ -1,10 +1,10 @@
 # What is Playground?
 
-Playground is an **online editor** that you can write your code and view the results. 
+[Playground](https://playground.babylonjs.com/#) is an **online editor** that you can write your code and view the results. You can edit your code on the left hand side and see the result on the right. You can find more examples by clicking  examples ![](../../../.gitbook/assets/examples%20%281%29.svg) button on the top right menu and searching for concepts.
 
 ![Playground editor view with Example tab open](../../../.gitbook/assets/playground.png)
 
-{% embed url="https://playground.babylonjs.com/\#" caption="https://playground.babylonjs.com/\#" %}
+{% embed url="https://playground.babylonjs.com/\#" caption="Playground link: https://playground.babylonjs.com/\#" %}
 
 **Few things to note:**
 
