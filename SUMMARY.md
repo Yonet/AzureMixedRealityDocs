@@ -215,6 +215,8 @@
   * [Babylon.js](webxr-lessons/babylon.js/README.md)
     * [Concepts](webxr-lessons/babylon.js/concepts/README.md)
       * [What is BabylonJS?](webxr-lessons/babylon.js/concepts/what-is-babylonjs.md)
+      * [What is a scene?](webxr-lessons/babylon.js/concepts/what-is-a-scene.md)
+      * [What is Playground?](webxr-lessons/babylon.js/concepts/what-is-playground.md)
     * [Project](webxr-lessons/babylon.js/project/README.md)
       * [First Scene in Playground](webxr-lessons/babylon.js/project/first-scene-in-playground.md)
       * [How to Create a WebXR Augmented Reality App on Your Local Device](webxr-lessons/babylon.js/project/how-to-create-a-webxr-augmented-reality-app.md)
