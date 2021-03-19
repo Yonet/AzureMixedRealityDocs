@@ -66,17 +66,21 @@ We are creating a Box Mesh by calling BABYLON.MeshBuilder.CreateBox method with 
 
 ### Next Steps
 
-Learn more about Babylon.js on the [Babylon.js chapter](../../babylon.js/):
+Continue exploring **how to create a 3D scene with other libraries**
+
+{% page-ref page="threejs-scene.md" %}
+
+Keep working with **BabylonJS** and **dive deeper into WebXR** on the [Babylon.js chapter](../../babylon.js/):
 
 {% page-ref page="../../babylon.js/" %}
 
-Read more on [babylon.js documentation](https://doc.babylonjs.com/):
+Read more on [BabylonJS documentation](https://doc.babylonjs.com/):
 
 {% embed url="https://doc.babylonjs.com/" %}
 
 
 
-Browse [community babylon.js demos](https://www.babylonjs.com/community/):
+Browse [community BabylonJS demos](https://www.babylonjs.com/community/):
 
 {% embed url="https://www.babylonjs.com/community/" %}
 
