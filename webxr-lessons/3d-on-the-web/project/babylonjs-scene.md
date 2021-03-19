@@ -4,7 +4,7 @@ description: Basic Scene with a cube
 
 # BabylonJS Scene
 
-We will create our Babylon.js scene on Babylon Playground. Find out more about the editor on [What is playground?](../../babylon.js/concepts/what-is-playground.md) chapter.
+We will create our BabylonJS scene on Babylon Playground. Find out more about the editor on [What is playground?](../../babylon.js/concepts/what-is-playground.md) chapter.
 
 To create a basic Babylon.js scene, we initialize a **scene**, create **camera,** **light** and a **mesh** and return the scene object.
 
