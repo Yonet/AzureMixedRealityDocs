@@ -1,4 +1,4 @@
-# How to Create a WebXR Augmented Reality App on Your Local Device
+# How to Create a WebXR Augmented Reality App
 
 {% embed url="https://youtu.be/RaB\_Uyqx6Q4" caption="Getting started with WebXR Augmented Reality with BabylonJS" %}
 
