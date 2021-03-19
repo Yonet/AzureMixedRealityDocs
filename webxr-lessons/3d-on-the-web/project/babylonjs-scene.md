@@ -58,3 +58,23 @@ We are creating a Box Mesh by calling BABYLON.MeshBuilder.CreateBox method with 
 * [ ] Again, move mouse over the box and click & drag.
 * [ ] On the BABYLON.MeshBuilder.CreateBox method replace the empty object with this object: {width: 4, height: 2}. 
 
+### Next Steps
+
+Learn more about Babylon.js on the [Babylon.js chapter](../../babylon.js/):
+
+{% page-ref page="../../babylon.js/" %}
+
+Read more on [babylon.js documentation](https://doc.babylonjs.com/):
+
+{% embed url="https://doc.babylonjs.com/" %}
+
+
+
+Browse [community babylon.js demos](https://www.babylonjs.com/community/):
+
+{% embed url="https://www.babylonjs.com/community/" %}
+
+
+
+
+
