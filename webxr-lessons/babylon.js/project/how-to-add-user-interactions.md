@@ -67,5 +67,11 @@ Dragging an object in 6 [Degrees of Freedom](https://en.wikipedia.org/wiki/Six_d
 
 {% embed url="https://playground.babylonjs.com/\#5G9MC5" %}
 
+Solution
+
+{% embed url="https://playground.babylonjs.com/\#YEZPVT\#429" %}
+
+
+
 
 
