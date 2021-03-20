@@ -219,8 +219,6 @@
       * [What is a scene?](webxr-lessons/babylon.js/concepts/what-is-a-scene.md)
       * [What is Playground?](webxr-lessons/babylon.js/concepts/what-is-playground.md)
     * [Project](webxr-lessons/babylon.js/project/README.md)
-      * [Babylon Basics using Playground Web Editor](webxr-lessons/babylon.js/project/babylon-basics-using-playground-web-editor/README.md)
-        * [Untitled](webxr-lessons/babylon.js/project/babylon-basics-using-playground-web-editor/untitled.md)
       * [How to create your first Scene in Playground](webxr-lessons/babylon.js/project/first-scene-in-playground.md)
       * [What is an Arc Camera?](webxr-lessons/babylon.js/project/what-is-an-arc-camera.md)
       * [What is an Hemispheric Light?](webxr-lessons/babylon.js/project/what-is-an-hemispheric-light.md)
