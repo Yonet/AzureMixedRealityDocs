@@ -1,6 +1,38 @@
 # How to add user interactions?
 
-Dragging an object
+### Changing color with click event
+
+To change the color of our object with interactions, first we will add a material.
+
+```typescript
+    var boxMaterial = new BABYLON.StandardMaterial("material", scene);
+    boxMaterial.diffuseColor = BABYLON.Color3.Random();
+    box.material = boxMaterial;
+```
+
+Now we can add a click event and change the color and position with the click
+
+```typescript
+box.actionManager = new BABYLON.ActionManager(scene);
+    box.actionManager.registerAction(new BABYLON.ExecuteCodeAction(
+    BABYLON.ActionManager.OnPickTrigger, 
+    function (evt) {
+        var sourceBox = evt.meshUnderPointer;
+        
+        //move the box upright
+        sourceBox.position.x += 0.1;
+        sourceBox.position.y += 0.1;
+
+        //update the color
+        boxMaterial.diffuseColor = BABYLON.Color3.Random();
+    }));
+```
+
+{% embed url="https://playground.babylonjs.com/\#KBS9I5\#4103" %}
+
+
+
+### Dragging an object
 
 ```typescript
     //Create pointerDragBehavior in the desired mode
@@ -30,6 +62,10 @@ Dragging an object
 
     sphere.addBehavior(pointerDragBehavior);
 ```
+
+{% embed url="https://playground.babylonjs.com/\#YEZPVT" %}
+
+Dragging an object in 6 [Degrees of Freedom](https://en.wikipedia.org/wiki/Six_degrees_of_freedom).
 
 {% embed url="https://playground.babylonjs.com/\#5G9MC5" %}
 
