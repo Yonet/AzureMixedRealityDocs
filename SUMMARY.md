@@ -227,8 +227,6 @@
       * [How to load a 3D model on Playground?](webxr-lessons/babylon.js/project/how-to-load-a-3d-model-on-playground.md)
       * [How to add user interactions?](webxr-lessons/babylon.js/project/how-to-add-user-interactions.md)
       * [How to add WebXR support?](webxr-lessons/babylon.js/project/how-to-add-webxr-support/README.md)
-        * [What are the WebXR Features?](webxr-lessons/babylon.js/project/how-to-add-webxr-support/what-are-the-webxr-features.md)
-        * [What is WebXR Experience Helper?](webxr-lessons/babylon.js/project/how-to-add-webxr-support/what-is-webxr-experience-helper.md)
         * [How to add Virtual Reality capabilities to your app?](webxr-lessons/babylon.js/project/how-to-add-webxr-support/how-to-add-virtual-reality-capabilities-to-your-app.md)
         * [How to test your WebXR app on an Android phone or Google Cardboard?](webxr-lessons/babylon.js/project/how-to-add-webxr-support/how-to-test-your-webxr-app-on-an-android-phone-or-google-cardboard.md)
         * [How to add Augmented Reality capabilities to your app?](webxr-lessons/babylon.js/project/how-to-add-webxr-support/how-to-add-augmented-reality-capabilities-to-your-app.md)

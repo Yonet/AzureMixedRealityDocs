@@ -28,9 +28,7 @@ box.actionManager = new BABYLON.ActionManager(scene);
     }));
 ```
 
-{% embed url="https://playground.babylonjs.com/\#KBS9I5\#4103" %}
-
-
+{% embed url="https://playground.babylonjs.com/\#KBS9I5\#4103" caption="Playground click event demo" %}
 
 ### Dragging an object
 
