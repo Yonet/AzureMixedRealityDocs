@@ -8,15 +8,9 @@ description: >-
 
 Wellcome to the introduction to WebXR Lessons. We will talk about: 
 
-* [ ] The fundamentals of **3D on the web** and the major **use cases**
-
 {% page-ref page="3d-on-the-web/" %}
 
-* [ ] [WebXR Device APIs](https://www.w3.org/TR/webxr/)
-
 {% page-ref page="introduction-to-webxr-device-apis/" %}
-
-* [ ] **JavaScript frameworks** that makes **3D** and **WebXR** development easy.
 
 {% page-ref page="a-frame/" %}
 
