@@ -234,6 +234,7 @@
       * [How to Create a WebXR Augmented Reality App on Your Local Device](webxr-lessons/babylon.js/project/how-to-create-a-webxr-augmented-reality-app.md)
     * [Resources](webxr-lessons/babylon.js/resources.md)
   * [WebXR Meetups](webxr-lessons/webxr-meetups.md)
+  * [Resources](webxr-lessons/resources.md)
 * [Unreal Engine Lessons](mixed-reality-using-unreal-engine/README.md)
   * [Blueprints](mixed-reality-using-unreal-engine/blueprints/README.md)
     * [Concepts](mixed-reality-using-unreal-engine/blueprints/concepts/README.md)
