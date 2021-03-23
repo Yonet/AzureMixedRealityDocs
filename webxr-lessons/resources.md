@@ -1,5 +1,15 @@
 # Resources
 
+### Immersive Web
+
+{% embed url="https://www.w3.org/TR/webxr/" caption="WebXR Device API" %}
+
+{% embed url="https://immersiveweb.dev/" caption="ImmersiveWeb.Dev" %}
+
+{% embed url="https://github.com/immersive-web" caption="W3C Immersive Web Github" %}
+
+{% embed url="https://www.w3.org/community/immersive-web/" caption="W3C Immersive Web Community Group " %}
+
 ### Tooling
 
 * Node.js [download](https://nodejs.org/en/download/)
@@ -25,13 +35,19 @@
 * ThreeJS [Discord](https://discord.gg/MQjXJDAN)
 * ThreeJS [Subreddit](https://www.reddit.com/r/threejs/)
 
-**Video Tutorials**
+### 
+
+### **Watch**
 
 {% embed url="https://frontendmasters.com/courses/3d-webxr/" %}
 
 {% embed url="https://www.youtube.com/c/WebXR" caption="WebXR YouTube Channel" %}
 
 {% embed url="https://www.youtube.com/c/WebXR/playlists?view=50&sort=dd&shelf\_id=2" caption="WebXR Tutorials Playlists" %}
+
+### **Read**
+
+{% embed url="https://immersivewebweekly.com/" caption="Immersive Web Weekly Newsletter" %}
 
 \*\*\*\*
 
