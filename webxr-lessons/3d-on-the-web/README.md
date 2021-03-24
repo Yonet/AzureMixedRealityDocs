@@ -10,7 +10,7 @@ World wide web allows anyone share their experiences with the world freely. With
 
 * [Concepts](concepts/)
   * [What is WebGL?](concepts/what-is-webgl.md)
-  * [How to work with 3 dimensions, 3D coordinates?](concepts/how-to-work-with-3-dimensions.md)
+  * [How to work with 3 dimensions, 3D coordinates?]()
   * [What is a Vertex?](concepts/what-is-a-vertex.md)
   * [What is a Normal in 3D?](concepts/what-is-a-normal-in-3d.md)
   * [What is Field of View?](concepts/what-is-field-of-view.md)
