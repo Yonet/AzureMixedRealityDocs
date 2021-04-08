@@ -12,3 +12,7 @@ If you are starting a new project, you can use the below [projects as a template
 
 Or you can follow the [Babylon TypeScript Webpack setup tutorial](https://doc.babylonjs.com/guidedLearning/createAGame/gettingSetUp?WT.mc_id=aiml-23095-ayyonet).
 
+### How to add BabylonJS to an existing project
+
+You can use your favorite tool like npm or yarn to add babylon packages. Find more information about [BabylonJS NPM packages on the documentation](https://doc.babylonjs.com/divingDeeper/developWithBjs/npmSupport?WT.mc_id=aiml-23095-ayyonet).
+
