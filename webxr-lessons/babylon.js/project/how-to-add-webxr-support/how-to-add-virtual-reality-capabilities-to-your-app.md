@@ -16,7 +16,7 @@ We can also add the WebXR directly to a loaded model without an environment.
 
 
 
-```text
+```typescript
 // Async call
 BABYLON.SceneLoader.Append("https://www.babylonjs.com/Scenes/Mansion/",
     "Mansion.babylon", scene, async function  () {

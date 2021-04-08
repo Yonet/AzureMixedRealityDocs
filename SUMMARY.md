@@ -233,7 +233,7 @@
         * [How to add Virtual Reality capabilities to your app?](webxr-lessons/babylon.js/project/how-to-add-webxr-support/how-to-add-virtual-reality-capabilities-to-your-app.md)
         * [How to test your WebXR app on an Android phone or Google Cardboard?](webxr-lessons/babylon.js/project/how-to-add-webxr-support/how-to-test-your-webxr-app-on-an-android-phone-or-google-cardboard.md)
         * [How to add Augmented Reality capabilities to your app?](webxr-lessons/babylon.js/project/how-to-add-webxr-support/how-to-add-augmented-reality-capabilities-to-your-app.md)
-      * [How to add BabylonJS to your local development project?](webxr-lessons/babylon.js/project/how-to-add-babylonjs-to-your-local-development-project.md)
+      * [How to setup a BabylonJS local development environment and project?](webxr-lessons/babylon.js/project/how-to-add-babylonjs-to-your-local-development-project.md)
       * [How to Create a WebXR Augmented Reality App on Your Local Device](webxr-lessons/babylon.js/project/how-to-create-a-webxr-augmented-reality-app.md)
     * [Resources](webxr-lessons/babylon.js/resources.md)
   * [WebXR Meetups](webxr-lessons/webxr-meetups.md)
