@@ -1,7 +1,5 @@
 # Project
 
-
-
 * [How to run the MRTK Hand Interaction examples in Unity editor?](../../../lessons/lesson-3/project/how-to-run-the-mrtk-hand-interaction-examples-in-unity-editor.md)
 * [How to organize your objects into a grid view?](../../../lessons/lesson-3/project/how-to-organize-your-objects-into-a-grid-view.md)
 * [How to add manipulation handler to your object?](../../../lessons/lesson-3/project/how-to-add-manipulation-handler-to-your-object.md)
