@@ -6,33 +6,51 @@ description: >-
 
 # WebXR Lessons
 
-WebXR Lessons: [www.learnwebxr.dev](www.learnwebxr.dev)
+WebXR Lessons: [www.learnwebxr.dev](https://www.learnwebxr.dev)
 
-Wellcome to the introduction to WebXR Lessons. We will talk about: 
+{% embed url="https://www.youtube.com/WebXR" %}
+WebXR YouTube Channel
+{% endembed %}
 
-{% page-ref page="3d-on-the-web/" %}
+Wellcome to the introduction to WebXR Lessons. We will talk about:&#x20;
 
-{% page-ref page="introduction-to-webxr-device-apis/" %}
+{% content-ref url="3d-on-the-web/" %}
+[3d-on-the-web](3d-on-the-web/)
+{% endcontent-ref %}
 
-{% page-ref page="a-frame/" %}
+{% content-ref url="introduction-to-webxr-device-apis/" %}
+[introduction-to-webxr-device-apis](introduction-to-webxr-device-apis/)
+{% endcontent-ref %}
 
-{% page-ref page="babylon.js/" %}
+{% content-ref url="a-frame/" %}
+[a-frame](a-frame/)
+{% endcontent-ref %}
 
-{% page-ref page="3d-on-the-web/project/threejs-scene.md" %}
+{% content-ref url="babylon.js/" %}
+[babylon.js](babylon.js/)
+{% endcontent-ref %}
+
+{% content-ref url="3d-on-the-web/project/threejs-scene.md" %}
+[threejs-scene.md](3d-on-the-web/project/threejs-scene.md)
+{% endcontent-ref %}
 
 ### Links
 
-Short link to WebXR Lessons: [www.learnwebxr.dev](www.learnwebxr.dev)
+Short link to WebXR Lessons: [www.learnwebxr.dev](https://www.learnwebxr.dev)
 
 ![www.learnwebxr.dev link QR code](../.gitbook/assets/learnxrdev.png)
 
 [FrontEndMasters WebXR Course](https://frontendmasters.com/courses/3d-webxr/):
 
-{% embed url="https://frontendmasters.com/courses/3d-webxr/" caption="FrontendMasters Introduction to 3D and WebXR Course" %}
+{% embed url="https://frontendmasters.com/courses/3d-webxr/" %}
+FrontendMasters Introduction to 3D and WebXR Course
+{% endembed %}
 
 Windows Mixed Reality JavaScript Documentation: [aka.ms/WebXR](http://aka.ms/WebXR)
 
-{% embed url="https://docs.microsoft.com/en-us/windows/mixed-reality/develop/web/webxr-overview?WT.mc\_id=aiml-0000-ayyonet" caption="Windows Mixed Reality WebXR Documentation" %}
+{% embed url="https://docs.microsoft.com/en-us/windows/mixed-reality/develop/web/webxr-overview?WT.mc_id=aiml-0000-ayyonet" %}
+Windows Mixed Reality WebXR Documentation
+{% endembed %}
 
 ### Why web is important for Mixed Reality Development?
 
@@ -48,4 +66,3 @@ Web is for all and web is always free. As a developer, you will always have the 
   * [How to Create a WebXR Augmented Reality App?](babylon.js/project/how-to-create-a-webxr-augmented-reality-app.md)
   * [How to Debug and Test Tour WebXR Applications with Crome Dev Tools?](introduction-to-webxr-device-apis/project/how-to-debug-and-test-your-webxr-application-with-chrome-dev-tools.md)
   * [What is the Lifecycle of a WebXR Application?](introduction-to-webxr-device-apis/concepts/what-is-the-lifecycle-of-a-webxr-application.md)
-
