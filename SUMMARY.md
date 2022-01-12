@@ -274,6 +274,7 @@
     * [How to Translate Speech](ai-lessons/ai-show-episode-46/how-to-translate-speech.md)
     * [What could go wrong?](ai-lessons/ai-show-episode-46/what-could-go-wrong.md)
     * [Tools](ai-lessons/ai-show-episode-46/tools.md)
+  * [AI Show Episode 48](ai-lessons/ai-show-episode-48.md)
 * [Exercises](exercises/README.md)
   * [Creating your first app](exercises/creating-your-first-app.md)
   * [Adding interactions](exercises/adding-interactions.md)
