@@ -8,13 +8,15 @@ Shortlink: [https://aka.ms/NoCodeAI](https://aka.ms/NoCodeAI)
 
 ![Android Power App using Custom Vision](../../../../.gitbook/assets/3ogmznk-imgur.gif)
 
-You might have an idea for an application using AI and not have anyone to build it. You might be a programmer and want to try out your ideas  and [Azure Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=aiml-8438-ayyonet) before you start writing code. No matter what your coding skills are, if you want to prototype an application with AI, [**Power Platform**](https://powerplatform.microsoft.com/?WT.mc_id=aiml-8438-ayyonet) and it's [**AI Builder** ](https://powerapps.microsoft.com/ai-builder/?WT.mc_id=aiml-8438-ayyonet)feature is a **fast** and **easy option**. 
+You might have an idea for an application using AI and not have anyone to build it. You might be a programmer and want to try out your ideas  and [Azure Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc\_id=aiml-8438-ayyonet) before you start writing code. No matter what your coding skills are, if you want to prototype an application with AI, [**Power Platform**](https://powerplatform.microsoft.com/?WT.mc\_id=aiml-8438-ayyonet) and it's [**AI Builder** ](https://powerapps.microsoft.com/ai-builder/?WT.mc\_id=aiml-8438-ayyonet)feature is a **fast** and **easy option**.&#x20;
 
-This article explains what the power platform is as well as goes through a step by step process to create an app that detects objects from photos using [**Power Apps**](https://docs.microsoft.com/en-us/powerapps/maker/signup-for-powerapps?WT.mc_id=aiml-8438-ayyonet) and [**AI Builder.**](https://docs.microsoft.com/powerapps/use-ai-builder?WT.mc_id=aiml-8438-ayyonet) ****Check out the video below to see the app we will build to detect different [Mixed Reality](https://docs.microsoft.com/windows/mixed-reality/discover/mixed-reality?WT.mc_id=aiml-8438-ayyonet) Headsets such as HoloLens version 1 and 2 Augmented Reality and Virtual Reality headsets and their hand controllers.
+This article explains what the power platform is as well as goes through a step by step process to create an app that detects objects from photos using [**Power Apps**](https://docs.microsoft.com/en-us/powerapps/maker/signup-for-powerapps?WT.mc\_id=aiml-8438-ayyonet) and [**AI Builder.**](https://docs.microsoft.com/powerapps/use-ai-builder?WT.mc\_id=aiml-8438-ayyonet) **** Check out the video below to see the app we will build to detect different [Mixed Reality](https://docs.microsoft.com/windows/mixed-reality/discover/mixed-reality?WT.mc\_id=aiml-8438-ayyonet) Headsets such as HoloLens version 1 and 2 Augmented Reality and Virtual Reality headsets and their hand controllers.
 
 Read or skip through the questions to learn how to build your first Power App with AI features.
 
-{% embed url="https://youtu.be/VXD5ma2ZExw" caption="Object Detection App made with Power Apps" %}
+{% embed url="https://youtu.be/VXD5ma2ZExw" %}
+Object Detection App made with Power Apps
+{% endembed %}
 
 * [What is Power Platform?](what-is-power-platform.md)
   * [What are Power Apps?](what-is-power-platform.md#what-are-power-apps)
@@ -38,7 +40,5 @@ Read or skip through the questions to learn how to build your first Power App wi
   * [How to compare costs for Power Apps and Logic Apps?](where-to-go-next.md#how-to-compare-costs-for-power-apps-and-logic-apps)
 * [AI and Cognitive Services Resources](../../ai-and-cognitive-services-resources.md)
 
-#### 
-
-
+####
 

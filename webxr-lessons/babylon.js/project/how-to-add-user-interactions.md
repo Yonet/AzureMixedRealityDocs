@@ -28,7 +28,9 @@ box.actionManager = new BABYLON.ActionManager(scene);
     }));
 ```
 
-{% embed url="https://playground.babylonjs.com/\#KBS9I5\#4103" caption="Playground click event demo" %}
+{% embed url="https://playground.babylonjs.com/#KBS9I5#4103" %}
+Playground click event demo
+{% endembed %}
 
 ### Dragging an object
 
@@ -61,17 +63,15 @@ box.actionManager = new BABYLON.ActionManager(scene);
     sphere.addBehavior(pointerDragBehavior);
 ```
 
-{% embed url="https://playground.babylonjs.com/\#YEZPVT" %}
+{% embed url="https://playground.babylonjs.com/#YEZPVT" %}
 
-Dragging an object in 6 [Degrees of Freedom](https://en.wikipedia.org/wiki/Six_degrees_of_freedom).
+Dragging an object in 6 [Degrees of Freedom](https://en.wikipedia.org/wiki/Six\_degrees\_of\_freedom).
 
-{% embed url="https://playground.babylonjs.com/\#5G9MC5" %}
+{% embed url="https://playground.babylonjs.com/#5G9MC5" %}
 
 Solution
 
-{% embed url="https://playground.babylonjs.com/\#YEZPVT\#429" %}
-
-
+{% embed url="https://playground.babylonjs.com/#YEZPVT#429" %}
 
 
 

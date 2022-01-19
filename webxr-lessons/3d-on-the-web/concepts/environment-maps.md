@@ -1,6 +1,6 @@
 # Environment Maps
 
-{% embed url="https://threejs.org/examples/\#webgl\_materials\_envmaps" caption="ThreeJS Material Environment example" %}
-
-
+{% embed url="https://threejs.org/examples/#webgl_materials_envmaps" %}
+ThreeJS Material Environment example
+{% endembed %}
 
