@@ -11,7 +11,7 @@ BABYLON.SceneLoader.ImportMeshAsync("model1", "/relative path/", "myFile");
 BABYLON.SceneLoader.ImportMeshAsync(["model1", "model2"], "/relative path/", "myFile"); 
 ```
 
-Loading takes time and is asynchronous. When we call the function, web browser gives us back a "[Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)" that it will give us a result when the loading is complete. Now we can call the can let the browser know what we want to do when the loading is complete inside the .then\(whatToDoWhenModelLoadedFunction\). We call this function a **callback functions**.
+Loading takes time and is asynchronous. When we call the function, web browser gives us back a "[Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Promise)" that it will give us a result when the loading is complete. Now we can call the can let the browser know what we want to do when the loading is complete inside the .then(whatToDoWhenModelLoadedFunction). We call this function a **callback functions**.
 
 Below example loads all the models in the path and changes the position.
 
@@ -24,7 +24,9 @@ Below example loads all the models in the path and changes the position.
     });
 ```
 
-{% embed url="https://playground.babylonjs.com/\#YNEAUL\#13" caption="Playground loading models example" %}
+{% embed url="https://playground.babylonjs.com/#YNEAUL#13" %}
+Playground loading models example
+{% endembed %}
 
 ### Exercise:
 
@@ -41,6 +43,4 @@ Below example loads all the models in the path and changes the position.
         console.log("House2 is ", house2);
     });
 ```
-
-
 

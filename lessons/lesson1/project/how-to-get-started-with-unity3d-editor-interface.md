@@ -10,21 +10,21 @@ The Unity Editor has **four main sections:**
 
 ![Unity3D Editor Interface ](../../../.gitbook/assets/unityeditor.webp)
 
-####  Scene view 
+#### &#x20;Scene view&#x20;
 
 This is where you can edit the current Scene by selecting and moving objects in the 3D space for the game. In this kit, the game level is contained in one Scene.
 
-#### Hierarchy window 
+#### Hierarchy window&#x20;
 
 This is a list of all the GameObjects in a Scene. Every object in your game is a GameObject. These can be placed in a parent-child hierarchy, which lets you group objects — this means that when the parent object is moved, all of its children will move at the same time.
 
-#### Inspector window 
+#### Inspector window&#x20;
 
 This display all settings related to the currently selected object. You will explore this window more during the walkthrough.
 
-#### Project window 
+#### Project window&#x20;
 
-This is where you manage your Project Assets. Assets are the media files used in a Project \(for example, images, 3D models and sound files\). The Project window acts like a file explorer, and it can be used to explore and create folders on your computer. When the walkthrough asks you to find an Asset at a given file path, use this window.
+This is where you manage your Project Assets. Assets are the media files used in a Project (for example, images, 3D models and sound files). The Project window acts like a file explorer, and it can be used to explore and create folders on your computer. When the walkthrough asks you to find an Asset at a given file path, use this window.
 
 **TIP**: If your Editor layout doesn’t match the image above, use the **layout drop-down** menu at the top right of the toolbar to select **Default**.
 
@@ -38,15 +38,15 @@ The toolbar includes a range of useful tool buttons to help you design and test 
 
 ### Play Buttons
 
-#### Play 
+#### Play&#x20;
 
-Play is used to test the Scene which is currently loaded in the Hierarchy window, and enables you to try out your game live in the Editor. 
+Play is used to test the Scene which is currently loaded in the Hierarchy window, and enables you to try out your game live in the Editor.&#x20;
 
-#### Pause 
+#### Pause&#x20;
 
 Pause, as you have probably guessed, allows you to pause the game playing in the Game window. This helps you spot visual problems or gameplay issues that you wouldn’t otherwise see.
 
-#### Step 
+#### Step&#x20;
 
 Step is used to walk through the paused Scene frame by frame. This works really well when you’re looking for live changes in the game world that it would be helpful to see in real time.
 
@@ -94,7 +94,7 @@ This tool enables you to **move**, **rotate**, or **scale** GameObjects, but is 
 
 ### Focusing on GameObject
 
-![Focusing on an GameObject Keyboard Shortcut: F](../../../.gitbook/assets/gifmaker_20200121133521683.gif)
+![Focusing on an GameObject Keyboard Shortcut: F](../../../.gitbook/assets/gifmaker\_20200121133521683.gif)
 
 Another useful shortcut is the **F** key, which enables you to focus on a selected object. If you forget where a GameObject is in your Scene, select it in the Hierarchy. Then, move your cursor over the Scene view and press **F to center** it.
 
@@ -105,6 +105,4 @@ When you’re in the Scene view, you can also do the following:
 * Left click to select your GameObject in the Scene.
 * Middle click and drag to move the Scene view’s camera using the hand tool.
 
- For more advice on moving GameObjects in the Scene view, see [Scene View Navigation](https://docs.unity3d.com/Manual/SceneViewNavigation.html) in the Manual.  
-
-
+&#x20;For more advice on moving GameObjects in the Scene view, see [Scene View Navigation](https://docs.unity3d.com/Manual/SceneViewNavigation.html) in the Manual.\

@@ -1,17 +1,19 @@
 # What is Playground?
 
-[Playground](https://playground.babylonjs.com/#) is an **online editor** that you can write your code and view the results. You can edit your code on the left hand side and see the result on the right. You can find more examples by clicking  examples ![](../../../.gitbook/assets/examples%20%281%29.svg) button on the top right menu and searching for concepts.
+[Playground](https://playground.babylonjs.com/#) is an **online editor** that you can write your code and view the results. You can edit your code on the left hand side and see the result on the right. You can find more examples by clicking  examples ![](<../../../.gitbook/assets/examples (1).svg>) button on the top right menu and searching for concepts.
 
 ![Playground editor view with Example tab open](../../../.gitbook/assets/playground.png)
 
-{% embed url="https://playground.babylonjs.com/\#" caption="Playground link: https://playground.babylonjs.com/\#" %}
+{% embed url="https://playground.babylonjs.com/#" %}
+Playground link: https://playground.babylonjs.com/#
+{% endembed %}
 
 **Few things to note:**
 
 * Experimenting and changing any code in the playground and clicking on the **Run** button will **run your code**. Running the code will not affect any original code in the playground you are currently using. Original **code can be restored by refreshing the browser.**
-* You need to **save your changes** to create a new version of the the code in Playground. That way, you can share the link with anyone. 
+* You need to **save your changes** to create a new version of the the code in Playground. That way, you can share the link with anyone.&#x20;
 
-#### Large Screen <a id="large-screen"></a>
+#### Large Screen <a href="#large-screen" id="large-screen"></a>
 
 * **Title and Version**: As stated.
 * **Language**: Typescript/JavaScript switch.
@@ -19,7 +21,7 @@
 * **Save** ![save](../../../.gitbook/assets/save.svg): Causes your scene to be permanently stored in the playground's database and it will issue a unique URL for each save. On save you will be asked to complete the metadata so that it can be searched for. Once saved it is a good idea to bookmark the page so you can return to it later. You could then share the URL with others, for example, if it is not working as you expect you can ask a question in the forum along with the link to your playground.
 * **Download** ![zip](../../../.gitbook/assets/download.svg): Allows you to download a zip file named _sample.zip_. Once downloaded and unzipped, you will see a file named `index.html` which contains everything necessary to run the code in your browser, including links to external _babylon.js_ and other files.
 * **New** ![new](../../../.gitbook/assets/new.svg): Places a basic `createScene()` function into the editor along with code to initialise the scene variable and provide a camera.
-* **Clear** ![clear](../../../.gitbook/assets/clear%20%281%29.svg): Empties all the code out of the playground editor. You could then paste in any createScene function you are working on locally.
+* **Clear** ![clear](<../../../.gitbook/assets/clear (1).svg>): Empties all the code out of the playground editor. You could then paste in any createScene function you are working on locally.
 * **Settings** ![set](../../../.gitbook/assets/options.svg): The Settings button has a sub menu with extra options
   * _Theme_: Choose the theme for the playground
   * _Font size_: Set the font size in the editor.
@@ -34,13 +36,11 @@
 * **Version** ![](../../../.gitbook/assets/screen-shot-2021-03-19-at-3.14.25-pm.png) : Allows and shows your choice of the BABYLON.js framework, either the current stable one or the latest preview version.
 * **Examples** ![examples](../../../.gitbook/assets/examples.svg): A drop down menu giving examples of playgrounds with a search filter.
 
-#### Small Screens <a id="small-screens"></a>
+#### Small Screens <a href="#small-screens" id="small-screens"></a>
 
 * **Menu** : Contains Run, New, Clear, Save and Zip as submenus.
 * **Code** : Bottom Left Corner - switch to Code View and Editor.
 * **Scene** : Bottom Right Corner - switch to Scene View.
-
-
 
 
 

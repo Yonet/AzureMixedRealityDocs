@@ -6,7 +6,9 @@ description: HoloLens 2 and Windows Mixed Reality Headset project using Bing Map
 
 In this project we will create a 3D map visualization as shown in the video below:
 
-{% embed url="https://youtu.be/c9hdZA8Oag0" caption="Bing 3D map visualization project." %}
+{% embed url="https://youtu.be/c9hdZA8Oag0" %}
+Bing 3D map visualization project.
+{% endembed %}
 
 Follow along the next steps or answer the questions below to see if you can skip some of the steps.
 
@@ -22,4 +24,3 @@ Follow along the next steps or answer the questions below to see if you can skip
 * [How to add pins using the MapPinLayer?](how-to-add-pins-using-the-mappinlayer.md)
 * [How to cluster map pins for larger data-sets?](what-is-clustering-map-pins-means.md)
 * [What are the different considerations, settings you need for Virtual Reality vs Augmented Reality?](what-are-the-different-considerations-settings-you-need-for-virtual-reality-vs-augmented-reality.md)
-
