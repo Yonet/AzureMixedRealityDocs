@@ -20,10 +20,9 @@ const createScene =  () => {
 }
 ```
 
-{% embed url="https://playground.babylonjs.com/#KBS9I5#158" %}
-BabylonJS Playground Demo Link
-{% endembed %}
+{% embed url="https://playground.babylonjs.com/\#KBS9I5\#158" caption="BabylonJS Playground Demo Link" %}
 
 {% hint style="info" %}
 **Scene** object gets **engine** as the input argument. You don't have to worry about the engine when you are working on the playground but when you are working on your local code sample, we will create the engine as well.
 {% endhint %}
+

@@ -1,6 +1,6 @@
 # Subsurface Scattering
 
-{% embed url="https://threejs.org/examples/#webgl_materials_subsurface_scattering" %}
-ThreeJS Subsurface scattering
-{% endembed %}
+{% embed url="https://threejs.org/examples/\#webgl\_materials\_subsurface\_scattering" caption="ThreeJS Subsurface scattering" %}
+
+
 

@@ -12,13 +12,14 @@ Short link: [aka.ms/UnityIntroToMixedReality](https://aka.ms/UnityIntroToMixedRe
 
 ### Overview
 
-In this lesson, you will learn about the **basic concepts** of **Mixed Reality** and explore the **applications of Mixed Reality** in different **industries**.&#x20;
+In this lesson, you will learn about the **basic concepts** of **Mixed Reality** and explore the **applications of Mixed Reality** in different **industries**. 
 
 In the **Project** section, you will set up your first Mixed Reality project using **Unity** and **Mixed Reality Tool Kit**.
 
-You can jump directly into setting up your first project on the [How to get started with mixed reality development using Unity3D section](project/how-to-get-started-with-mixed-reality-development-using-unity.md).&#x20;
+You can jump directly into setting up your first project on the [How to get started with mixed reality development using Unity3D section](project/how-to-get-started-with-mixed-reality-development-using-unity.md). 
 
-* ****[**Concepts**](concepts/)****
-* ****[**Project**](project/)****
-* ****[**What could go wrong?**](what-could-go-wrong.md)****
-* ****[**Resources**](mixed-reality-resources.md)****
+* \*\*\*\*[**Concepts**](concepts/)\*\*\*\*
+* \*\*\*\*[**Project**](project/)\*\*\*\*
+* \*\*\*\*[**What could go wrong?**](what-could-go-wrong.md)\*\*\*\*
+* \*\*\*\*[**Resources**](mixed-reality-resources.md)\*\*\*\*
+

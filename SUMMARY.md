@@ -238,6 +238,7 @@
       * [Babylon.js AR scene](webxr-lessons/babylon.js/project/babylon.js-ar-scene.md)
       * [Add Speech SDK](webxr-lessons/babylon.js/project/add-speech-sdk.md)
       * [Server](webxr-lessons/babylon.js/project/server.md)
+      * [Page 1](webxr-lessons/babylon.js/project/page-1.md)
       * [Token Util](webxr-lessons/babylon.js/project/token-util.md)
     * [Resources](webxr-lessons/babylon.js/resources.md)
   * [WebXR Meetups](webxr-lessons/webxr-meetups.md)

@@ -4,13 +4,11 @@ description: AFrame declarative way to create a 3D scene
 
 # AFrame Scene
 
-[AFrame](https://aframe.io), simplifies creating a 3D scene by giving us a way to define our scene as html elements. Under the hood AFrame uses Three.js to do the same thing but allows you to change elements through attributes.&#x20;
+[AFrame](https://aframe.io/), simplifies creating a 3D scene by giving us a way to define our scene as html elements. Under the hood AFrame uses Three.js to do the same thing but allows you to change elements through attributes. 
 
-{% embed url="https://glitch.com/edit/#!/aframe?path=index.html%3A17%3A7" %}
-AFrame code sample link on Glitch
-{% endembed %}
+{% embed url="https://glitch.com/edit/\#!/aframe?path=index.html%3A17%3A7" caption="AFrame code sample link on Glitch" %}
 
-```
+```text
   <body>
     <a-scene background="color: #FAFAFA">
       <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9" shadow></a-box>
@@ -21,6 +19,7 @@ AFrame code sample link on Glitch
   </body>
 ```
 
-With a frame you can create a scene using \<a-scene> html tag and nest the objects tags inside the scene. As a person who is used to working with Canvas and JavaScript, this is confusing to me but I can see why it is easier for some.&#x20;
+With a frame you can create a scene using &lt;a-scene&gt; html tag and nest the objects tags inside the scene. As a person who is used to working with Canvas and JavaScript, this is confusing to me but I can see why it is easier for some. 
 
-Good news is, you can use Three.js to further create interactions for your AFrame scenes.&#x20;
+Good news is, you can use Three.js to further create interactions for your AFrame scenes. 
+

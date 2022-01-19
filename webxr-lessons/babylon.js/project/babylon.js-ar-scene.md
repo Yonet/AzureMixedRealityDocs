@@ -1,5 +1,78 @@
 # Babylon.js AR scene
 
+* [ ] Create a Babylon.js scene
+
+```javascript
+    createScene = async (
+        engine: Engine,
+        canvas: HTMLCanvasElement
+    ): Promise<Scene> => {
+        // This creates a basic Babylon Scene object (non-mesh)
+        const scene = new Scene(engine);
+```
+
+* [ ] Add camera
+
+```javascript
+        // This creates and positions a free camera (non-mesh)
+        const camera = new FreeCamera("camera1", new Vector3(0, 1, -5), scene);
+
+        // This targets the camera to scene origin
+        camera.setTarget(Vector3.Zero());
+
+        // This attaches the camera to the canvas
+        camera.attachControl(canvas, true);
+```
+
+* [ ] Add light
+
+```javascript
+        // This creates a light, aiming 0,1,0 - to the sky (non-mesh)
+        const light = new HemisphericLight("light", new Vector3(0, 1, 0), scene);
+
+        // Default intensity is 1. Let's dim the light a small amount
+        light.intensity = 0.7;
+```
+
+* [ ] Add Objects
+
+```javascript
+
+        // Our built-in 'sphere' shape.
+        const sphere = Mesh.CreateSphere(
+            "sphere", 32, 2,
+            scene
+        );
+
+        // Move the sphere upward 1/2 its height
+        sphere.position.y = 2;
+        sphere.position.z = 5;
+```
+
+* [ ] Add Material
+
+```javascript
+        // Load a texture to be used as the ground material
+        const groundMaterial = new StandardMaterial("ground material", scene);
+        groundMaterial.diffuseTexture = new Texture(grassTextureUrl, scene);
+        // Assign it to an object like sphere.material = groundMaterial;
+```
+
+* [ ] Add WebXR
+
+```javascript
+        const xr = await scene.createDefaultXRExperienceAsync({
+            // ask for an ar-session
+            uiOptions: {
+                sessionMode: "immersive-ar",
+                referenceSpaceType: "local-floor"
+            },
+            optionalFeatures: true,
+        });
+
+        const featuresManager = xr.baseExperience.featuresManager;
+```
+
 ```javascript
 import { Engine } from "@babylonjs/core/Engines/engine";
 import { Scene } from "@babylonjs/core/scene";
@@ -58,8 +131,8 @@ export class DefaultSceneWithTexture implements CreateSceneClass {
         // Load a texture to be used as the ground material
         const groundMaterial = new StandardMaterial("ground material", scene);
         groundMaterial.diffuseTexture = new Texture(grassTextureUrl, scene);
-
         // ground.material = groundMaterial;
+        
         // eslint-disable-next-line @typescript-eslint/no-unused-vars
         const xr = await scene.createDefaultXRExperienceAsync({
             // ask for an ar-session

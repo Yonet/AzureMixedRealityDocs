@@ -379,4 +379,5 @@ public class AzureSpatialAnchorsScript : MonoBehaviour
 }
 ```
 
-Now you can follow the [build tutorial for HoloLens](https://docs.microsoft.com/windows/mixed-reality/exporting-and-building-a-unity-visual-studio-solution?WT.mc\_id=github-mixedrealitycurriculum-ayyonet) and start creating anchors in your environment.
+Now you can follow the [build tutorial for HoloLens](%20https://docs.microsoft.com/windows/mixed-reality/exporting-and-building-a-unity-visual-studio-solution?WT.mc_id=github-mixedrealitycurriculum-ayyonet) and start creating anchors in your environment.
+

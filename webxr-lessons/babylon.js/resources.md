@@ -20,3 +20,6 @@ BabylonJS WebXR Documentation
 WebXR YouTube Channel
 {% endembed %}
 
+{% embed url="https://youtu.be/KD5ZTy05Lao" %}
+AI Show Live
+{% endembed %}
