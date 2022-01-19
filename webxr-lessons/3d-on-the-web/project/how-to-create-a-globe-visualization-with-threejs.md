@@ -18,7 +18,7 @@ Checkout the example below to see how bump map creates more realistic results.
 
 ![Bumpmap skin example](../../../.gitbook/assets/bumpmap.png)
 
-{% embed url="https://threejs.org/examples/?q=material#webgl_materials_bumpmap" %}
+{% embed url="https://threejs.org/examples/?q=material\#webgl\_materials\_bumpmap" %}
 
 
 
@@ -47,3 +47,4 @@ const material = new MeshPhongMaterial({
 * [ ] Add animation slightly faster than earth.
 
 To see how to map real time tweet location data to your globe using web sockets, check out [Tweet Migration project](https://github.com/Yonet/TweetMigration).
+

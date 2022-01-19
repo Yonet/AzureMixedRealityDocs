@@ -10,13 +10,13 @@
     });
 ```
 
-{% embed url="https://playground.babylonjs.com/#KDWCZY" %}
-BabylonJS Augmented Reality Example
-{% endembed %}
+{% embed url="https://playground.babylonjs.com/\#KDWCZY" caption="BabylonJS Augmented Reality Example" %}
 
 WebXR Chrome Dev Tools Testing
 
-{% embed url="https://youtu.be/RaB_Uyqx6Q4?t=1066" %}
+{% embed url="https://youtu.be/RaB\_Uyqx6Q4?t=1066" %}
+
+
 
 
 

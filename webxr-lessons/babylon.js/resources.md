@@ -23,3 +23,5 @@ WebXR YouTube Channel
 {% embed url="https://youtu.be/KD5ZTy05Lao" %}
 AI Show Live
 {% endembed %}
+
+{% embed url="https://brianzinn.github.io/react-babylonjs?path=%2Fstory%2Fmodels--look-at-story" %}

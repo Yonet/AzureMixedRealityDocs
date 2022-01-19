@@ -1,8 +1,8 @@
 # Normal Maps
 
-![Normal maps does not contain height information](../../../.gitbook/assets/diagram\_normalmap.jpg)
+![Normal maps does not contain height information](../../../.gitbook/assets/diagram_normalmap.jpg)
 
-{% embed url="https://threejs.org/examples/#webgl_materials_normalmap" %}
-ThreeJS Normal Maps demo
-{% endembed %}
+{% embed url="https://threejs.org/examples/\#webgl\_materials\_normalmap" caption="ThreeJS Normal Maps demo" %}
+
+
 
