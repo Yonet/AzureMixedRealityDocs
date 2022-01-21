@@ -269,6 +269,7 @@
   * [Speech](ai-lessons/speech/README.md)
     * [What's the problem we are solving?](ai-lessons/speech/whats-the-problem-we-are-solving.md)
     * [Where to get started?](ai-lessons/speech/where-to-get-started.md)
+    * [Creating an Azure Resource](ai-lessons/speech/creating-an-azure-resource.md)
     * [How to make the Speech API call?](ai-lessons/speech/how-to-make-the-speech-api-call.md)
     * [How to transcribe Speech](ai-lessons/speech/how-to-transcribe-speech.md)
     * [How to Translate Speech](ai-lessons/speech/how-to-translate-speech.md)
