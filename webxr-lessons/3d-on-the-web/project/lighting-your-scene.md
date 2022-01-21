@@ -1,6 +1,6 @@
 # Lighting your scene
 
-Lights can change our scenes drastically. Understanding lighting can help you create the effect you intend. 
+Lights can change our scenes drastically. Understanding lighting can help you create the effect you intend.&#x20;
 
 ![Without lights we have darkness](../../../.gitbook/assets/togglelight.png)
 
@@ -8,13 +8,17 @@ Lights can change our scenes drastically. Understanding lighting can help you cr
 
 ![Directional light creates shadows](../../../.gitbook/assets/directional.png)
 
-{% embed url="https://threejs.org/examples/\#webgl\_lights\_hemisphere" caption="ThreeJS Hemisphere and directional light example. " %}
+{% embed url="https://threejs.org/examples/#webgl_lights_hemisphere" %}
+ThreeJS Hemisphere and directional light example.&#x20;
+{% endembed %}
 
-{% embed url="https://threejs.org/examples/\#webgl\_shadowmap\_pointlight" caption="ThreeJS Point light example" %}
+{% embed url="https://threejs.org/examples/#webgl_shadowmap_pointlight" %}
+ThreeJS Point light example
+{% endembed %}
 
-{% embed url="https://threejs.org/examples/?q=point\#webgl\_lights\_pointlights" caption="Points lights example" %}
-
-
+{% embed url="https://threejs.org/examples/?q=point#webgl_lights_pointlights" %}
+Points lights example
+{% endembed %}
 
 
 
