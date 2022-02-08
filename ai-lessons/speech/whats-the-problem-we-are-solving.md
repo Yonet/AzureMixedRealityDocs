@@ -1,3 +1,7 @@
 # What's the problem we are solving?
 
-Define your the problem you want to solve.&#x20;
+Let's define your the problem you want to solve. We want to:
+
+* [ ] Automate scribing our meetings
+* [ ] Translate meeting to make it accessible to a wider international audience.
+

@@ -10,7 +10,7 @@ World wide web allows anyone share their experiences with the world freely. With
 Getting started with 3D on the Web&#x20;
 {% endembed %}
 
-* [Concepts](concepts/)
+* [Concepts](../a-frame/concepts.md)
   * [What is WebGL?](concepts/what-is-webgl.md)
   * [How to work with 3 dimensions, 3D coordinates?](broken-reference)
   * [What is a Vertex?](concepts/what-is-a-vertex.md)

@@ -20,5 +20,5 @@ In project section, we will create our first hand interactions to scale, move an
 
 * ****[**​Concepts​**](concepts/)****
 * ****[**​Project​**](project/)****
-* ****[**​What could go wrong?​**](what-could-go-wrong/)****
+* ****[**​What could go wrong?​**](../../ai-lessons/cognitive-services-best-practices/what-could-go-wrong.md)****
 * ****[**​Resources**](resources.md)****
