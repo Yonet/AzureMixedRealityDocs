@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Azure Mixed Reality Curriculum](README.md)
-* [What is the Metaverse?](what-is-the-metaverse.md)
+* [What is the Metaverse?](what-is-the-metaverse/README.md)
+  * [Microsoft Mesh](what-is-the-metaverse/microsoft-mesh.md)
 * [Unity Lessons](lessons/README.md)
   * [01 - Introduction to Mixed Reality](lessons/lesson1/README.md)
     * [Concepts](lessons/lesson1/concepts/README.md)
