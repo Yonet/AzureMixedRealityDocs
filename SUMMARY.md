@@ -212,6 +212,7 @@
     * [What could go wrong?](webxr-lessons/introduction-to-webxr-device-apis/what-could-go-wrong.md)
   * [A-Frame](webxr-lessons/a-frame/README.md)
     * [Concepts](webxr-lessons/a-frame/concepts.md)
+    * [Basic A-Frame Scene](webxr-lessons/a-frame/basic-a-frame-scene.md)
     * [Project](webxr-lessons/a-frame/project/README.md)
       * [Inclusive Apps with WebXR & AI](webxr-lessons/a-frame/project/inclusive-apps-with-webxr-and-ai.md)
       * [Creating WebXR apps for Transportation with A-Frame](webxr-lessons/a-frame/project/creating-webxr-apps-for-transportation-with-a-frame.md)
