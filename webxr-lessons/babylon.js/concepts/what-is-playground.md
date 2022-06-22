@@ -1,6 +1,6 @@
 # What is Playground?
 
-[Playground](https://playground.babylonjs.com) is an **online editor** that you can write your code and view the results. You can edit your code on the left hand side and see the result on the right. You can find more examples by clicking  examples <img src="../../../.gitbook/assets/examples (1).svg" alt="" data-size="line"> button on the top right menu and searching for concepts.
+[Playground](https://playground.babylonjs.com/#) is an **online editor** that you can write your code and view the results. You can edit your code on the left hand side and see the result on the right. You can find more examples by clicking  examples ![](<../../../.gitbook/assets/examples (1).svg>) button on the top right menu and searching for concepts.
 
 ![Playground editor view with Example tab open](../../../.gitbook/assets/playground.png)
 
@@ -33,7 +33,7 @@ Playground link: https://playground.babylonjs.com/#
   * _Minimap_: Display the minimap of the code editor.
   * _Inspector_: The checkbox toggles the playground scene inspector which shows a multitude of variable values.
   * _Metadata_: This is where you describe your playground allowing yourself and other to search the playground database for examples of use.
-* **Version** <img src="../../../.gitbook/assets/screen-shot-2021-03-19-at-3.14.25-pm.png" alt="" data-size="line"> : Allows and shows your choice of the BABYLON.js framework, either the current stable one or the latest preview version.
+* **Version** ![](../../../.gitbook/assets/screen-shot-2021-03-19-at-3.14.25-pm.png) : Allows and shows your choice of the BABYLON.js framework, either the current stable one or the latest preview version.
 * **Examples** ![examples](../../../.gitbook/assets/examples.svg): A drop down menu giving examples of playgrounds with a search filter.
 
 #### Small Screens <a href="#small-screens" id="small-screens"></a>

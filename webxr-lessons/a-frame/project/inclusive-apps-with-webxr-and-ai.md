@@ -20,6 +20,12 @@ Project is built on Immersive Web Co-chair [Ada Rose Cannon](https://twitter.com
 AR Starter Kit by [Ada Rose Cannon](https://glitch.com/@adarosecannon)
 {% endembed %}
 
+You can find more WebXR templates on Glitch WebXR Playlist
+
+{% embed url="https://glitch.com/@glitch/get-started-with-web-xr" %}
+Glitch WebXR Playlist of templates
+{% endembed %}
+
 {% embed url="https://turquoise-pastoral-gruyere.glitch.me/" %}
 Click to view the glitch project on VR or AR enabled mobile device
 {% endembed %}

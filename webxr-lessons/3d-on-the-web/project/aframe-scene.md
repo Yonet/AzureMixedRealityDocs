@@ -4,7 +4,7 @@ description: AFrame declarative way to create a 3D scene
 
 # AFrame Scene
 
-[AFrame](https://aframe.io/), simplifies creating a 3D scene by giving us a way to define our scene as html elements. Under the hood AFrame uses Three.js to do the same thing but allows you to change elements through attributes.&#x20;
+[AFrame](https://aframe.io), simplifies creating a 3D scene by giving us a way to define our scene as html elements. Under the hood AFrame uses Three.js to do the same thing but allows you to change elements through attributes.&#x20;
 
 {% embed url="https://glitch.com/edit/#!/aframe?path=index.html%3A17%3A7" %}
 AFrame code sample link on Glitch
