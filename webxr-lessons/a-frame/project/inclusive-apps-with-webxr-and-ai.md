@@ -6,7 +6,9 @@ description: >-
 
 # Inclusive Apps with WebXR & AI
 
-[https://bit.ly/XRWomenAI](https://bit.ly/XRWomenAI)
+Slides: [https://bit.ly/XRWomenAI](https://bit.ly/XRWomenAI)
+
+[https://www.w3.org/2022/04/immersive-worlds-workshop/](https://www.w3.org/2022/04/immersive-worlds-workshop/)
 
 ### Goals
 
