@@ -80,7 +80,7 @@ Keep working with **BabylonJS** and **dive deeper into WebXR** on the [Babylon.j
 [babylon.js](../../babylon.js/)
 {% endcontent-ref %}
 
-Read more on [BabylonJS documentation](https://doc.babylonjs.com):
+Read more on [BabylonJS documentation](https://doc.babylonjs.com/):
 
 {% embed url="https://doc.babylonjs.com/" %}
 
