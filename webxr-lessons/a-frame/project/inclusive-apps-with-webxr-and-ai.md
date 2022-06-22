@@ -20,6 +20,12 @@ Project is built on Immersive Web Co-chair [Ada Rose Cannon](https://twitter.com
 AR Starter Kit by [Ada Rose Cannon](https://glitch.com/@adarosecannon)
 {% endembed %}
 
+You can find Ada's XR Template on Github
+
+{% embed url="https://github.com/AdaRoseCannon/aframe-xr-boilerplate" %}
+Aframe-xr-boilerplate on Github by Ada Rose Cannon
+{% endembed %}
+
 You can find more WebXR templates on Glitch WebXR Playlist
 
 {% embed url="https://glitch.com/@glitch/get-started-with-web-xr" %}
