@@ -6,6 +6,8 @@ description: >-
 
 # Inclusive Apps with WebXR & AI
 
+[https://bit.ly/XRWomenAI](https://bit.ly/XRWomenAI)
+
 ### Goals
 
 * [ ] Introduction to WebXR concepts
