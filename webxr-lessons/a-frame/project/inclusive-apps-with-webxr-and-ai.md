@@ -12,6 +12,18 @@ description: >-
 * [ ] Exploring the potential applications of WebXR & AI for accessibility and better user experience
 * [ ] Lightweight introduction to A-Frame
 
+### WebXR
+
+State of WebXR APIs: [https://caniuse.com/?search=webxr](https://caniuse.com/?search=webxr)
+
+Mozilla Developer Network: [https://developer.mozilla.org/en-US/docs/Web/API/WebXR\_Device\_API](https://developer.mozilla.org/en-US/docs/Web/API/WebXR\_Device\_API)
+
+### AI Applications
+
+{% embed url="https://youtu.be/R2mC-NUAmMk" %}
+SeeingAI Microsoft Research video
+{% endembed %}
+
 ### Remix template for AR&#x20;
 
 Project is built on Immersive Web Co-chair [Ada Rose Cannon](https://twitter.com/AdaRoseCannon)'s AR starter project on Glitch. You can create a free account and make a copy of the AR Starter Kit project linked below by choosing Remix option. This will copy the project on to your account and you can start editing directly.&#x20;
