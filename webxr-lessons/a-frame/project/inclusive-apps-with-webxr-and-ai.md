@@ -39,5 +39,5 @@ Click to view the glitch project on VR or AR enabled mobile device
 Add Speech SDK by including the below script in html
 
 ```html
-<script src="microsoft.cognitiveservices.speech.sdk.bundle.js"></script>;
+ <script src="https://aka.ms/csspeech/jsbrowserpackageraw"></script>
 ```
