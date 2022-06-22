@@ -1,7 +1,5 @@
 # Basic A-Frame Scene
 
-Primitives are similar to [prefabs in Unity](https://docs.unity3d.com/Manual/Prefabs.html)
-
 ```html
 <!DOCTYPE html>
 <html>
@@ -19,6 +17,12 @@ Primitives are similar to [prefabs in Unity](https://docs.unity3d.com/Manual/Pre
   </body>
 </html>
 ```
+
+Primitives are similar to [prefabs in Unity](https://docs.unity3d.com/Manual/Prefabs.html). They abstract the core entity-component API to:
+
+* Pre-compose useful components together with prescribed defaults
+* Act as a shorthand for complex-but-common types of entities (e.g., `<a-sky>`)
+* Provide a familiar interface for beginners since A-Frame takes HTML in a new direction
 
 You can see the resulting page on Glitch
 
