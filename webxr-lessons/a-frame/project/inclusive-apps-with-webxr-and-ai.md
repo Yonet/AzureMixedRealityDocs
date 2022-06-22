@@ -8,7 +8,11 @@ description: >-
 
 Slides: [https://bit.ly/XRWomenAI](https://bit.ly/XRWomenAI)
 
-[https://www.w3.org/2022/04/immersive-worlds-workshop/](https://www.w3.org/2022/04/immersive-worlds-workshop/)
+{% embed url="https://www.w3.org/2022/04/immersive-worlds-workshop/" %}
+W3C Metaverse Workshop
+{% endembed %}
+
+[https://www.youtube.com/WebXR](https://www.youtube.com/WebXR)
 
 ### Goals
 
