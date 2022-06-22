@@ -16,6 +16,10 @@ description: >-
 
 State of WebXR APIs: [https://caniuse.com/?search=webxr](https://caniuse.com/?search=webxr)
 
+{% embed url="https://github.com/Yonet/MixedRealityResources#webxr" %}
+Mixed Reality Resources Repository
+{% endembed %}
+
 Mozilla Developer Network: [https://developer.mozilla.org/en-US/docs/Web/API/WebXR\_Device\_API](https://developer.mozilla.org/en-US/docs/Web/API/WebXR\_Device\_API)
 
 ### AI Applications
