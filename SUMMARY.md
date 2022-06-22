@@ -213,6 +213,7 @@
   * [A-Frame](webxr-lessons/a-frame/README.md)
     * [Concepts](webxr-lessons/a-frame/concepts.md)
     * [Project](webxr-lessons/a-frame/project/README.md)
+      * [AR Hit Test](webxr-lessons/a-frame/project/ar-hit-test.md)
       * [Creating WebXR apps for Transportation with A-Frame](webxr-lessons/a-frame/project/creating-webxr-apps-for-transportation-with-a-frame.md)
       * [Transportation Game](webxr-lessons/a-frame/project/transportation-game.md)
     * [What could go wrong?](webxr-lessons/a-frame/what-could-go-wrong.md)
